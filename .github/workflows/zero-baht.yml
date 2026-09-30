@@ -1,0 +1,37 @@
+name: Zero-Baht Autonomous Loop
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 1 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Validate foundation
+        run: python -m unittest discover -s tests -v
+
+      - name: Run autonomous engine
+        run: python -m engine.run
+
+      - name: Persist run artifacts
+        if: always()
+        run: |
+          git config user.name "zero-baht-bot"
+          git config user.email "zero-baht-bot@users.noreply.github.com"
+          git add data config
+          git diff --cached --quiet || git commit -m "chore: persist autonomous run artifacts"
+          git push

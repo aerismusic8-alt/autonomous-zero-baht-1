@@ -1,0 +1,8 @@
+{
+  "budget_thb": 0,
+  "max_items_per_feed": 20,
+  "max_drafts_per_run": 5,
+  "network_timeout_seconds": 12,
+  "max_feed_bytes": 2000000,
+  "max_retries_per_task": 2
+}

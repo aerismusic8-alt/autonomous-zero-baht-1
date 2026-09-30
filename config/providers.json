@@ -1,0 +1,6 @@
+{
+  "policy": "free-only",
+  "providers": [],
+  "paid_provider_allowed": false,
+  "fallback": "standard-library-and-rule-based"
+}

@@ -1,0 +1,28 @@
+{
+  "project": "AUTONOMOUS ZERO-BAHT BUSINESS OS",
+  "mode": "autonomous-first",
+  "budget_thb": 0,
+  "no_payment_guard": true,
+  "user_agent": "AutonomousZeroBahtOS/0.1",
+  "rss_feeds": [
+    "https://hnrss.org/frontpage",
+    "https://www.reddit.com/r/Entrepreneur/.rss"
+  ],
+  "keywords": ["automation","ai","business","productivity","software","developer","saas","digital product","affiliate","workflow"],
+  "manual_seed_topics": [
+    {
+      "title": "Zero-cost automation workflows for small online businesses",
+      "summary": "Explore repeatable workflows that reduce manual work without paid infrastructure.",
+      "url": "https://github.com/kongkeat938/autonomous-zero-baht",
+      "source": "manual_seed"
+    },
+    {
+      "title": "Free-tier developer tools for content and research automation",
+      "summary": "Compare practical free-tier and open-source building blocks for automation.",
+      "url": "https://github.com/kongkeat938/autonomous-zero-baht",
+      "source": "manual_seed"
+    }
+  ],
+  "max_items_per_feed": 20,
+  "max_drafts_per_run": 5
+}

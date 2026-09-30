@@ -1,0 +1,407 @@
+[
+  {
+    "title": "I have the time, money, and hunger to become an entrepreneur, but I have no idea where to start..",
+    "url": "https://www.reddit.com/r/Entrepreneur/comments/1wrrmw5/i_have_the_time_money_and_hunger_to_become_an/",
+    "summary": "   I’m at a point in my life where I genuinely want to build something of my own.  I have the time to dedicate to it,(IT work, remote) some money I’m willing to invest the &quot;hunger&quot; to make something happen and i would say decent intelligence. Sorry it if sounds cocky, not my goal😅   I’m willing to work hard, learn new skills, take risks, and deal with failure along the way.  The problem is, I have absolutely no idea where to start. I tried to resell some products on ebay and it worked well, but the profit margins were too low to be profitable for me so I gave it up. Made maybe a couple thousands. I also tried to start an Uber business here but the regulations make it very hard to start, i passed the exam and everything but failed at the application process, and I&#39;m not sure if i want to try again.   There are so many opportunities out there: e-commerce, SaaS, agencies, local businesses, digital products, and countless other business models. Every time I look into one, I f",
+    "source": "https://www.reddit.com/r/Entrepreneur/.rss",
+    "score": 4,
+    "matched_keywords": [
+      "ai",
+      "business",
+      "saas",
+      "digital product"
+    ],
+    "researched_at": "2026-09-30T01:15:26.978000+00:00"
+  },
+  {
+    "title": "Most agency owners are broke",
+    "url": "https://www.reddit.com/r/Entrepreneur/comments/1wtj6n1/most_agency_owners_are_broke/",
+    "summary": "   Most agency owners are broke because they buy into the &quot;inbound is king&quot; lie.   I built, scaled, and sold my first SEO/content agency in under 12 months for 6 figures. Zero miracle involved.   While everyone else was sitting around waiting for organic leads, I went full outbound. I targeted three simple variables:     People with money   People with an urgent need   People who weren&#39;t getting spammed by every other agency     Here’s the part that pisses off SaaS founders: Most of you are getting scammed by cold outreach software.   You spend $200/month on bloated &quot;all-in-one&quot; platforms. They charge per seat, per credit, and per breath. They sell you the illusion of a full pipeline while your actual execution is dead in the water.   You don&#39;t need a fancy dashboard with 40 features to close deals. You need two things:  raw volume  and  uncontested data .   If you&#39;re burning $2k a year on software just to send 50 emails a week, you&#39;re not running a ",
+    "source": "https://www.reddit.com/r/Entrepreneur/.rss",
+    "score": 3,
+    "matched_keywords": [
+      "ai",
+      "software",
+      "saas"
+    ],
+    "researched_at": "2026-09-30T01:15:26.977907+00:00"
+  },
+  {
+    "title": "Sunday Steam: Vent It or Roast It | September 27, 2026",
+    "url": "https://www.reddit.com/r/Entrepreneur/comments/1wree5q/sunday_steam_vent_it_or_roast_it_september_27_2026/",
+    "summary": "   Had a week? Same. This is your consequence-free space to complain about clients, platforms, algorithms, your own decisions, or the general chaos of running a business. Keep it venting with no personal attacks. We&#39;ll be back to being professional tomorrow.     &#32; submitted by &#32;   /u/AutoModerator       [link]   &#32;   [comments]  ",
+    "source": "https://www.reddit.com/r/Entrepreneur/.rss",
+    "score": 2,
+    "matched_keywords": [
+      "ai",
+      "business"
+    ],
+    "researched_at": "2026-09-30T01:15:26.978010+00:00"
+  },
+  {
+    "title": "Show HN: NSL – WSL for Linux",
+    "url": "https://frostyard.github.io/nsl/",
+    "summary": " One of the things that Windows really got right is WSL2. I drive an atomic Linux distro for daily use, but wanted a way to develop with multiple different distros with that same WSL UX.  NSL is my answer. It is a faithful reproduction of the developer experience, powered by a single VM that hosts one or more systemd-nspawn containers with your development instances. Host file edits and port sharing come along for the ride, just like WSL. Take a look and tell me what you think... It's yet another step in my long journey to keep my host installation free from all the changing and breaking dev dependencies that force a reinstall every few months. \n \n Comments URL:  https://news.ycombinator.com/item?id=49894351  \n Points: 79 \n # Comments: 61 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 2,
+    "matched_keywords": [
+      "ai",
+      "developer"
+    ],
+    "researched_at": "2026-09-30T01:15:26.942381+00:00"
+  },
+  {
+    "title": "I sold my last company for €2M+. Right now, feeling like an absolute loser and having severe anxiety attack",
+    "url": "https://www.reddit.com/r/Entrepreneur/comments/1wtd568/i_sold_my_last_company_for_2m_right_now_feeling/",
+    "summary": "   I sold my last company for €2M+. Right now, I’m sitting here, feeling like an absolute loser and having severe anxiety attack.   That sentence feels almost too embarrassing to write. I know how to build a business. Have done it a few times with more or less success. I’ve done it before. I grew a company to almost 100 people and eventually sold it. And yet...   Here I am, starting again and struggling with something that used to feel much simpler: keeping my client pipeline full.   I now run a remote Fractional COO / operations &amp; project management consultancy and the strange thing is that I actually love the work. I really love what I do and working closely with my clients.   When I’m working with a client, I find purpose. I figure out why everything his/her business is chaotic, where time and money are leaking, why the team keeps dropping balls, what needs to be systemized, delegated or fixed... I genuinely come alive.   I&#39;ve landed quite a few contracts, so I know I can se",
+    "source": "https://www.reddit.com/r/Entrepreneur/.rss",
+    "score": 2,
+    "matched_keywords": [
+      "ai",
+      "business"
+    ],
+    "researched_at": "2026-09-30T01:15:26.977959+00:00"
+  },
+  {
+    "title": "Are you using one LLM or an army of agents?",
+    "url": "https://www.reddit.com/r/Entrepreneur/comments/1wp01iz/are_you_using_one_llm_or_an_army_of_agents/",
+    "summary": "   *** Disclaimer: I&#39;m not connected to any of these companies and this isn&#39;t an ad. ***   I&#39;m a small business owner and I just started playing around with Taskade and the idea of having multiple AI agents working on different things.   It got me wondering:  are most small business owners still just using one LLM like ChatGPT or Claude, or are people actually building out teams of agents?    If you&#39;ve tried the multi-agent approach, what are you actually using the agents for? I&#39;m trying to figure out whether there&#39;s a real advantage to having a bunch of specialized agents or if I&#39;m just making things more complicated than they need to be.     &#32; submitted by &#32;   /u/kueowirnzcd       [link]   &#32;   [comments]  ",
+    "source": "https://www.reddit.com/r/Entrepreneur/.rss",
+    "score": 2,
+    "matched_keywords": [
+      "ai",
+      "business"
+    ],
+    "researched_at": "2026-09-30T01:15:26.978105+00:00"
+  },
+  {
+    "title": "You have $50,000 that must be invested into any business.",
+    "url": "https://www.reddit.com/r/Entrepreneur/comments/1wt82ug/you_have_50000_that_must_be_invested_into_any/",
+    "summary": "   Real life scenario by the way - an offer by my dad.   The business  must  be able to employ one person  and  provide a $35,000 income to the owner within a year of operations.   What are you setting up?      &#32; submitted by &#32;   /u/TennisSkirt1628       [link]   &#32;   [comments]  ",
+    "source": "https://www.reddit.com/r/Entrepreneur/.rss",
+    "score": 1,
+    "matched_keywords": [
+      "business"
+    ],
+    "researched_at": "2026-09-30T01:15:26.977846+00:00"
+  },
+  {
+    "title": "Trying again, this time with no help",
+    "url": "https://www.reddit.com/r/Entrepreneur/comments/1wq7ub2/trying_again_this_time_with_no_help/",
+    "summary": "   for context i made a post the other day trying to show an example of a recent buisness situation i had, it wasnt recieved very well to say the least but i had a genuine message i was trying to get off. and yes its abudnadlty clear i had help writing the post. i thought i would re test this in my very bad style of writing and see if the message comes accros better.   the post was about a very large project i just completed down here in australia. it was a very large project of 3,800m2 that involved civil reconstruction, asphalt and line marking to a shopping centre car park.   on the pluss side we allowed 14 days, 10 days to asphalt and cvivl and 2 days to line mark. we did it in half the time but as we expiadted the process putting the guys in to overtime the job costing turned out pretty much on budget which i was pleased about, but it reprresented a significant gain for the customer as the centre got production back much sooner than anticpiated but also freed another 5 working day",
+    "source": "https://www.reddit.com/r/Entrepreneur/.rss",
+    "score": 1,
+    "matched_keywords": [
+      "ai"
+    ],
+    "researched_at": "2026-09-30T01:15:26.978047+00:00"
+  },
+  {
+    "title": "Think It's Possible To Buy A Pizza Shop On Seller Finance?",
+    "url": "https://www.reddit.com/r/Entrepreneur/comments/1wsovjg/think_its_possible_to_buy_a_pizza_shop_on_seller/",
+    "summary": "   I want to buy a Pizza shop. Specifically a small hole in the wall place that&#39;s either struggling, and/or the owner is burned out.   I have a lot of experience in this space and know how to turn a struggling place around.    I don&#39;t think Pizza shops sell for very much, some listings Iv&#39;e seen online are between 150-200k. But these listing claim the place is thriving. I&#39;ll be going after non thriving ones.   The issue is I don&#39;t have the money to just buy one outright, and I don&#39;t want to get a loan if I don&#39;t have to.   Think it&#39;s possible to find a Pizza place that will take like 25-30k down and seller finance the rest?    Any other creative financing options I can explore so I don&#39;t have to take out a loan?   I have a list of all the small privately owned Pizza places in my area and I&#39;m planning on sending out a letter to all of the owners.     &#32; submitted by &#32;   /u/UnusualAd3207       [link]   &#32;   [comments]  ",
+    "source": "https://www.reddit.com/r/Entrepreneur/.rss",
+    "score": 1,
+    "matched_keywords": [
+      "ai"
+    ],
+    "researched_at": "2026-09-30T01:15:26.977863+00:00"
+  },
+  {
+    "title": "Tcl/Tk 9.1",
+    "url": "https://www.tcl-lang.org/software/tcltk/9.1.html",
+    "summary": " Article URL:  https://www.tcl-lang.org/software/tcltk/9.1.html  \n Comments URL:  https://news.ycombinator.com/item?id=49896712  \n Points: 237 \n # Comments: 83 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 1,
+    "matched_keywords": [
+      "software"
+    ],
+    "researched_at": "2026-09-30T01:15:26.942326+00:00"
+  },
+  {
+    "title": "Show HN: A working 3D model of an Enigma machine",
+    "url": "https://enigma.design",
+    "summary": " I watched the excellent Veritasium video [1] on the Enigma machine, and watched the full animation by Jared Owen [2], but was still a bit confused on how the inner mechanics of an Enigma machine work. I used Astra to build out the inner components through a combination of reference images, writing out hundreds of extremely detailed prompts, and building my own inspection tools to ensure that every part is sized and positioned in a historically accurate way. It's still a work in progress, but would love any feedback on the experience so far! 1.  https://www.youtube.com/watch?v=JsBZOcqZerk  2.  https://www.youtube.com/watch?v=ybkkiGtJmkM  \n \n Comments URL:  https://news.ycombinator.com/item?id=49896757  \n Points: 31 \n # Comments: 3 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 1,
+    "matched_keywords": [
+      "ai"
+    ],
+    "researched_at": "2026-09-30T01:15:26.942318+00:00"
+  },
+  {
+    "title": "One day, hopefully, I'll build a resort.",
+    "url": "https://www.reddit.com/r/Entrepreneur/comments/1wqrd14/one_day_hopefully_ill_build_a_resort/",
+    "summary": "   When I retire, i intend to build a small 10 villa resort, focused on wellness, that will be difficult to reach to. It will have some studio &amp; 2-bedroom units. The architecture will blend into the environment so its not jarring and brutalist. It will be smoke -free/vape-free.   There will be a separate space serving as a cafe. It will be lacto-vegetarian to keep the resort cruelty-free. Breakfast buffet provide daily. We&#39;ll have social hour daily from 5pm and 9pm, with board games and nintendo switch.    Visitors can use cycles for free. There will be a pool where people can chill all day. It will overlook the jungle.   I will keep the price at 80 &amp; 100 bucks bucks a night. Cleaning will be done once a day.    What else do you want, if you were visiting a space like this?      &#32; submitted by &#32;   /u/bearded-dragoon       [link]   &#32;   [comments]  ",
+    "source": "https://www.reddit.com/r/Entrepreneur/.rss",
+    "score": 1,
+    "matched_keywords": [
+      "ai"
+    ],
+    "researched_at": "2026-09-30T01:15:26.978024+00:00"
+  },
+  {
+    "title": "Monday mentorship: ask anything | September 28, 2026",
+    "url": "https://www.reddit.com/r/Entrepreneur/comments/1ws8jxp/monday_mentorship_ask_anything_september_28_2026/",
+    "summary": "   New to entrepreneurship or just starting out? This is your space. Ask the questions you&#39;re afraid to ask elsewhere.    Experienced folks, jump in and share what you wish someone had told you early on.     &#32; submitted by &#32;   /u/AutoModerator       [link]   &#32;   [comments]  ",
+    "source": "https://www.reddit.com/r/Entrepreneur/.rss",
+    "score": 1,
+    "matched_keywords": [
+      "ai"
+    ],
+    "researched_at": "2026-09-30T01:15:26.977972+00:00"
+  },
+  {
+    "title": "How our vibe coded website looks like a designer made it",
+    "url": "https://railcode.dev/blog/vibe-coded-website",
+    "summary": " Article URL:  https://railcode.dev/blog/vibe-coded-website  \n Comments URL:  https://news.ycombinator.com/item?id=49901973  \n Points: 56 \n # Comments: 34 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 1,
+    "matched_keywords": [
+      "ai"
+    ],
+    "researched_at": "2026-09-30T01:15:26.873829+00:00"
+  },
+  {
+    "title": "How do I create these AI cinema cartoon-style videos (like TJR)",
+    "url": "https://www.reddit.com/r/Entrepreneur/comments/1wtg7wg/how_do_i_create_these_ai_cinema_cartoonstyle/",
+    "summary": "   Hey guys, does anyone know how to create these animations that TJR keeps posting? Is that higgsfield? I genuinely have no idea which model that is. Would appreciate any help! Thanks!      &#32; submitted by &#32;   /u/Born_Celebration_950       [link]   &#32;   [comments]  ",
+    "source": "https://www.reddit.com/r/Entrepreneur/.rss",
+    "score": 1,
+    "matched_keywords": [
+      "ai"
+    ],
+    "researched_at": "2026-09-30T01:15:26.977918+00:00"
+  },
+  {
+    "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
+    "url": "https://openai.com/index/introducing-gpt-6-1-sol/",
+    "summary": " Article URL:  https://openai.com/index/introducing-gpt-6-1-sol/  \n Comments URL:  https://news.ycombinator.com/item?id=49896586  \n Points: 770 \n # Comments: 717 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 1,
+    "matched_keywords": [
+      "ai"
+    ],
+    "researched_at": "2026-09-30T01:15:26.942343+00:00"
+  },
+  {
+    "title": "Dots: Always-on agents",
+    "url": "https://openai.com/index/introducing-dots/",
+    "summary": " Article URL:  https://openai.com/index/introducing-dots/  \n Comments URL:  https://news.ycombinator.com/item?id=49896604  \n Points: 463 \n # Comments: 350 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 1,
+    "matched_keywords": [
+      "ai"
+    ],
+    "researched_at": "2026-09-30T01:15:26.942334+00:00"
+  },
+  {
+    "title": "Ask HN: What are you reading?",
+    "url": "https://news.ycombinator.com/item?id=49893157",
+    "summary": " I'm plowing through the Dungeon Crawler Carl series, which is not particularly challenging as sci-fi/LitRPG goes, but entertaining enough.  I'm also wrapping up Doctorow's _Enshittification_, and I'm looking for something a little meaty to keep the brain working... \n \n Comments URL:  https://news.ycombinator.com/item?id=49893157  \n Points: 126 \n # Comments: 341 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 1,
+    "matched_keywords": [
+      "ai"
+    ],
+    "researched_at": "2026-09-30T01:15:26.942399+00:00"
+  },
+  {
+    "title": "📋 Entrepreneur Moderator Applications Open - Apply Now!",
+    "url": "https://www.reddit.com/r/Entrepreneur/comments/1whbmdu/entrepreneur_moderator_applications_open_apply_now/",
+    "summary": "&#32; submitted by &#32;   /u/Moggehh       [link]   &#32;   [comments]  ",
+    "source": "https://www.reddit.com/r/Entrepreneur/.rss",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-09-30T01:15:26.977804+00:00"
+  },
+  {
+    "title": "What’s an employee appreciation gift people actually liked?",
+    "url": "https://www.reddit.com/r/Entrepreneur/comments/1wo0gwh/whats_an_employee_appreciation_gift_people/",
+    "summary": "   I have a team of around 100 people and I’m planning an appreciation luncheon for the holidays.    We’ll already have food and recognition, but I’d like to give everyone something useful without spending a fortune or handing out cheap company swag.   For anyone who’s done this with a larger team, what gift actually went over well?     &#32; submitted by &#32;   /u/CleanOpsGuide       [link]   &#32;   [comments]  ",
+    "source": "https://www.reddit.com/r/Entrepreneur/.rss",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-09-30T01:15:26.978131+00:00"
+  },
+  {
+    "title": "We’re forgetting what darkness feels like",
+    "url": "https://www.theguardian.com/environment/2026/sep/29/night-sky-darkness-city-regulation",
+    "summary": " Article URL:  https://www.theguardian.com/environment/2026/sep/29/night-sky-darkness-city-regulation  \n Comments URL:  https://news.ycombinator.com/item?id=49898050  \n Points: 40 \n # Comments: 32 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-09-30T01:15:26.942273+00:00"
+  },
+  {
+    "title": "Vermont replacing power plants with home batteries",
+    "url": "https://www.bbc.com/future/article/20260928-a-virtual-power-plant-hidden-in-vermont-homes-is-keeping-the-lights-on-during-storms",
+    "summary": " Article URL:  https://www.bbc.com/future/article/20260928-a-virtual-power-plant-hidden-in-vermont-homes-is-keeping-the-lights-on-during-storms  \n Comments URL:  https://news.ycombinator.com/item?id=49897993  \n Points: 69 \n # Comments: 42 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-09-30T01:15:26.942304+00:00"
+  },
+  {
+    "title": "UnoDOS",
+    "url": "https://github.com/hmofet/unodos",
+    "summary": " Article URL:  https://github.com/hmofet/unodos  \n Comments URL:  https://news.ycombinator.com/item?id=49901437  \n Points: 15 \n # Comments: 7 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-09-30T01:15:26.873855+00:00"
+  },
+  {
+    "title": "U.S. postal inspectors shut down website selling counterfeit postage labels",
+    "url": "https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/",
+    "summary": " Article URL:  https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/  \n Comments URL:  https://news.ycombinator.com/item?id=49899090  \n Points: 165 \n # Comments: 89 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-09-30T01:15:26.873871+00:00"
+  },
+  {
+    "title": "Thankful Thursday: Free Resources and Tools | September 24, 2026",
+    "url": "https://www.reddit.com/r/Entrepreneur/comments/1wovnt9/thankful_thursday_free_resources_and_tools/",
+    "summary": "   Pay it forward. Drop your free resources, templates, tools, or anything else that&#39;s helped you and might help someone else. No strings attached; these resources have to be free.     &#32; submitted by &#32;   /u/AutoModerator       [link]   &#32;   [comments]  ",
+    "source": "https://www.reddit.com/r/Entrepreneur/.rss",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-09-30T01:15:26.978114+00:00"
+  },
+  {
+    "title": "Talent Tuesday: Services and Collabs | September 29, 2026",
+    "url": "https://www.reddit.com/r/Entrepreneur/comments/1wt45ra/talent_tuesday_services_and_collabs_september_29/",
+    "summary": "   Looking to hire, get hired, or find a collaborator? Post what you&#39;re offering or what you need. Keep it brief: who you are, what you do, and how to reach you. No spamming.     &#32; submitted by &#32;   /u/AutoModerator       [link]   &#32;   [comments]  ",
+    "source": "https://www.reddit.com/r/Entrepreneur/.rss",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-09-30T01:15:26.977835+00:00"
+  },
+  {
+    "title": "Success Saturday: What's Going Right | September 26, 2026",
+    "url": "https://www.reddit.com/r/Entrepreneur/comments/1wqktig/success_saturday_whats_going_right_september_26/",
+    "summary": "   Big or small, a win is a win. First sale, first client, or first time paying yourself, share it here. This community loves to celebrate with you. No win is too minor to mention.     &#32; submitted by &#32;   /u/AutoModerator       [link]   &#32;   [comments]  ",
+    "source": "https://www.reddit.com/r/Entrepreneur/.rss",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-09-30T01:15:26.978033+00:00"
+  },
+  {
+    "title": "Show HN: Real-time Solar System with 526k asteroids and all tracked satellites",
+    "url": "https://space.bl2.net/",
+    "summary": " Article URL:  https://space.bl2.net/  \n Comments URL:  https://news.ycombinator.com/item?id=49898778  \n Points: 99 \n # Comments: 27 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-09-30T01:15:26.873878+00:00"
+  },
+  {
+    "title": "PS5 Relapse Exploit",
+    "url": "https://github.com/ntfargo/Relapse-Exploit",
+    "summary": " Article URL:  https://github.com/ntfargo/Relapse-Exploit  \n Comments URL:  https://news.ycombinator.com/item?id=49895304  \n Points: 228 \n # Comments: 123 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-09-30T01:15:26.942358+00:00"
+  },
+  {
+    "title": "Needed 1+1, built a functional programming language",
+    "url": "https://hereticpleb.vercel.app/blog/needed-one-plus-one/",
+    "summary": " Article URL:  https://hereticpleb.vercel.app/blog/needed-one-plus-one/  \n Comments URL:  https://news.ycombinator.com/item?id=49895864  \n Points: 19 \n # Comments: 4 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-09-30T01:15:26.942351+00:00"
+  },
+  {
+    "title": "Livenerf: Has Opus 5.5 been nerfed yet?",
+    "url": "https://github.com/ninjahawk/livenerf",
+    "summary": " Article URL:  https://github.com/ninjahawk/livenerf  \n Comments URL:  https://news.ycombinator.com/item?id=49901736  \n Points: 179 \n # Comments: 92 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-09-30T01:15:26.873846+00:00"
+  },
+  {
+    "title": "I'm overthinking making content for different platforms",
+    "url": "https://www.reddit.com/r/Entrepreneur/comments/1wq17nx/im_overthinking_making_content_for_different/",
+    "summary": "   I&#39;ve been thinking about this because I keep doing it myself.   I&#39;ll have some idea I actually want to talk about and then immediately start thinking okay how do I make this work for LinkedIn or Reddit or X or whatever.   and now I think that&#39;s backwards.   If you actually have something you want to say, maybe you shouldn&#39;t change the idea just because you&#39;re putting it somewhere else.   maybe you just need to find the people who give a shit about it.   like something can completely flop on LinkedIn and then you put it on Reddit and people are like oh yeah I&#39;ve been thinking about this too.   now for me I don&#39;t think: &quot;what should I make for this platform?&quot; and instead I think: &quot;Where are the people who would actually care about this?&quot;   it&#39;s a shift in thinking about content and distribution but it changes how I&#39;ve approach content.     &#32; submitted by &#32;   /u/bookflow       [link]   &#32;   [comments]  ",
+    "source": "https://www.reddit.com/r/Entrepreneur/.rss",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-09-30T01:15:26.978061+00:00"
+  },
+  {
+    "title": "How would you make money with 500 IG posts per day?",
+    "url": "https://www.reddit.com/r/Entrepreneur/comments/1wtpy48/how_would_you_make_money_with_500_ig_posts_per_day/",
+    "summary": "   Long story short I have built a distribution network that can post 500+ times per day to multiple Ig accounts. We are currently doing 4 posts per day, all unique content.   The current challenge is that I don&#39;t know what I should promote. I am currently just finding little 5-10 second videos with a funny on screen caption adding my own b-roll, and posting them. (will post a screenshot so you can see what I mean)    However, I&#39;m aware this doesn&#39;t have much commercial intent behind it. Yes they get likes and views and whatnot, but there is no product to sell. And even if there was a product to sell, it has nothing to do with the content we are posting.   I know there is money in this, but I just don&#39;t know what to sell. I would prefer to sell something that actually gets people a good result for something in some way. Very vague I know, but I don&#39;t have anything at the moment.   If you had this distribution capability, what would you sell? What kind of content wou",
+    "source": "https://www.reddit.com/r/Entrepreneur/.rss",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-09-30T01:15:26.977879+00:00"
+  },
+  {
+    "title": "How Delhi cut electricity loss from 50 to 5 percent",
+    "url": "https://spectrum.ieee.org/delhi-electricity-loss",
+    "summary": " Article URL:  https://spectrum.ieee.org/delhi-electricity-loss  \n Comments URL:  https://news.ycombinator.com/item?id=49892245  \n Points: 435 \n # Comments: 253 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-09-30T01:15:26.942413+00:00"
+  },
+  {
+    "title": "Feedback Friday: Rate My Ideas | September 25, 2026",
+    "url": "https://www.reddit.com/r/Entrepreneur/comments/1wpqg3i/feedback_friday_rate_my_ideas_september_25_2026/",
+    "summary": "   Share your website, pitch, logo, idea, pricing, copy, or anything else you want honest eyes on. Tell us what you&#39;re looking for: brutal honesty, general impressions, or specific questions.    Return the favour and leave feedback for someone else while you&#39;re here.     &#32; submitted by &#32;   /u/AutoModerator       [link]   &#32;   [comments]  ",
+    "source": "https://www.reddit.com/r/Entrepreneur/.rss",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-09-30T01:15:26.978093+00:00"
+  },
+  {
+    "title": "Everybody’s home. No one’s coming over",
+    "url": "https://www.derekthompson.org/p/the-death-of-the-american-host",
+    "summary": " Article URL:  https://www.derekthompson.org/p/the-death-of-the-american-host  \n Comments URL:  https://news.ycombinator.com/item?id=49891295  \n Points: 716 \n # Comments: 660 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-09-30T01:15:26.942425+00:00"
+  },
+  {
+    "title": "Deser: Rethinking Rust Serialization",
+    "url": "https://lucumr.pocoo.org/2026/9/29/deser/",
+    "summary": " Article URL:  https://lucumr.pocoo.org/2026/9/29/deser/  \n Comments URL:  https://news.ycombinator.com/item?id=49901149  \n Points: 20 \n # Comments: 6 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-09-30T01:15:26.873862+00:00"
+  },
+  {
+    "title": "Community Migration Troubleshooting",
+    "url": "https://www.reddit.com/r/Entrepreneur/comments/1wpyvqn/community_migration_troubleshooting/",
+    "summary": "   Hey everyone. I built a platform called Nuke Nomad for nuclear contractors.   Here’s where I could use some advice. I already have a large contractor community on Skool. I want everyone together on Nuke Nomad, but even after telling people about the new platform, the move has been slow. Eventually I want to close the Skool group, and I don’t want to lose the people who make the community worth having.   If you’ve moved a community from one platform to another, what actually got people to make the switch? Did you move the most active members first, bring old content over, give people a reason to join right away, set a firm date for closing the old group, or something I’m missing?     &#32; submitted by &#32;   /u/RadTechMJ       [link]   &#32;   [comments]  ",
+    "source": "https://www.reddit.com/r/Entrepreneur/.rss",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-09-30T01:15:26.978083+00:00"
+  },
+  {
+    "title": "Backblaze drive stats for Q2 2026",
+    "url": "https://www.backblaze.com/blog/backblaze-drive-stats-for-q2-2026/",
+    "summary": " Article URL:  https://www.backblaze.com/blog/backblaze-drive-stats-for-q2-2026/  \n Comments URL:  https://news.ycombinator.com/item?id=49893002  \n Points: 68 \n # Comments: 8 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-09-30T01:15:26.942406+00:00"
+  },
+  {
+    "title": "America.gov",
+    "url": "https://america.gov/",
+    "summary": " Article URL:  https://america.gov/  \n Comments URL:  https://news.ycombinator.com/item?id=49893509  \n Points: 330 \n # Comments: 269 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-09-30T01:15:26.942390+00:00"
+  }
+]
