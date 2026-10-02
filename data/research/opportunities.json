@@ -11,7 +11,19 @@
       "saas",
       "digital product"
     ],
-    "researched_at": "2026-10-01T07:12:34.128811+00:00"
+    "researched_at": "2026-10-02T07:02:21.003478+00:00"
+  },
+  {
+    "title": "Today was supposed to be my first platform launch. Then Stripe said no.",
+    "url": "https://www.reddit.com/r/Entrepreneur/comments/1wv58fr/today_was_supposed_to_be_my_first_platform_launch/",
+    "summary": "   October 1st was the date I’d picked to launch my first platform.   For almost four months, I’ve been building this alongside my 9-to-5: a platform where creators (YouTubers only for the MVP) share video ideas they’re planning to make, and fans can tip them on the ones they’d like to see. Getting to the point where I could finally let people use it felt like a huge achievement. I’d never built and launched something entirely on my own before.   Then last week, one week before launch, Stripe closed our account. I was using Stripe Connect so creators could receive payments through their own connected accounts, while I took a small commission on each tip. That setup also narrowed down the alternatives. Stripe classified the business under their restricted categories, but the email wasn’t clear about whether the issue was content creation platforms or crowdfunding.   I contacted human support, explained the model, and shared our terms of service. I clarified that we don’t host any conten",
+    "source": "https://www.reddit.com/r/Entrepreneur/.rss",
+    "score": 2,
+    "matched_keywords": [
+      "ai",
+      "business"
+    ],
+    "researched_at": "2026-10-02T07:02:21.003364+00:00"
   },
   {
     "title": "The mistake I made on my first day in collections (and what fixed it).",
@@ -23,7 +35,7 @@
       "ai",
       "business"
     ],
-    "researched_at": "2026-10-01T07:12:34.128748+00:00"
+    "researched_at": "2026-10-02T07:02:21.003395+00:00"
   },
   {
     "title": "Sunday Steam: Vent It or Roast It | September 27, 2026",
@@ -35,19 +47,7 @@
       "ai",
       "business"
     ],
-    "researched_at": "2026-10-01T07:12:34.128815+00:00"
-  },
-  {
-    "title": "If it makes sense, do it. Even if it's completely out of the norm.",
-    "url": "https://www.reddit.com/r/Entrepreneur/comments/1wu4xof/if_it_makes_sense_do_it_even_if_its_completely/",
-    "summary": "   Just a story of how something out of the norm made sense on many levels, and has been a complete gamechanger. Turned out way longer than I intended.    Some background info:      I&#39;ve a strong IT background that evolved into business consulting. Over the past years AI got thrown into the mix, to the point where I now advice boards and the C-level crowd. Not that I advertise this or target that specific market, it&#39;s something that happened organically through word-of-mouth. And lately I&#39;m starting to get more and more requests from companies outside of the SMB bracket. These folks like to meet in person, especially for what they are paying me. Then there are the events where these companies want me as a speaker (mostly after business hours).   I&#39;m based in Belgium, and traffic has been a complete shitshow (and will be for the next 5-6 years because of major roadworks). To the point where it&#39;s almost impossible to predict when you will arrive. I have an excellent t",
-    "source": "https://www.reddit.com/r/Entrepreneur/.rss",
-    "score": 2,
-    "matched_keywords": [
-      "ai",
-      "business"
-    ],
-    "researched_at": "2026-10-01T07:12:34.128760+00:00"
+    "researched_at": "2026-10-02T07:02:21.003483+00:00"
   },
   {
     "title": "I sold my last company for €2M+. Right now, feeling like an absolute loser and having severe anxiety attack",
@@ -59,7 +59,7 @@
       "ai",
       "business"
     ],
-    "researched_at": "2026-10-01T07:12:34.128797+00:00"
+    "researched_at": "2026-10-02T07:02:21.003458+00:00"
   },
   {
     "title": "You have $50,000 that must be invested into any business.",
@@ -70,7 +70,7 @@
     "matched_keywords": [
       "business"
     ],
-    "researched_at": "2026-10-01T07:12:34.128770+00:00"
+    "researched_at": "2026-10-02T07:02:21.003409+00:00"
   },
   {
     "title": "What Is The Problem With Buying Land & Starting A Mobile Home Park?",
@@ -81,7 +81,18 @@
     "matched_keywords": [
       "business"
     ],
-    "researched_at": "2026-10-01T07:12:34.128741+00:00"
+    "researched_at": "2026-10-02T07:02:21.003385+00:00"
+  },
+  {
+    "title": "Vote on which of Hacker News' challenges for AI have been met",
+    "url": "https://stoppels.ch/goalposts/",
+    "summary": " Article URL:  https://stoppels.ch/goalposts/  \n Comments URL:  https://news.ycombinator.com/item?id=49924618  \n Points: 130 \n # Comments: 127 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 1,
+    "matched_keywords": [
+      "ai"
+    ],
+    "researched_at": "2026-10-02T07:02:21.003329+00:00"
   },
   {
     "title": "Trying again, this time with no help",
@@ -92,7 +103,7 @@
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-01T07:12:34.128830+00:00"
+    "researched_at": "2026-10-02T07:02:21.003504+00:00"
   },
   {
     "title": "Think It's Possible To Buy A Pizza Shop On Seller Finance?",
@@ -103,29 +114,7 @@
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-01T07:12:34.128777+00:00"
-  },
-  {
-    "title": "Surprisingly complex waves reveal the brain's inner workings",
-    "url": "https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/",
-    "summary": " Article URL:  https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/  \n Comments URL:  https://news.ycombinator.com/item?id=49912955  \n Points: 167 \n # Comments: 55 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 1,
-    "matched_keywords": [
-      "ai"
-    ],
-    "researched_at": "2026-10-01T07:12:34.128695+00:00"
-  },
-  {
-    "title": "Show HN: Yantra – an LALR(1) parser generator for C++",
-    "url": "https://github.com/TantrixAuto/yantra",
-    "summary": " Yantra is a C++ parser generator: lexer, parser, and AST walker all generated from one tool.\nIt builds the whole AST first, then walks it. Most LALR parser generators (Yacc, Bison, Lemon) run your semantic actions during parsing, as each rule reduces, bottom-up. That means at the time a rule's action runs, you don't yet know what its parent looks like. This pushes a lot of grammars toward hand-built AST classes and a separate walking pass whenever you need to look ahead into siblings or defer a decision until more context is available. On the other hand, Yantra always builds the whole AST first, then walks it top-down in a separate pass, calling your semantic actions as it goes. A parent rule's action can run before its children are visited. A single grammar can define more than one walker. For example, one that emits C++, another that emits Java, from the same parse. The AST and the walker classes are both generated for you. A small example (full version, with compile commands, in th",
-    "source": "https://hnrss.org/frontpage",
-    "score": 1,
-    "matched_keywords": [
-      "ai"
-    ],
-    "researched_at": "2026-10-01T07:12:34.128669+00:00"
+    "researched_at": "2026-10-02T07:02:21.003430+00:00"
   },
   {
     "title": "Pre-launch fintech founder and already hitting walls",
@@ -136,7 +125,7 @@
     "matched_keywords": [
       "business"
     ],
-    "researched_at": "2026-10-01T07:12:34.128767+00:00"
+    "researched_at": "2026-10-02T07:02:21.003404+00:00"
   },
   {
     "title": "One day, hopefully, I'll build a resort.",
@@ -147,7 +136,7 @@
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-01T07:12:34.128820+00:00"
+    "researched_at": "2026-10-02T07:02:21.003491+00:00"
   },
   {
     "title": "Monday mentorship: ask anything | September 28, 2026",
@@ -158,29 +147,7 @@
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-01T07:12:34.128800+00:00"
-  },
-  {
-    "title": "Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
-    "url": "https://github.com/magnitudedev/magnitude",
-    "summary": " Hey HN, Anders and Tom here. We're building Magnitude, an inference engine for agents that optimizes itself to run as fast as possible on your hardware. It works on Mac, Linux, and Windows on any hardware and is up to 2x faster than llama.cpp. We're both software engineers and previously built an open source browser agent to 4k+ GH stars and 100k+ downloads. We increasingly wanted to run it on local models, but found that no inference engine worked for our use case. Inference engines today all make a performance tradeoff. They are either: - Built for batched inference on datacenter hardware at the cost of single-session performance (vLLM, SGLang)\n- Designed for broad compatibility instead of optimizing for specific hardware (llama.cpp, Ollama)\n- Specialized for specific hardware or models but lacking engine completeness (oMLX, ds4) Plus none of them are designed for running agents locally. Sessions are long, several often run at once, and you still want to use your computer for other ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 1,
-    "matched_keywords": [
-      "software"
-    ],
-    "researched_at": "2026-10-01T07:12:34.128715+00:00"
-  },
-  {
-    "title": "Is sandboxing sufficient to contain rogue agents?",
-    "url": "https://blog.cryptographyengineering.com/2026/09/30/is-sandboxing-sufficient-to-contain-rogue-agents/",
-    "summary": " Article URL:  https://blog.cryptographyengineering.com/2026/09/30/is-sandboxing-sufficient-to-contain-rogue-agents/  \n Comments URL:  https://news.ycombinator.com/item?id=49917378  \n Points: 19 \n # Comments: 18 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 1,
-    "matched_keywords": [
-      "ai"
-    ],
-    "researched_at": "2026-10-01T07:12:34.123772+00:00"
+    "researched_at": "2026-10-02T07:02:21.003463+00:00"
   },
   {
     "title": "How do I create these AI cinema cartoon-style videos (like TJR)",
@@ -191,62 +158,29 @@
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-01T07:12:34.128786+00:00"
+    "researched_at": "2026-10-02T07:02:21.003444+00:00"
   },
   {
-    "title": "Great Dirhombicosidodecahedron (\"Miller's Monster\")",
-    "url": "https://www.software3d.com/MillersMonster.php",
-    "summary": " Article URL:  https://www.software3d.com/MillersMonster.php  \n Comments URL:  https://news.ycombinator.com/item?id=49911534  \n Points: 61 \n # Comments: 6 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 1,
-    "matched_keywords": [
-      "software"
-    ],
-    "researched_at": "2026-10-01T07:12:34.128717+00:00"
-  },
-  {
-    "title": "Functional Ultrasound Imaging (fUSI) from scratch",
-    "url": "https://www.neuroai.science/p/functional-ultrasound-imaging-from",
-    "summary": " Article URL:  https://www.neuroai.science/p/functional-ultrasound-imaging-from  \n Comments URL:  https://news.ycombinator.com/item?id=49913604  \n Points: 42 \n # Comments: 7 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 1,
-    "matched_keywords": [
-      "ai"
-    ],
-    "researched_at": "2026-10-01T07:12:34.128683+00:00"
-  },
-  {
-    "title": "Fuck Android Developer Verification Program",
-    "url": "https://twitter.com/0xcrypto/status/2105515822643114182",
-    "summary": " Article URL:  https://twitter.com/0xcrypto/status/2105515822643114182  \n Comments URL:  https://news.ycombinator.com/item?id=49917761  \n Points: 147 \n # Comments: 43 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 1,
-    "matched_keywords": [
-      "developer"
-    ],
-    "researched_at": "2026-10-01T07:12:34.123767+00:00"
-  },
-  {
-    "title": "Founders currently fundraising, hows it going?",
-    "url": "https://www.reddit.com/r/Entrepreneur/comments/1wu9gko/founders_currently_fundraising_hows_it_going/",
-    "summary": "   Founders of self-funded startups, how are you handling ongoing costs? I currently have 2 startups with 7 engineers across them and the build phase was expensive. We&#39;re currently fundraising and it seems like all the money is dried up. With AI IPOs sapping all the money, I think it will be a losing battle. Maybe that&#39;s the intention.   We just finished the builds but I still need to drop costs for the GTM blitz. Since fundraising is slim, I was thinking of moving my startups to Dubai/India. This would help us stay competitive in this inflationary environment with access to capital and talent. At this rate Q4 would likely be our last months in the US and just curious how other founders are handling it.     &#32; submitted by &#32;   /u/---SocialGuap---       [link]   &#32;   [comments]  ",
+    "title": "Have customers ever stayed for a completely different reason than they bought?",
+    "url": "https://www.reddit.com/r/Entrepreneur/comments/1wv9o8i/have_customers_ever_stayed_for_a_completely/",
+    "summary": "   I think there’s a positioning problem that’s easy to miss if most of your customer research happens before the sale.   During the sales process, you hear what someone hopes to get. Once you’re doing the work, you find out what actually makes the relationship valuable to them. Those can be pretty different things.   Take an agency, for example. A client might buy because they want more leads. Six months later, they might value the fact that someone finally owns the process and they don’t have to spend every Monday chasing updates. The leads still matter, but the relief of having that handled could be a bigger part of the renewal decision than the agency realizes.   Meanwhile, the website still says exactly what it said six months ago, because the people writing it weren’t part of those conversations.   What interests me is deciding how much that should change the pitch.   The thing that makes an existing customer stay might be your strongest selling point. It could also be something ",
     "source": "https://www.reddit.com/r/Entrepreneur/.rss",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-01T07:12:34.128754+00:00"
+    "researched_at": "2026-10-02T07:02:21.003379+00:00"
   },
   {
-    "title": "CHOMPI portable sampler instrument is now open-source (hardware and software)",
-    "url": "https://www.chompiclub.com/opensource",
-    "summary": " Article URL:  https://www.chompiclub.com/opensource  \n Comments URL:  https://news.ycombinator.com/item?id=49912048  \n Points: 73 \n # Comments: 14 ",
+    "title": "Frog and Toad and the Increasingly Capable Machines",
+    "url": "https://www.frogandtoad.ai/",
+    "summary": " Article URL:  https://www.frogandtoad.ai/  \n Comments URL:  https://news.ycombinator.com/item?id=49927760  \n Points: 116 \n # Comments: 23 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
-      "software"
+      "ai"
     ],
-    "researched_at": "2026-10-01T07:12:34.128703+00:00"
+    "researched_at": "2026-10-02T07:02:20.999492+00:00"
   },
   {
     "title": "📋 Entrepreneur Moderator Applications Open - Apply Now!",
@@ -255,25 +189,25 @@
     "source": "https://www.reddit.com/r/Entrepreneur/.rss",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-01T07:12:34.128734+00:00"
+    "researched_at": "2026-10-02T07:02:21.003343+00:00"
   },
   {
-    "title": "What TLA+ can and can't check",
-    "url": "https://buttondown.com/hillelwayne/archive/what-tla-can-and-cant-check/",
-    "summary": " Article URL:  https://buttondown.com/hillelwayne/archive/what-tla-can-and-cant-check/  \n Comments URL:  https://news.ycombinator.com/item?id=49909056  \n Points: 176 \n # Comments: 40 ",
+    "title": "Using Opus 5.5 to discover a new eyewitness record of the dodo",
+    "url": "https://resobscura.substack.com/p/using-opus-55-to-discover-a-new-eyewitness",
+    "summary": " Article URL:  https://resobscura.substack.com/p/using-opus-55-to-discover-a-new-eyewitness  \n Comments URL:  https://news.ycombinator.com/item?id=49926917  \n Points: 116 \n # Comments: 29 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-01T07:12:34.128727+00:00"
+    "researched_at": "2026-10-02T07:02:20.999501+00:00"
   },
   {
-    "title": "The top secret URSALA, RAQUEL, and FARRAH satellites (2025)",
-    "url": "https://www.thespacereview.com/article/4951/1",
-    "summary": " Article URL:  https://www.thespacereview.com/article/4951/1  \n Comments URL:  https://news.ycombinator.com/item?id=49915082  \n Points: 195 \n # Comments: 87 ",
-    "source": "https://hnrss.org/frontpage",
+    "title": "Thankful Thursday: Free Resources and Tools | October 01, 2026",
+    "url": "https://www.reddit.com/r/Entrepreneur/comments/1wutler/thankful_thursday_free_resources_and_tools/",
+    "summary": "   Pay it forward. Drop your free resources, templates, tools, or anything else that&#39;s helped you and might help someone else. No strings attached; these resources have to be free.     &#32; submitted by &#32;   /u/AutoModerator       [link]   &#32;   [comments]  ",
+    "source": "https://www.reddit.com/r/Entrepreneur/.rss",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-01T07:12:34.128677+00:00"
+    "researched_at": "2026-10-02T07:02:21.003347+00:00"
   },
   {
     "title": "Talent Tuesday: Services and Collabs | September 29, 2026",
@@ -282,7 +216,16 @@
     "source": "https://www.reddit.com/r/Entrepreneur/.rss",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-01T07:12:34.128737+00:00"
+    "researched_at": "2026-10-02T07:02:21.003413+00:00"
+  },
+  {
+    "title": "SvelteKit 3",
+    "url": "https://svelte.dev/blog/sveltekit-3-is-here",
+    "summary": " Article URL:  https://svelte.dev/blog/sveltekit-3-is-here  \n Comments URL:  https://news.ycombinator.com/item?id=49926536  \n Points: 219 \n # Comments: 72 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-10-02T07:02:21.003302+00:00"
   },
   {
     "title": "Success Saturday: What's Going Right | September 26, 2026",
@@ -291,25 +234,61 @@
     "source": "https://www.reddit.com/r/Entrepreneur/.rss",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-01T07:12:34.128823+00:00"
+    "researched_at": "2026-10-02T07:02:21.003495+00:00"
   },
   {
-    "title": "SDF vs. MSDF vs. Slug: GPU Text Rendering",
-    "url": "https://alphapixeldev.com/sdf-vs-msdf-vs-slug-vs-rive-gpu-text-rendering/",
-    "summary": " Article URL:  https://alphapixeldev.com/sdf-vs-msdf-vs-slug-vs-rive-gpu-text-rendering/  \n Comments URL:  https://news.ycombinator.com/item?id=49908962  \n Points: 145 \n # Comments: 57 ",
+    "title": "Show HN: Janus – Go binary that runs GGUF models via Vulkan on AMD/Intel/Nvidia",
+    "url": "https://github.com/Vibra-Ingenn/Janus",
+    "summary": " Article URL:  https://github.com/Vibra-Ingenn/Janus  \n Comments URL:  https://news.ycombinator.com/item?id=49926773  \n Points: 66 \n # Comments: 11 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-01T07:12:34.128729+00:00"
+    "researched_at": "2026-10-02T07:02:21.003288+00:00"
   },
   {
-    "title": "SDF Public Access Unix System ... est. 1987",
-    "url": "https://sdf.org/",
-    "summary": " Article URL:  https://sdf.org/  \n Comments URL:  https://news.ycombinator.com/item?id=49909610  \n Points: 88 \n # Comments: 21 ",
+    "title": "Shimano Bicycle Museum Review",
+    "url": "https://inrng.com/2026/10/shimano-bicycle-museum/",
+    "summary": " Article URL:  https://inrng.com/2026/10/shimano-bicycle-museum/  \n Comments URL:  https://news.ycombinator.com/item?id=49930047  \n Points: 29 \n # Comments: 1 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-01T07:12:34.128722+00:00"
+    "researched_at": "2026-10-02T07:02:20.999458+00:00"
+  },
+  {
+    "title": "Several vulnerabilities have been discovered in the Linux kernel",
+    "url": "https://lwn.net/Articles/1097401/",
+    "summary": " Article URL:  https://lwn.net/Articles/1097401/  \n Comments URL:  https://news.ycombinator.com/item?id=49928121  \n Points: 232 \n # Comments: 157 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-10-02T07:02:20.999487+00:00"
+  },
+  {
+    "title": "Pi Durable",
+    "url": "https://earendil.com/posts/pi-durable/",
+    "summary": " Related:  Pi 1.0  -  https://news.ycombinator.com/item?id=49926069  - Oct 2026 (184 comments) \n \n Comments URL:  https://news.ycombinator.com/item?id=49925969  \n Points: 330 \n # Comments: 38 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-10-02T07:02:21.003313+00:00"
+  },
+  {
+    "title": "Pi 1.0",
+    "url": "https://earendil.com/posts/pi-1-0/",
+    "summary": " Related:  Pi Durable  - https://news.ycombinator.com/item?id=49925969 \n \n Comments URL:  https://news.ycombinator.com/item?id=49926069  \n Points: 1084 \n # Comments: 338 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-10-02T07:02:21.003309+00:00"
+  },
+  {
+    "title": "Oxygen-deprived underwater zones may not be “dead zones” but clue to early life",
+    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026AV002570",
+    "summary": " Article URL:  https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026AV002570  \n Comments URL:  https://news.ycombinator.com/item?id=49925742  \n Points: 92 \n # Comments: 7 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-10-02T07:02:21.003321+00:00"
   },
   {
     "title": "I'm overthinking making content for different platforms",
@@ -318,7 +297,7 @@
     "source": "https://www.reddit.com/r/Entrepreneur/.rss",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-01T07:12:34.128836+00:00"
+    "researched_at": "2026-10-02T07:02:21.003513+00:00"
   },
   {
     "title": "How would you make money with 500 IG posts per day?",
@@ -327,87 +306,96 @@
     "source": "https://www.reddit.com/r/Entrepreneur/.rss",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-01T07:12:34.128783+00:00"
+    "researched_at": "2026-10-02T07:02:21.003440+00:00"
   },
   {
-    "title": "Halfspace experimental IDE for solid modeling with distance fields",
-    "url": "https://www.mattkeeter.com/projects/halfspace/",
-    "summary": " Article URL:  https://www.mattkeeter.com/projects/halfspace/  \n Comments URL:  https://news.ycombinator.com/item?id=49913350  \n Points: 115 \n # Comments: 9 ",
+    "title": "How Singapore's government-run dating service works",
+    "url": "https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works",
+    "summary": " Article URL:  https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works  \n Comments URL:  https://news.ycombinator.com/item?id=49929113  \n Points: 87 \n # Comments: 44 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-01T07:12:34.128689+00:00"
+    "researched_at": "2026-10-02T07:02:20.999474+00:00"
   },
   {
-    "title": "Gemini 4 Argon",
-    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
-    "summary": " See also:  Gemini 4 Argon (High): Intelligence, Performance and Price Analysis  -  https://news.ycombinator.com/item?id=49914236  \n \n Comments URL:  https://news.ycombinator.com/item?id=49913571  \n Points: 1275 \n # Comments: 818 ",
+    "title": "Git 3.0's upcoming SHA-256 default will be a costly mistake",
+    "url": "https://blog.gitbutler.com/git-3-sha-256",
+    "summary": " Article URL:  https://blog.gitbutler.com/git-3-sha-256  \n Comments URL:  https://news.ycombinator.com/item?id=49924179  \n Points: 315 \n # Comments: 305 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-01T07:12:34.128686+00:00"
+    "researched_at": "2026-10-02T07:02:21.003333+00:00"
   },
   {
-    "title": "EDG C++ front-end goes public",
-    "url": "https://edgcpp.org/#transition",
-    "summary": "  https://github.com/edgcpp/compiler  \n \n Comments URL:  https://news.ycombinator.com/item?id=49913192  \n Points: 204 \n # Comments: 89 ",
+    "title": "DeepSeek Harness",
+    "url": "https://www.deepseek.com/en/harness/",
+    "summary": " Article URL:  https://www.deepseek.com/en/harness/  \n Comments URL:  https://news.ycombinator.com/item?id=49929489  \n Points: 161 \n # Comments: 61 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-01T07:12:34.128692+00:00"
+    "researched_at": "2026-10-02T07:02:20.999469+00:00"
   },
   {
-    "title": "Community Migration Troubleshooting",
-    "url": "https://www.reddit.com/r/Entrepreneur/comments/1wpyvqn/community_migration_troubleshooting/",
-    "summary": "   Hey everyone. I built a platform called Nuke Nomad for nuclear contractors.   Here’s where I could use some advice. I already have a large contractor community on Skool. I want everyone together on Nuke Nomad, but even after telling people about the new platform, the move has been slow. Eventually I want to close the Skool group, and I don’t want to lose the people who make the community worth having.   If you’ve moved a community from one platform to another, what actually got people to make the switch? Did you move the most active members first, bring old content over, give people a reason to join right away, set a firm date for closing the old group, or something I’m missing?     &#32; submitted by &#32;   /u/RadTechMJ       [link]   &#32;   [comments]  ",
-    "source": "https://www.reddit.com/r/Entrepreneur/.rss",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-10-01T07:12:34.128845+00:00"
-  },
-  {
-    "title": "Coltrane's Tone Circle",
-    "url": "https://jtomschroeder.com/blog/tone-circle/",
-    "summary": " Article URL:  https://jtomschroeder.com/blog/tone-circle/  \n Comments URL:  https://news.ycombinator.com/item?id=49909908  \n Points: 50 \n # Comments: 16 ",
+    "title": "Clef: Open-weight decision models, and new RL fine-tuning platform",
+    "url": "https://blog.cloudflare.com/clef-decision-models/",
+    "summary": " Article URL:  https://blog.cloudflare.com/clef-decision-models/  \n Comments URL:  https://news.ycombinator.com/item?id=49923692  \n Points: 483 \n # Comments: 172 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-01T07:12:34.128720+00:00"
+    "researched_at": "2026-10-02T07:02:21.003337+00:00"
   },
   {
-    "title": "Before pixels: Modular industrial dashboards",
-    "url": "https://unsung.aresluna.org/before-pixels-modular-industrial-dashboards/",
-    "summary": " Article URL:  https://unsung.aresluna.org/before-pixels-modular-industrial-dashboards/  \n Comments URL:  https://news.ycombinator.com/item?id=49912792  \n Points: 103 \n # Comments: 19 ",
+    "title": "CSS Bed: Classless CSS themes to use as starting points in web development",
+    "url": "https://www.cssbed.com",
+    "summary": " Article URL:  https://www.cssbed.com  \n Comments URL:  https://news.ycombinator.com/item?id=49927212  \n Points: 94 \n # Comments: 26 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-01T07:12:34.128698+00:00"
+    "researched_at": "2026-10-02T07:02:20.999496+00:00"
   },
   {
-    "title": "A brief history of the Bloomberg terminal",
-    "url": "https://spectrum.ieee.org/bloomberg-terminal",
-    "summary": " Article URL:  https://spectrum.ieee.org/bloomberg-terminal  \n Comments URL:  https://news.ycombinator.com/item?id=49909583  \n Points: 263 \n # Comments: 114 ",
+    "title": "Butterflies use optical illusions to dodge predators",
+    "url": "https://www.essex.ac.uk/news/2026/09/30/butterflies-use-optical-illusions-to-dodge-predators",
+    "summary": " Article URL:  https://www.essex.ac.uk/news/2026/09/30/butterflies-use-optical-illusions-to-dodge-predators  \n Comments URL:  https://news.ycombinator.com/item?id=49928152  \n Points: 37 \n # Comments: 6 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-01T07:12:34.128724+00:00"
+    "researched_at": "2026-10-02T07:02:20.999479+00:00"
   },
   {
-    "title": "5x faster Edge Functions: V8 isolates to Firecracker MicroVMs",
-    "url": "https://www.netlify.com/blog/edge-functions-firecracker-microvms/",
-    "summary": " Article URL:  https://www.netlify.com/blog/edge-functions-firecracker-microvms/  \n Comments URL:  https://news.ycombinator.com/item?id=49912444  \n Points: 155 \n # Comments: 60 ",
+    "title": "Building reliable (and fast) directory sync",
+    "url": "https://www.firezone.dev/blog/building-reliable-directory-sync",
+    "summary": " Article URL:  https://www.firezone.dev/blog/building-reliable-directory-sync  \n Comments URL:  https://news.ycombinator.com/item?id=49929925  \n Points: 4 \n # Comments: 0 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-01T07:12:34.128700+00:00"
+    "researched_at": "2026-10-02T07:02:20.999465+00:00"
   },
   {
-    "title": "56k.rip – the 1996 dial-up internet experience",
-    "url": "https://56k.rip/",
-    "summary": " Article URL:  https://56k.rip/  \n Comments URL:  https://news.ycombinator.com/item?id=49915126  \n Points: 146 \n # Comments: 75 ",
+    "title": "Bez: Generating a browser engine from specs and tests",
+    "url": "https://tangled.org/burrito.space/bez",
+    "summary": " Article URL:  https://tangled.org/burrito.space/bez  \n Comments URL:  https://news.ycombinator.com/item?id=49925036  \n Points: 109 \n # Comments: 44 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-01T07:12:34.128673+00:00"
+    "researched_at": "2026-10-02T07:02:21.003325+00:00"
+  },
+  {
+    "title": "Automatic Transmission – a data-privacy study of connected vehicles",
+    "url": "https://automatictransmission.khoury.northeastern.edu/index.html",
+    "summary": " Article URL:  https://automatictransmission.khoury.northeastern.edu/index.html  \n Comments URL:  https://news.ycombinator.com/item?id=49926628  \n Points: 162 \n # Comments: 154 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-10-02T07:02:21.003298+00:00"
+  },
+  {
+    "title": "ArXiv's Updated Rate Limit Policy",
+    "url": "https://blog.arxiv.org/2026/10/01/updated-rate-limit-policy/",
+    "summary": " Article URL:  https://blog.arxiv.org/2026/10/01/updated-rate-limit-policy/  \n Comments URL:  https://news.ycombinator.com/item?id=49926512  \n Points: 103 \n # Comments: 43 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-10-02T07:02:21.003306+00:00"
   }
 ]
