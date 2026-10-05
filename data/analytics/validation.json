@@ -5,6 +5,11 @@
     "errors": []
   },
   {
+    "path": "data/content/drafts/ubi-but-only-for-small-businesses.json",
+    "passed": true,
+    "errors": []
+  },
+  {
     "path": "data/content/drafts/today-was-supposed-to-be-my-first-platform-launch-then-stripe-said-no.json",
     "passed": true,
     "errors": []
@@ -15,12 +20,7 @@
     "errors": []
   },
   {
-    "path": "data/content/drafts/opinions-on-ai-in-the-digital-product-space.json",
-    "passed": true,
-    "errors": []
-  },
-  {
-    "path": "data/content/drafts/youtube-video-production-for-b2b-companies.json",
+    "path": "data/content/drafts/sunday-steam-vent-it-or-roast-it-october-04-2026.json",
     "passed": true,
     "errors": []
   }
