@@ -1,0 +1,27 @@
+{
+  "id": "tell-hn-github-refuses-to-remove-cracked-copies-of-my-software-after-a-month",
+  "created_at": "2026-10-07T07:17:03.464199+00:00",
+  "source_title": "Tell HN: GitHub refuses to remove cracked copies of my software after a month",
+  "source_url": "https://news.ycombinator.com/item?id=49982498",
+  "source_feed": "https://hnrss.org/frontpage",
+  "research_score": 3,
+  "formats": {
+    "seo_article_outline": {
+      "title": "Tell HN: GitHub refuses to remove cracked copies of my software after a month",
+      "sections": [
+        "ปัญหาหรือคำถามที่ผู้อ่านต้องการคำตอบ",
+        "ข้อมูลพื้นฐานและข้อเท็จจริงที่ตรวจสอบได้",
+        "ทางเลือกหรือขั้นตอนที่ผู้อ่านนำไปใช้ได้",
+        "ข้อจำกัดและสิ่งที่ควรตรวจสอบเพิ่มเติม",
+        "สรุปและขั้นตอนถัดไป"
+      ],
+      "source_summary_for_editor": "I am a developer of https://www.photopea.com, a popular photo editor that runs in a web browser. Many people are asking AI models to take the Javascript code from my website, remove all ads from it, and they publish such a \"new product\" on Github for everyone to download. There exist tens of such repositories on Github. I want my website to be the only source of a stable version of my program Photopea. I even received emails from people complaining about something in Photopea, and it took several emails to figure out that they are not using Photopea.com (so it ruins my reputation a little). I reported it to Github on the 4th of September 2026: https://www.photopea.com/g/XKoqqIGv Today, a month later, I received this response: Thank you for submitting a DMCA takedown notice. We've reviewed the information you've provided, and based on the facts presented to us, we're unable to confirm a violation of 17 U.S. Code § 1201. What do you think I could do? Do you think I should look for a law",
+      "source_url": "https://news.ycombinator.com/item?id=49982498"
+    },
+    "facebook_post": "กำลังรวบรวมข้อมูลเรื่อง: Tell HN: GitHub refuses to remove cracked copies of my software after a month\\n\\nก่อนตัดสินใจ ควรตรวจสอบแหล่งข้อมูลและเปรียบเทียบทางเลือกให้เหมาะกับความต้องการของตนเอง\\n\\nแหล่งข้อมูลสำหรับตรวจสอบ: https://news.ycombinator.com/item?id=49982498",
+    "short_video_script": "Hook: คุณกำลังหาข้อมูลเรื่อง Tell HN: GitHub refuses to remove cracked copies of my software after a month อยู่หรือไม่?\\n\\nเนื้อหา: เริ่มจากตรวจสอบข้อมูลต้นทาง เปรียบเทียบข้อเท็จจริงและข้อจำกัด อย่าตัดสินใจจากพาดหัวเพียงอย่างเดียว\\n\\nCTA: อ่านข้อมูลต้นทางและตรวจสอบรายละเอียดเพิ่มเติมได้ที่ https://news.ycombinator.com/item?id=49982498",
+    "affiliate_disclosure": "Disclosure: หากมีลิงก์ Affiliate ในฉบับเผยแพร่ ผู้จัดทำอาจได้รับค่าคอมมิชชันโดยไม่มีค่าใช้จ่ายเพิ่มสำหรับผู้ซื้อ"
+  },
+  "status": "draft_requires_human_review",
+  "first_hand_experience_claimed": false
+}

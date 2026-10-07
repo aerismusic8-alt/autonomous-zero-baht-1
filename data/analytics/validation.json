@@ -1,5 +1,10 @@
 [
   {
+    "path": "data/content/drafts/tell-hn-github-refuses-to-remove-cracked-copies-of-my-software-after-a-month.json",
+    "passed": true,
+    "errors": []
+  },
+  {
     "path": "data/content/drafts/could-an-ai-podcast-help-explain-a-b2b-service-and-bring-in-customers.json",
     "passed": true,
     "errors": []
@@ -16,11 +21,6 @@
   },
   {
     "path": "data/content/drafts/sunday-steam-vent-it-or-roast-it-october-04-2026.json",
-    "passed": true,
-    "errors": []
-  },
-  {
-    "path": "data/content/drafts/opinions-on-ai-in-the-digital-product-space.json",
     "passed": true,
     "errors": []
   }
