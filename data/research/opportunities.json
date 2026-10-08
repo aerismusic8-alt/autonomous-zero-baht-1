@@ -1,18 +1,5 @@
 [
   {
-    "title": "Tell HN: GitHub refuses to remove cracked copies of my software after a month",
-    "url": "https://news.ycombinator.com/item?id=49982498",
-    "summary": " I am a developer of https://www.photopea.com, a popular photo editor that runs in a web browser. Many people are asking AI models to take the Javascript code from my website, remove all ads from it, and they publish such a \"new product\" on Github for everyone to download. There exist tens of such repositories on Github. I want my website to be the only source of a stable version of my program Photopea. I even received emails from people complaining about something in Photopea, and it took several emails to figure out that they are not using Photopea.com (so it ruins my reputation a little). I reported it to Github on the 4th of September 2026: https://www.photopea.com/g/XKoqqIGv Today, a month later, I received this response: Thank you for submitting a DMCA takedown notice. We've reviewed the information you've provided, and based on the facts presented to us, we're unable to confirm a violation of 17 U.S. Code § 1201. What do you think I could do? Do you think I should look for a law",
-    "source": "https://hnrss.org/frontpage",
-    "score": 3,
-    "matched_keywords": [
-      "ai",
-      "software",
-      "developer"
-    ],
-    "researched_at": "2026-10-07T07:17:03.462894+00:00"
-  },
-  {
     "title": "Could an AI podcast help explain a B2B service and bring in customers?",
     "url": "https://www.reddit.com/r/Entrepreneur/comments/1wwt2b3/could_an_ai_podcast_help_explain_a_b2b_service/",
     "summary": "   Recently, I experimented with a different way of explaining my web tracking service.   Let me be honest: I am a developer, and reaching out to customers is not something I am good at or feel comfortable with. On top of that, business owners were not able to connect with the service I offer, and they were asking questions that were not easy to answer in a few messages.   What I did was write a blog post in which I documented the journey of implementation, but it was quite long and more suited to educating someone already interested in the topic.   So I turned it into an AI-generated video podcast: an AI version of me as the guest, with a fictional host asking questions business owners asked me during the calls, plus others they might ask.   The answers came from my own content and implementation experience.   At an agency I previously worked with, clients would request podcast scripts and arrange studio recordings, which involved considerable time and expense. That experience made me",
@@ -23,31 +10,7 @@
       "business",
       "developer"
     ],
-    "researched_at": "2026-10-07T07:17:03.463015+00:00"
-  },
-  {
-    "title": "Today was supposed to be my first platform launch. Then Stripe said no.",
-    "url": "https://www.reddit.com/r/Entrepreneur/comments/1wv58fr/today_was_supposed_to_be_my_first_platform_launch/",
-    "summary": "   October 1st was the date I’d picked to launch my first platform.   For almost four months, I’ve been building this alongside my 9-to-5: a platform where creators (YouTubers only for the MVP) share video ideas they’re planning to make, and fans can tip them on the ones they’d like to see. Getting to the point where I could finally let people use it felt like a huge achievement. I’d never built and launched something entirely on my own before.   Then last week, one week before launch, Stripe closed our account. I was using Stripe Connect so creators could receive payments through their own connected accounts, while I took a small commission on each tip. That setup also narrowed down the alternatives. Stripe classified the business under their restricted categories, but the email wasn’t clear about whether the issue was content creation platforms or crowdfunding.   I contacted human support, explained the model, and shared our terms of service. I clarified that we don’t host any conten",
-    "source": "https://www.reddit.com/r/Entrepreneur/.rss",
-    "score": 2,
-    "matched_keywords": [
-      "ai",
-      "business"
-    ],
-    "researched_at": "2026-10-07T07:17:03.463036+00:00"
-  },
-  {
-    "title": "The mistake I made on my first day in collections (and what fixed it).",
-    "url": "https://www.reddit.com/r/Entrepreneur/comments/1wupy4j/the_mistake_i_made_on_my_first_day_in_collections/",
-    "summary": "   A collections process is not a luxury. It is the backbone of cash flow.   I learned this years ago, on my first day in collections. No system. No process. Just a ledger of overdue accounts and an order to call customers and ask for money.   I called. Customers paid when they pleased. I chased. The ledger did not shrink.    Chasing is not collecting.   A real system needs three things. A reminder before the due date. A follow-up after it. An escalation path nobody can ignore.   At one job, I processed incoming payments worth twenty million dollars a month. At another, I chased overdue accounts on a portfolio worth over a million pounds. Different jobs. Same discipline: a defined process, followed every day.   Most small service businesses skip this. They send an invoice. They wait. They send another invoice when cash gets tight. There is no reminder schedule. There is no follow-up rule. There is no escalation line that says &quot;we stop work here.&quot;   A late invoice is usually n",
-    "source": "https://www.reddit.com/r/Entrepreneur/.rss",
-    "score": 2,
-    "matched_keywords": [
-      "ai",
-      "business"
-    ],
-    "researched_at": "2026-10-07T07:17:03.463072+00:00"
+    "researched_at": "2026-10-08T07:28:05.304529+00:00"
   },
   {
     "title": "Sunday Steam: Vent It or Roast It | October 04, 2026",
@@ -59,7 +22,7 @@
       "ai",
       "business"
     ],
-    "researched_at": "2026-10-07T07:17:03.462970+00:00"
+    "researched_at": "2026-10-08T07:28:05.304497+00:00"
   },
   {
     "title": "Opinions on AI in the digital product space",
@@ -71,7 +34,7 @@
       "ai",
       "digital product"
     ],
-    "researched_at": "2026-10-07T07:17:03.463006+00:00"
+    "researched_at": "2026-10-08T07:28:05.304523+00:00"
   },
   {
     "title": "I tried to make a billionaire's salary in 60 seconds starting from $0 and here's everything that happened (I Will Not Promote)",
@@ -83,19 +46,31 @@
       "ai",
       "business"
     ],
-    "researched_at": "2026-10-07T07:17:03.462965+00:00"
+    "researched_at": "2026-10-08T07:28:05.304493+00:00"
   },
   {
-    "title": "Decisions API is in public beta",
-    "url": "https://developers.openai.com/api/docs/guides/decisions",
-    "summary": " Article URL:  https://developers.openai.com/api/docs/guides/decisions  \n Comments URL:  https://news.ycombinator.com/item?id=49984025  \n Points: 249 \n # Comments: 113 ",
-    "source": "https://hnrss.org/frontpage",
+    "title": "Do your clients know your payment terms before they sign, or only when the invoice arrives?",
+    "url": "https://www.reddit.com/r/Entrepreneur/comments/1x0eqr8/do_your_clients_know_your_payment_terms_before/",
+    "summary": "   One thing I noticed in Accounts Receivable is that many payment problems start before the invoice. If terms only show up on the invoice, the client sees them as a surprise, and surprises get ignored.   The businesses that get paid on time usually state the terms early: in the proposal, on the kickoff call, and in the contract. Then a reminder is just following what was agreed.   How does it work in your business? Do clients see your terms before they sign, or only on the invoice? And has changing how you present them made any difference to how fast you get paid?     &#32; submitted by &#32;   /u/ZainMunawari       [link]   &#32;   [comments]  ",
+    "source": "https://www.reddit.com/r/Entrepreneur/.rss",
     "score": 2,
     "matched_keywords": [
       "ai",
-      "developer"
+      "business"
     ],
-    "researched_at": "2026-10-07T07:17:03.462875+00:00"
+    "researched_at": "2026-10-08T07:28:05.304172+00:00"
+  },
+  {
+    "title": "Do you game as an entrepreneur?",
+    "url": "https://www.reddit.com/r/Entrepreneur/comments/1wzzbfm/do_you_game_as_an_entrepreneur/",
+    "summary": "   Yo guys,   I run a 6-figure agency, heading toward 7 figures soon, and I&#39;m considering playing a video game to unwind and turn off my brain (sometimes it&#39;s hard to do).   In particular, WoW Forever, which is coming soon.   However, I&#39;m worried it could ruin my drive to complete and achieve.   Some &quot;thoughts&quot; online suggest that if you point your urge for achievement/competition towards video games, you derive it from your business career.   If you game, how true is that for you?   I&#39;m more than confident it wouldn&#39;t ruin my schedule, sleep, or anything else. I&#39;m in a good spot on that front.   So I&#39;m writing here to see if you guys game? How does it affect your business?   Cheers     &#32; submitted by &#32;   /u/krokodilce       [link]   &#32;   [comments]  ",
+    "source": "https://www.reddit.com/r/Entrepreneur/.rss",
+    "score": 2,
+    "matched_keywords": [
+      "ai",
+      "business"
+    ],
+    "researched_at": "2026-10-08T07:28:05.304166+00:00"
   },
   {
     "title": "12 years running a B2B company in the Caribbean, ~$1.6M ARR, and I've never had a mentor. How did you find yours?",
@@ -107,7 +82,7 @@
       "ai",
       "business"
     ],
-    "researched_at": "2026-10-07T07:17:03.462935+00:00"
+    "researched_at": "2026-10-08T07:28:05.304182+00:00"
   },
   {
     "title": "YouTube video production for B2B companies",
@@ -118,18 +93,7 @@
     "matched_keywords": [
       "business"
     ],
-    "researched_at": "2026-10-07T07:17:03.462979+00:00"
-  },
-  {
-    "title": "What Is The Problem With Buying Land & Starting A Mobile Home Park?",
-    "url": "https://www.reddit.com/r/Entrepreneur/comments/1wunu68/what_is_the_problem_with_buying_land_starting_a/",
-    "summary": "   Buying land, setting up lots &amp; utilities, and leasing spots for people to come put their mobile home on and live there seems like an excellent business... the fact that it&#39;s not popular makes me thing there&#39;s some kind of MAJOR problem that I don&#39;t know about   I know buying them is something investors do, but I never hear about anyone buying land and starting one from scratch   What am I missing? What&#39;s the big thing that prevents this?     &#32; submitted by &#32;   /u/UnusualAd3207       [link]   &#32;   [comments]  ",
-    "source": "https://www.reddit.com/r/Entrepreneur/.rss",
-    "score": 1,
-    "matched_keywords": [
-      "business"
-    ],
-    "researched_at": "2026-10-07T07:17:03.463058+00:00"
+    "researched_at": "2026-10-08T07:28:05.304504+00:00"
   },
   {
     "title": "What AI tools have changed your life as an entrepreneur?",
@@ -140,40 +104,29 @@
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-07T07:17:03.462926+00:00"
+    "researched_at": "2026-10-08T07:28:05.304176+00:00"
   },
   {
-    "title": "Show HN: NanoMuse – An open-source AI agent for your phone and computer",
-    "url": "https://github.com/nano-muse/nanoMuse",
-    "summary": " Article URL:  https://github.com/nano-muse/nanoMuse  \n Comments URL:  https://news.ycombinator.com/item?id=49987765  \n Points: 13 \n # Comments: 0 ",
-    "source": "https://hnrss.org/frontpage",
+    "title": "Think It's Possible To Find A Capital Partner To Buy More Rentals?",
+    "url": "https://www.reddit.com/r/Entrepreneur/comments/1x04is2/think_its_possible_to_find_a_capital_partner_to/",
+    "summary": "   Wondering if it&#39;s common in RE investing to partner with someone who is willing to put up the money for down payments on rentals so we can do higher volume.    The division would look like..    One partner gets the hard money loan under their name to purchase the property, handles the rehab, gets tenants in, refinances out of the hard money loan under their name, and manages the property ongoing.    One partner funds the down payments for the hard money loans.    Obviously capital partner gets paid back right away after it&#39;s rehabbed and refinanced, and then whatever other kind of mutually beneficial arrangement they want to work out from there   Thoughts?     &#32; submitted by &#32;   /u/UnusualAd3207       [link]   &#32;   [comments]  ",
+    "source": "https://www.reddit.com/r/Entrepreneur/.rss",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-07T07:17:03.462815+00:00"
+    "researched_at": "2026-10-08T07:28:05.304160+00:00"
   },
   {
-    "title": "Sharing AI progress in mathematics",
-    "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
-    "summary": "  https://github.com/openai/math   https://github.com/openai/math/tree/main/preprints  \n \n Comments URL:  https://news.ycombinator.com/item?id=49984923  \n Points: 785 \n # Comments: 716 ",
-    "source": "https://hnrss.org/frontpage",
+    "title": "Tai Lopez was charged by the SEC for a 120 million dollar Ponzi scheme and people are STILL going to see him speak. WHY?",
+    "url": "https://www.reddit.com/r/Entrepreneur/comments/1x0coa8/tai_lopez_was_charged_by_the_sec_for_a_120/",
+    "summary": "   For the love of God, how many times does this asshat have to scam people before they see through his sociopathic bullshit?    The man has been a scammer since day 1 when he started 20 dating sites and filled them with bots, while refusing to let people quit their membership.    How stupid do you have to be to follow this guy and believe he knows what he&#39;s talking about?    - Created an NFT scam that lost 95% of value immediately  - Bought the rights to Radio Shack, Dress Barn and a bunch of shitty companies. Used this portfolio to fleece investors. Not one company made money.  - Claimed his sister had experience managing multi million dollar companies. She was a dog walker and interned at a radio station  - Promised 20% returns if people invested in his shitty portfolio of distressed companies    There is an active FBI investigation against him and I cannot wait till the 5am raid where they cuff his ass and throw him in next to Andrew Tate.      &#32; submitted by &#32;   /u/fly",
+    "source": "https://www.reddit.com/r/Entrepreneur/.rss",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-07T07:17:03.462864+00:00"
-  },
-  {
-    "title": "Penguin Mail – open-source Rust email client for Linux with AI",
-    "url": "https://penguin-mail.com/",
-    "summary": " Article URL:  https://penguin-mail.com/  \n Comments URL:  https://news.ycombinator.com/item?id=49984716  \n Points: 149 \n # Comments: 81 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 1,
-    "matched_keywords": [
-      "ai"
-    ],
-    "researched_at": "2026-10-07T07:17:03.462871+00:00"
+    "researched_at": "2026-10-08T07:28:05.304135+00:00"
   },
   {
     "title": "Monday mentorship: ask anything | October 05, 2026",
@@ -184,18 +137,18 @@
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-07T07:17:03.462956+00:00"
+    "researched_at": "2026-10-08T07:28:05.304487+00:00"
   },
   {
-    "title": "Jev-Driven SRE Diagnosis: What Worked and What Failed",
-    "url": "https://www.sregym.com/blog/jev-driven-sre-diagnosis",
-    "summary": " Article URL:  https://www.sregym.com/blog/jev-driven-sre-diagnosis  \n Comments URL:  https://news.ycombinator.com/item?id=49986765  \n Points: 27 \n # Comments: 7 ",
-    "source": "https://hnrss.org/frontpage",
+    "title": "How to navigate a corporate take over?",
+    "url": "https://www.reddit.com/r/Entrepreneur/comments/1x03wtw/how_to_navigate_a_corporate_take_over/",
+    "summary": "   A company I consulted for last year reached out in desperation. Basically, the way things ended was they were hitting a cash crunch and I offered to take a reduced salary for equity. The CEO declined and listened to the people I was warning him not to listen to.    Now, they&#39;re all gone. The only thing left is a million dollar saas company with no engineers and 1 CEO. The debt is almost half a million and the payments are preventing any opportunity for growth. He&#39;s basically treading water until one of the big customers leave.   But...   I do like the space and the relationships are not easy to get for SaaS sales.    I am an in a unique place because I have the money to invest and already know their code. They want me to be CTO and help save the company.   He knows he has to bring in investors and while I&#39;m ready to invest, I don&#39;t have enough to do what I really want to do.    This guy needs to go as CEO. He should 100% still be director of sales and product, but he",
+    "source": "https://www.reddit.com/r/Entrepreneur/.rss",
     "score": 1,
     "matched_keywords": [
-      "ai"
+      "saas"
     ],
-    "researched_at": "2026-10-07T07:17:03.462852+00:00"
+    "researched_at": "2026-10-08T07:28:05.304143+00:00"
   },
   {
     "title": "How do you tell when a big customer is pulling your business in the wrong direction?",
@@ -206,29 +159,18 @@
     "matched_keywords": [
       "business"
     ],
-    "researched_at": "2026-10-07T07:17:03.462951+00:00"
+    "researched_at": "2026-10-08T07:28:05.304483+00:00"
   },
   {
-    "title": "Have customers ever stayed for a completely different reason than they bought?",
-    "url": "https://www.reddit.com/r/Entrepreneur/comments/1wv9o8i/have_customers_ever_stayed_for_a_completely/",
-    "summary": "   I think there’s a positioning problem that’s easy to miss if most of your customer research happens before the sale.   During the sales process, you hear what someone hopes to get. Once you’re doing the work, you find out what actually makes the relationship valuable to them. Those can be pretty different things.   Take an agency, for example. A client might buy because they want more leads. Six months later, they might value the fact that someone finally owns the process and they don’t have to spend every Monday chasing updates. The leads still matter, but the relief of having that handled could be a bigger part of the renewal decision than the agency realizes.   Meanwhile, the website still says exactly what it said six months ago, because the people writing it weren’t part of those conversations.   What interests me is deciding how much that should change the pitch.   The thing that makes an existing customer stay might be your strongest selling point. It could also be something ",
+    "title": "How can you train a salesperson who is good, thinks they're the best, isn't, but COULD be?",
+    "url": "https://www.reddit.com/r/Entrepreneur/comments/1x0aj9s/how_can_you_train_a_salesperson_who_is_good/",
+    "summary": "   I run a small outbound agency that does cold calling for B2B companies. One of my callers is doing  ok . He books meetings and he&#39;s clearly capable. I like him a lot as a person and I want him to stay.   For comparison, my best caller handles 4 clients and fulfills every one of them properly while making fewer calls. This guy has 2 clients and needs a lot more volume to get there. The main difference is fundamentals. My best caller follows the script, especially the opener, and his conversations go further because of it. The other guy drifts from the script and makes up for it by dialing more.   For comparison on average my best caller gets through the opener 70% of the time while this caller gets through a little under 40%.    He can definitely be good. He&#39;s right there. I just don&#39;t know how to tell him he needs to be better without it coming across wrong.   I brought in an experienced cold caller to run group training twice a week, and most of the coaching gets met wi",
     "source": "https://www.reddit.com/r/Entrepreneur/.rss",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-07T07:17:03.463052+00:00"
-  },
-  {
-    "title": "Hackers obtain counterfeit TLS certificates for Google and other large services",
-    "url": "https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/",
-    "summary": " Article URL:  https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/  \n Comments URL:  https://news.ycombinator.com/item?id=49988230  \n Points: 35 \n # Comments: 5 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 1,
-    "matched_keywords": [
-      "ai"
-    ],
-    "researched_at": "2026-10-07T07:17:03.457595+00:00"
+    "researched_at": "2026-10-08T07:28:05.304150+00:00"
   },
   {
     "title": "Founders who’ve used Reddit for idea feedback: how did your last attempt go?",
@@ -239,29 +181,7 @@
     "matched_keywords": [
       "business"
     ],
-    "researched_at": "2026-10-07T07:17:03.462996+00:00"
-  },
-  {
-    "title": "ESP32-C3 Adblock",
-    "url": "https://github.com/M-Abozaid/esp32-c3-adblock",
-    "summary": " Article URL:  https://github.com/M-Abozaid/esp32-c3-adblock  \n Comments URL:  https://news.ycombinator.com/item?id=49986862  \n Points: 63 \n # Comments: 19 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 1,
-    "matched_keywords": [
-      "ai"
-    ],
-    "researched_at": "2026-10-07T07:17:03.462847+00:00"
-  },
-  {
-    "title": "Claude Code’s suggested message feature: I think the real customer is the model",
-    "url": "https://www.zohaib.cc/blog/smartest-claude-code-feature",
-    "summary": " Article URL:  https://www.zohaib.cc/blog/smartest-claude-code-feature  \n Comments URL:  https://news.ycombinator.com/item?id=49981905  \n Points: 175 \n # Comments: 91 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 1,
-    "matched_keywords": [
-      "ai"
-    ],
-    "researched_at": "2026-10-07T07:17:03.462901+00:00"
+    "researched_at": "2026-10-08T07:28:05.304515+00:00"
   },
   {
     "title": "📋 Entrepreneur Moderator Applications Open - Apply Now!",
@@ -270,43 +190,7 @@
     "source": "https://www.reddit.com/r/Entrepreneur/.rss",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-07T07:17:03.462916+00:00"
-  },
-  {
-    "title": "When random is not actually random enough",
-    "url": "https://ersc.io/blog/when-random-isnt-random-enough",
-    "summary": " Article URL:  https://ersc.io/blog/when-random-isnt-random-enough  \n Comments URL:  https://news.ycombinator.com/item?id=49983404  \n Points: 51 \n # Comments: 16 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-10-07T07:17:03.462879+00:00"
-  },
-  {
-    "title": "Treg (OpenRouter for Tools)",
-    "url": "https://github.com/superdesigndev/treg",
-    "summary": " Article URL:  https://github.com/superdesigndev/treg  \n Comments URL:  https://news.ycombinator.com/item?id=49980790  \n Points: 18 \n # Comments: 4 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-10-07T07:17:03.462910+00:00"
-  },
-  {
-    "title": "The art of defusing a second world war bomb",
-    "url": "https://www.theguardian.com/news/ng-interactive/2026/oct/06/it-could-knock-a-whole-street-down-the-art-of-defusing-a-second-world-war-bomb",
-    "summary": " Article URL:  https://www.theguardian.com/news/ng-interactive/2026/oct/06/it-could-knock-a-whole-street-down-the-art-of-defusing-a-second-world-war-bomb  \n Comments URL:  https://news.ycombinator.com/item?id=49987858  \n Points: 23 \n # Comments: 6 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-10-07T07:17:03.457606+00:00"
-  },
-  {
-    "title": "Thankful Thursday: Free Resources and Tools | October 01, 2026",
-    "url": "https://www.reddit.com/r/Entrepreneur/comments/1wutler/thankful_thursday_free_resources_and_tools/",
-    "summary": "   Pay it forward. Drop your free resources, templates, tools, or anything else that&#39;s helped you and might help someone else. No strings attached; these resources have to be free.     &#32; submitted by &#32;   /u/AutoModerator       [link]   &#32;   [comments]  ",
-    "source": "https://www.reddit.com/r/Entrepreneur/.rss",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-10-07T07:17:03.463063+00:00"
+    "researched_at": "2026-10-08T07:28:05.304121+00:00"
   },
   {
     "title": "Talent Tuesday: Services and Collabs | October 06, 2026",
@@ -315,7 +199,7 @@
     "source": "https://www.reddit.com/r/Entrepreneur/.rss",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-07T07:17:03.462921+00:00"
+    "researched_at": "2026-10-08T07:28:05.304127+00:00"
   },
   {
     "title": "Success Saturday: What's Going Right | October 03, 2026",
@@ -324,52 +208,7 @@
     "source": "https://www.reddit.com/r/Entrepreneur/.rss",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-07T07:17:03.463000+00:00"
-  },
-  {
-    "title": "Strands Decider 2B: a small, open-source, decision model",
-    "url": "https://strandsagents.com/blog/introducing-strands-decider/",
-    "summary": " Article URL:  https://strandsagents.com/blog/introducing-strands-decider/  \n Comments URL:  https://news.ycombinator.com/item?id=49987076  \n Points: 134 \n # Comments: 26 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-10-07T07:17:03.462843+00:00"
-  },
-  {
-    "title": "State of Devs 2026",
-    "url": "https://2026.stateofdevs.com/en-US/",
-    "summary": " Article URL:  https://2026.stateofdevs.com/en-US/  \n Comments URL:  https://news.ycombinator.com/item?id=49985643  \n Points: 130 \n # Comments: 62 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-10-07T07:17:03.462860+00:00"
-  },
-  {
-    "title": "Shaders, WebGPU Components for React, Vue, Svelte, Solid, JavaScript and Framer",
-    "url": "https://github.com/shader-effects-inc/shaders",
-    "summary": " Article URL:  https://github.com/shader-effects-inc/shaders  \n Comments URL:  https://news.ycombinator.com/item?id=49988709  \n Points: 11 \n # Comments: 3 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-10-07T07:17:03.457586+00:00"
-  },
-  {
-    "title": "OpenWAM: An Open Framework for Composable World-Action Models",
-    "url": "https://openwam.stanford.edu/",
-    "summary": " Article URL:  https://openwam.stanford.edu/  \n Comments URL:  https://news.ycombinator.com/item?id=49987679  \n Points: 7 \n # Comments: 1 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-10-07T07:17:03.462832+00:00"
-  },
-  {
-    "title": "La Cueva BBS in Mexico in 1993 (session replay)",
-    "url": "https://nanochess.org/la_cueva_bbs.html",
-    "summary": " Article URL:  https://nanochess.org/la_cueva_bbs.html  \n Comments URL:  https://news.ycombinator.com/item?id=49987675  \n Points: 39 \n # Comments: 9 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-10-07T07:17:03.462838+00:00"
+    "researched_at": "2026-10-08T07:28:05.304519+00:00"
   },
   {
     "title": "Is it me or is running startups is so hard these days",
@@ -378,42 +217,6 @@
     "source": "https://www.reddit.com/r/Entrepreneur/.rss",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-07T07:17:03.462985+00:00"
-  },
-  {
-    "title": "Feedback Friday: Rate My Ideas | October 02, 2026",
-    "url": "https://www.reddit.com/r/Entrepreneur/comments/1wvo0co/feedback_friday_rate_my_ideas_october_02_2026/",
-    "summary": "   Share your website, pitch, logo, idea, pricing, copy, or anything else you want honest eyes on. Tell us what you&#39;re looking for: brutal honesty, general impressions, or specific questions.    Return the favour and leave feedback for someone else while you&#39;re here.     &#32; submitted by &#32;   /u/AutoModerator       [link]   &#32;   [comments]  ",
-    "source": "https://www.reddit.com/r/Entrepreneur/.rss",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-10-07T07:17:03.463020+00:00"
-  },
-  {
-    "title": "Calling It Quits on ServerFault",
-    "url": "https://sysadmin1138.net/mt/blog/2026/10/calling-it-quits-on-serverfault.shtml",
-    "summary": " Article URL:  https://sysadmin1138.net/mt/blog/2026/10/calling-it-quits-on-serverfault.shtml  \n Comments URL:  https://news.ycombinator.com/item?id=49988142  \n Points: 65 \n # Comments: 28 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-10-07T07:17:03.457600+00:00"
-  },
-  {
-    "title": "California closed the Montana license plate loophole",
-    "url": "https://www.thedrive.com/news/heres-how-california-closed-the-montana-license-plate-loophole",
-    "summary": " Article URL:  https://www.thedrive.com/news/heres-how-california-closed-the-montana-license-plate-loophole  \n Comments URL:  https://news.ycombinator.com/item?id=49981186  \n Points: 100 \n # Comments: 244 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-10-07T07:17:03.462905+00:00"
-  },
-  {
-    "title": "AnyPS5: Port PS5 binaries to PC without emulation (87% system libraries mapped)",
-    "url": "https://github.com/boykopovar/AnyPS5",
-    "summary": " Article URL:  https://github.com/boykopovar/AnyPS5  \n Comments URL:  https://news.ycombinator.com/item?id=49985664  \n Points: 216 \n # Comments: 167 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-10-07T07:17:03.462856+00:00"
+    "researched_at": "2026-10-08T07:28:05.304507+00:00"
   }
 ]
