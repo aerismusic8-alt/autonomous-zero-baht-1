@@ -1,16 +1,11 @@
 [
   {
-    "path": "data/content/drafts/could-an-ai-podcast-help-explain-a-b2b-service-and-bring-in-customers.json",
+    "path": "data/content/drafts/the-per-seat-pricing-model-punishes-you-for-growing-your-team.json",
     "passed": true,
     "errors": []
   },
   {
     "path": "data/content/drafts/sunday-steam-vent-it-or-roast-it-october-04-2026.json",
-    "passed": true,
-    "errors": []
-  },
-  {
-    "path": "data/content/drafts/opinions-on-ai-in-the-digital-product-space.json",
     "passed": true,
     "errors": []
   },
@@ -21,6 +16,11 @@
   },
   {
     "path": "data/content/drafts/do-your-clients-know-your-payment-terms-before-they-sign-or-only-when-the-invoic.json",
+    "passed": true,
+    "errors": []
+  },
+  {
+    "path": "data/content/drafts/do-you-game-as-an-entrepreneur.json",
     "passed": true,
     "errors": []
   }
