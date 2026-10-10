@@ -5,12 +5,7 @@
     "errors": []
   },
   {
-    "path": "data/content/drafts/sunday-steam-vent-it-or-roast-it-october-04-2026.json",
-    "passed": true,
-    "errors": []
-  },
-  {
-    "path": "data/content/drafts/i-tried-to-make-a-billionaire-s-salary-in-60-seconds-starting-from-0-and-here-s-.json",
+    "path": "data/content/drafts/how-to-handle-people-reaching-out-to-pick-ny-brain.json",
     "passed": true,
     "errors": []
   },
@@ -21,6 +16,11 @@
   },
   {
     "path": "data/content/drafts/do-you-game-as-an-entrepreneur.json",
+    "passed": true,
+    "errors": []
+  },
+  {
+    "path": "data/content/drafts/12-years-running-a-b2b-company-in-the-caribbean-1-6m-arr-and-i-ve-never-had-a-me.json",
     "passed": true,
     "errors": []
   }
