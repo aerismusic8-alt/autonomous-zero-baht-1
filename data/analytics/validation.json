@@ -10,17 +10,17 @@
     "errors": []
   },
   {
+    "path": "data/content/drafts/what-was-the-first-business-compliance-task-that-caught-you-off-guard.json",
+    "passed": true,
+    "errors": []
+  },
+  {
+    "path": "data/content/drafts/threat-of-ai-share-crash-puts-world-financial-stability-at-risk-says-imf.json",
+    "passed": true,
+    "errors": []
+  },
+  {
     "path": "data/content/drafts/sunday-steam-vent-it-or-roast-it-october-11-2026.json",
-    "passed": true,
-    "errors": []
-  },
-  {
-    "path": "data/content/drafts/how-to-handle-people-reaching-out-to-pick-ny-brain.json",
-    "passed": true,
-    "errors": []
-  },
-  {
-    "path": "data/content/drafts/do-your-clients-know-your-payment-terms-before-they-sign-or-only-when-the-invoic.json",
     "passed": true,
     "errors": []
   }
