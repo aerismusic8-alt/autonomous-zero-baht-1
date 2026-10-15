@@ -10,7 +10,7 @@
       "business",
       "software"
     ],
-    "researched_at": "2026-10-14T06:11:15.224722+00:00"
+    "researched_at": "2026-10-15T05:55:31.119685+00:00"
   },
   {
     "title": "You have to start a remote business with nothing but a pc and an internet connection . What do you do?",
@@ -22,7 +22,7 @@
       "ai",
       "business"
     ],
-    "researched_at": "2026-10-14T06:11:15.224644+00:00"
+    "researched_at": "2026-10-15T05:55:31.119613+00:00"
   },
   {
     "title": "What was the first business compliance task that caught you off guard?",
@@ -34,7 +34,7 @@
       "ai",
       "business"
     ],
-    "researched_at": "2026-10-14T06:11:15.224637+00:00"
+    "researched_at": "2026-10-15T05:55:31.119604+00:00"
   },
   {
     "title": "Sunday Steam: Vent It or Roast It | October 11, 2026",
@@ -46,7 +46,7 @@
       "ai",
       "business"
     ],
-    "researched_at": "2026-10-14T06:11:15.224670+00:00"
+    "researched_at": "2026-10-15T05:55:31.119646+00:00"
   },
   {
     "title": "How to handle people reaching out to \"pick ny brain\"?",
@@ -58,7 +58,7 @@
       "ai",
       "business"
     ],
-    "researched_at": "2026-10-14T06:11:15.224699+00:00"
+    "researched_at": "2026-10-15T05:55:31.119657+00:00"
   },
   {
     "title": "Hello Again & Other Tidbits on Acquiring a Business",
@@ -70,19 +70,18 @@
       "ai",
       "business"
     ],
-    "researched_at": "2026-10-14T06:11:15.224629+00:00"
+    "researched_at": "2026-10-15T05:55:31.119594+00:00"
   },
   {
-    "title": "Do your clients know your payment terms before they sign, or only when the invoice arrives?",
-    "url": "https://www.reddit.com/r/Entrepreneur/comments/1x0eqr8/do_your_clients_know_your_payment_terms_before/",
-    "summary": "   One thing I noticed in Accounts Receivable is that many payment problems start before the invoice. If terms only show up on the invoice, the client sees them as a surprise, and surprises get ignored.   The businesses that get paid on time usually state the terms early: in the proposal, on the kickoff call, and in the contract. Then a reminder is just following what was agreed.   How does it work in your business? Do clients see your terms before they sign, or only on the invoice? And has changing how you present them made any difference to how fast you get paid?     &#32; submitted by &#32;   /u/ZainMunawari       [link]   &#32;   [comments]  ",
+    "title": "Why most agency SOPs fail when turned into prompts and the exact framework to automate them properly",
+    "url": "https://www.reddit.com/r/Entrepreneur/comments/1x5y0a3/why_most_agency_sops_fail_when_turned_into/",
+    "summary": "   the biggest mistake i see people make when trying to automate agency work is taking a 10 page standard operating procedure document and pasting the whole thing into claude with &quot;follow this step by step.&quot;   it works fine for the first two steps, then the AI starts skipping checks, summarizing the output, and hallucinating details halfway through. three weeks later the team gives up and goes back to doing it manually.   the problem isnt that claude cant handle your process. the problem is that human SOPs are written for human brains, not AI context windows.   humans rely on implicit assumptions, past experience, and visual judgment. when you hand a human SOP to an AI, those gaps get filled with guesses.   heres the 4-step framework we use to convert complex, multi-page agency SOPs into production-ready claude skills that run consistently every time.     strip out the human fluff and extract the core decision trees most SOPs are 70% filler. explanations of why the task matte",
     "source": "https://www.reddit.com/r/Entrepreneur/.rss",
-    "score": 2,
+    "score": 1,
     "matched_keywords": [
-      "ai",
-      "business"
+      "ai"
     ],
-    "researched_at": "2026-10-14T06:11:15.224767+00:00"
+    "researched_at": "2026-10-15T05:55:31.119583+00:00"
   },
   {
     "title": "What’s something you kept explaining on sales calls that you eventually fixed on your website?",
@@ -93,7 +92,7 @@
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-14T06:11:15.224660+00:00"
+    "researched_at": "2026-10-15T05:55:31.119633+00:00"
   },
   {
     "title": "What do you do when a client wants one of your best employees removed?",
@@ -104,18 +103,18 @@
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-14T06:11:15.224756+00:00"
+    "researched_at": "2026-10-15T05:55:31.119728+00:00"
   },
   {
-    "title": "Thunderbird for iOS",
-    "url": "https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/",
-    "summary": " Article URL:  https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/  \n Comments URL:  https://news.ycombinator.com/item?id=50072913  \n Points: 398 \n # Comments: 174 ",
+    "title": "We’re releasing Jev 1.14.0 along with experimental features for dreamers",
+    "url": "https://typesafe.ai/blog/jev-1-14",
+    "summary": " Article URL:  https://typesafe.ai/blog/jev-1-14  \n Comments URL:  https://news.ycombinator.com/item?id=50095353  \n Points: 250 \n # Comments: 84 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-14T06:11:15.224601+00:00"
+    "researched_at": "2026-10-15T05:55:31.119423+00:00"
   },
   {
     "title": "The hardest part of building software isn't the coding",
@@ -126,7 +125,7 @@
     "matched_keywords": [
       "software"
     ],
-    "researched_at": "2026-10-14T06:11:15.224728+00:00"
+    "researched_at": "2026-10-15T05:55:31.119693+00:00"
   },
   {
     "title": "Tai Lopez was charged by the SEC for a 120 million dollar Ponzi scheme and people are STILL going to see him speak. WHY?",
@@ -137,40 +136,51 @@
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-14T06:11:15.224747+00:00"
+    "researched_at": "2026-10-15T05:55:31.119716+00:00"
   },
   {
-    "title": "Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine",
-    "url": "https://pulseos.finance",
-    "summary": " Hi HN, I'm Niz. Pulse Local is a budgeting app for Mac (Apple Silicon, beta) that answers questions about your spending with models that run on your machine. Local mode needs no account. The ledger and your questions stay on the machine, and the app sends no analytics or crash logs. I felt there are not enough consumer apps that run locally with no calls to the outside world that help us manage sensitive corners of our lives. This app in its local variant only downloads a couple of models and occasional updates, it does not send any analytics nor data. Features-wise, Pulse local is a complete budgeting app that offers an assistant built on top of a fine-tuned model and thousands of rules embedded in the code itself. I'm sharing it for free with options to help me continue experimenting with fine-tuning and expanding along this direction. How it works: you import a CSV from any bank, in any currency. When you ask a question, a tuned Qwen3 0.6B model reads it into a structured query, an",
+    "title": "Show HN: Petal, open-source CoScreen/ScreenHero finally free",
+    "url": "https://petal.live/",
+    "summary": " Hi HN! I’m Jason Thomas, one of the founders of CoScreen. As some of you may know, Datadog sunset the CoScreen service on July 31st. Four of us from the original CoScreen team have spent the last couple months building a free and open source pair programming tool inspired by those that came before us: It’s called Petal ( https://github.com/kiruna-labs/petal ) Some history first, because when we started CoScreen we had hoped to break the sad and established pattern of this industry. Screenhero was an exceptional tool that a lot of us loved for pairing. Multiple cursors, low latency, you could click your partner’s editor, and just start typing. It felt like magic while we had it. Then Slack bought it in 2015, and shut down the standalone app in December 2017. When Till, Max, and I started CoScreen, we were aware of this history, and wanted to build an even more magical collaboration and screen sharing experience: the entire concept was “throw a window from your laptop up on someone else",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-14T06:11:15.224162+00:00"
+    "researched_at": "2026-10-15T05:55:31.119493+00:00"
   },
   {
-    "title": "PostEra (YC W20) Is Hiring AI Researchers for Drug Discovery",
-    "url": "https://jobs.lever.co/postera/c7d50a36-db0a-4574-bfe4-8700b74a22c0",
-    "summary": " Article URL:  https://jobs.lever.co/postera/c7d50a36-db0a-4574-bfe4-8700b74a22c0  \n Comments URL:  https://news.ycombinator.com/item?id=50078686  \n Points: 0 \n # Comments: 0 ",
+    "title": "Show HN: My Terminal Themes Web App",
+    "url": "https://news.ycombinator.com/item?id=50098454",
+    "summary": " Well, after 15 years of saying \"Someday I'll turn this into a web app,\" I finally did it! I've been maintaining a popular repo of terminal themes at  https://github.com/mbadolato/iTerm2-Color-Schemes , and it was finally time to build the app with all the features I wanted! So, the next-gen version is live at  https://terminalthemes.com ! It currently has over 800 themes, and provides downloads for close to 40 different formats (iTerm, Ghostty, Windows, and many more) It's free for everyone. An account is not needed to browse and download, but registering for an account (free) allows you to vote, bookmark, submit themes, etc. I focused on a11y features for those who need it, in addition to adding Find My Theme and other tools to make it easy to find something you like! Live terminal and code previews help show a more realistic view of the terminal, as opposed to the ANSI screenshots used at the GitHub repository. Those are still there, for those who like them. I would love for you guy",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-14T06:11:15.224183+00:00"
+    "researched_at": "2026-10-15T05:55:31.089843+00:00"
   },
   {
-    "title": "OpenAI engineer arrested in bugging of executive conference room",
-    "url": "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/",
-    "summary": "  https://x.com/OpenAINewsroom/status/2110095403198849132  \n \n Comments URL:  https://news.ycombinator.com/item?id=50078141  \n Points: 508 \n # Comments: 433 ",
+    "title": "Show HN: I wrote an email app that accepts only one sender per inbox",
+    "url": "https://clova.email/",
+    "summary": " Infinite inboxes, including prefixes where you don't have to create inboxes before you use them -- they self create when you add a suffix. Three types of inboxes:\n- One sender. Locks to the first domain to send email (except gmail, outlook, etc where it locks to an email account for obivous reasons. It bounces everyone else.\n- Temporary. Lasts for a while (24h, 7days, etc) then bounces. Received messages stay or go as per your choice.\n- Prefix. The most powerful. Declare a prefix like \"service\" and then invent any suffix, like \"service-netflix\" or \"service$bank\" and it creates a new one-sender inbox locked to whoever wrote first. Bring you own domain. Bring your own AI (MCP server ready). Forwarding. Please help me test it. \n \n Comments URL:  https://news.ycombinator.com/item?id=50090932  \n Points: 97 \n # Comments: 75 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-14T06:11:15.224188+00:00"
+    "researched_at": "2026-10-15T05:55:31.119520+00:00"
+  },
+  {
+    "title": "One thing I underestimated when starting a business: the work behind the scenes",
+    "url": "https://www.reddit.com/r/Entrepreneur/comments/1x5vleb/one_thing_i_underestimated_when_starting_a/",
+    "summary": "   When people talk about starting a business, the conversation usually focuses on finding customers, marketing, sales, and making the first revenue. But running a business also means managing the work behind the scenes -documentation, deadlines, accounting, employee-related processes, and keeping everything organised as the business grows. One lesson I&#39;ve learned is that having a simple system early can save a lot of confusion later. Even a basic calendar for important dates and a well-organised folder for business documents can make a difference. For other entrepreneurs here, what system or process helped you manage your business better as it started growing?     &#32; submitted by &#32;   /u/Traditional_Key8982       [link]   &#32;   [comments]  ",
+    "source": "https://www.reddit.com/r/Entrepreneur/.rss",
+    "score": 1,
+    "matched_keywords": [
+      "business"
+    ],
+    "researched_at": "2026-10-15T05:55:31.119571+00:00"
   },
   {
     "title": "Monday mentorship: ask anything | October 12, 2026",
@@ -181,40 +191,29 @@
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-14T06:11:15.224665+00:00"
+    "researched_at": "2026-10-15T05:55:31.119639+00:00"
   },
   {
-    "title": "I posted to HN, and then my website was flooded with AI bot traffic",
-    "url": "https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic",
-    "summary": " Article URL:  https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic  \n Comments URL:  https://news.ycombinator.com/item?id=50073221  \n Points: 306 \n # Comments: 164 ",
+    "title": "LFM2.5-24B-A2B: Built for fast on-device agents",
+    "url": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
+    "summary": " Article URL:  https://www.liquid.ai/blog/lfm2-5-24b-a2b  \n Comments URL:  https://news.ycombinator.com/item?id=50097369  \n Points: 143 \n # Comments: 36 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-14T06:11:15.224591+00:00"
+    "researched_at": "2026-10-15T05:55:31.089854+00:00"
   },
   {
-    "title": "I built a tool to track what AI leaders say and how their views change on video",
-    "url": "https://blumify.io/people",
-    "summary": " Article URL:  https://blumify.io/people  \n Comments URL:  https://news.ycombinator.com/item?id=50081151  \n Points: 66 \n # Comments: 46 ",
+    "title": "Has AI tells",
+    "url": "https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1",
+    "summary": " Article URL:  https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1  \n Comments URL:  https://news.ycombinator.com/item?id=50090799  \n Points: 99 \n # Comments: 89 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-14T06:11:15.224147+00:00"
-  },
-  {
-    "title": "How can you train a salesperson who is good, thinks they're the best, isn't, but COULD be?",
-    "url": "https://www.reddit.com/r/Entrepreneur/comments/1x0aj9s/how_can_you_train_a_salesperson_who_is_good/",
-    "summary": "   I run a small outbound agency that does cold calling for B2B companies. One of my callers is doing  ok . He books meetings and he&#39;s clearly capable. I like him a lot as a person and I want him to stay.   For comparison, my best caller handles 4 clients and fulfills every one of them properly while making fewer calls. This guy has 2 clients and needs a lot more volume to get there. The main difference is fundamentals. My best caller follows the script, especially the opener, and his conversations go further because of it. The other guy drifts from the script and makes up for it by dialing more.   For comparison on average my best caller gets through the opener 70% of the time while this caller gets through a little under 40%.    He can definitely be good. He&#39;s right there. I just don&#39;t know how to tell him he needs to be better without it coming across wrong.   I brought in an experienced cold caller to run group training twice a week, and most of the coaching gets met wi",
-    "source": "https://www.reddit.com/r/Entrepreneur/.rss",
-    "score": 1,
-    "matched_keywords": [
-      "ai"
-    ],
-    "researched_at": "2026-10-14T06:11:15.224776+00:00"
+    "researched_at": "2026-10-15T05:55:31.119525+00:00"
   },
   {
     "title": "Do any of you only work 4 hours/day even though you're still in 'grind mode'?",
@@ -225,18 +224,18 @@
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-14T06:11:15.224738+00:00"
+    "researched_at": "2026-10-15T05:55:31.119705+00:00"
   },
   {
-    "title": "Apple's new 'Switch to Safari' campaign details why you should ditch Chrome",
-    "url": "https://9to5mac.com/2026/10/12/apples-new-switch-to-safari-campaign-details-why-you-should-ditch-chrome/",
-    "summary": "  https://www.apple.com/safari/switch/  \n \n Comments URL:  https://news.ycombinator.com/item?id=50072286  \n Points: 243 \n # Comments: 396 ",
+    "title": "Containment and monitoring failures are to blame for AI hacking reports: experts",
+    "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
+    "summary": " Article URL:  https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html  \n Comments URL:  https://news.ycombinator.com/item?id=50091788  \n Points: 861 \n # Comments: 498 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-14T06:11:15.224605+00:00"
+    "researched_at": "2026-10-15T05:55:31.119508+00:00"
   },
   {
     "title": "📋 Entrepreneur Moderator Applications Open - Apply Now!",
@@ -245,16 +244,43 @@
     "source": "https://www.reddit.com/r/Entrepreneur/.rss",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-14T06:11:15.224615+00:00"
+    "researched_at": "2026-10-15T05:55:31.119554+00:00"
   },
   {
-    "title": "The United Kingdom generates less electricity per person than in the 1970s",
-    "url": "https://ourworldindata.org/data-insights/electricity-generation-per-person-in-the-united-kingdom-has-fallen-by-a-third-from-its-early-2000s-peak",
-    "summary": " Article URL:  https://ourworldindata.org/data-insights/electricity-generation-per-person-in-the-united-kingdom-has-fallen-by-a-third-from-its-early-2000s-peak  \n Comments URL:  https://news.ycombinator.com/item?id=50072994  \n Points: 265 \n # Comments: 362 ",
+    "title": "Virtual Oxide Labs: Emulating a Full Oxide Rack",
+    "url": "https://oxide.computer/blog/voxel-labs",
+    "summary": " Article URL:  https://oxide.computer/blog/voxel-labs  \n Comments URL:  https://news.ycombinator.com/item?id=50092423  \n Points: 104 \n # Comments: 9 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-14T06:11:15.224596+00:00"
+    "researched_at": "2026-10-15T05:55:31.119499+00:00"
+  },
+  {
+    "title": "Tiny Little Office",
+    "url": "https://tinylittleoffice.com/",
+    "summary": " Article URL:  https://tinylittleoffice.com/  \n Comments URL:  https://news.ycombinator.com/item?id=50096142  \n Points: 270 \n # Comments: 41 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-10-15T05:55:31.089857+00:00"
+  },
+  {
+    "title": "Things to know when you get cancer",
+    "url": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
+    "summary": " Article URL:  https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/  \n Comments URL:  https://news.ycombinator.com/item?id=50093568  \n Points: 1070 \n # Comments: 267 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-10-15T05:55:31.119463+00:00"
+  },
+  {
+    "title": "The Double Headed Stack Allocator",
+    "url": "https://blog.demofox.org/2026/10/03/the-double-headed-stack-allocator/",
+    "summary": " Article URL:  https://blog.demofox.org/2026/10/03/the-double-headed-stack-allocator/  \n Comments URL:  https://news.ycombinator.com/item?id=50098274  \n Points: 38 \n # Comments: 10 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-10-15T05:55:31.089849+00:00"
   },
   {
     "title": "Thankful Thursday: Free Resources and Tools | October 08, 2026",
@@ -263,7 +289,7 @@
     "source": "https://www.reddit.com/r/Entrepreneur/.rss",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-14T06:11:15.224760+00:00"
+    "researched_at": "2026-10-15T05:55:31.119734+00:00"
   },
   {
     "title": "Talent Tuesday: Services and Collabs | October 13, 2026",
@@ -272,7 +298,7 @@
     "source": "https://www.reddit.com/r/Entrepreneur/.rss",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-14T06:11:15.224621+00:00"
+    "researched_at": "2026-10-15T05:55:31.119561+00:00"
   },
   {
     "title": "Success Saturday: What's Going Right | October 10, 2026",
@@ -281,52 +307,16 @@
     "source": "https://www.reddit.com/r/Entrepreneur/.rss",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-14T06:11:15.224705+00:00"
+    "researched_at": "2026-10-15T05:55:31.119663+00:00"
   },
   {
-    "title": "Show HN: XY Music Notation",
-    "url": "https://music.xy.dev/",
-    "summary": " I've been playing around with a new kind of isomorphic music keyboard that uses a base-12 notation, and wanted some sheet music to learn some new music for it. The idea is to represent each note in 12-TET as a number, so  N ∈ (0,1,2,3,4,5,6,7,8,9,X,Y). I used codex to build a music score rendering backend based on MuseScore with custom note heads that display the pitch class of each note. I've found it pretty helpful for learning how to play my own instrument, so wanted to share in case anyone else was interested. \n \n Comments URL:  https://news.ycombinator.com/item?id=50075665  \n Points: 65 \n # Comments: 48 ",
+    "title": "Submarine cable resilience",
+    "url": "https://blog.apnic.net/2026/10/14/submarine-cable-resilience/",
+    "summary": " Article URL:  https://blog.apnic.net/2026/10/14/submarine-cable-resilience/  \n Comments URL:  https://news.ycombinator.com/item?id=50089229  \n Points: 143 \n # Comments: 54 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-14T06:11:15.224564+00:00"
-  },
-  {
-    "title": "Show HN: How random are you?",
-    "url": "https://lab.specr.net/rigged-draw/",
-    "summary": " Article URL:  https://lab.specr.net/rigged-draw/  \n Comments URL:  https://news.ycombinator.com/item?id=50074909  \n Points: 121 \n # Comments: 64 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-10-14T06:11:15.224577+00:00"
-  },
-  {
-    "title": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
-    "url": "https://guitoro.com/",
-    "summary": " Guitoro is a free browser guitar using recordings of real instruments. You can strum with your keyboard, mouse, or touchscreen, choose acoustic, classical, electric guitar or bass, and see chord fingering and each stroke. Song practice can be slowed to 20%, and there are free chord tools and tuners. No signup or download. 1 minute video demo:  https://youtu.be/DtcluMLdSgs  I would love feedback on how the strumming feels and sounds. \n \n Comments URL:  https://news.ycombinator.com/item?id=50077020  \n Points: 374 \n # Comments: 99 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-10-14T06:11:15.224194+00:00"
-  },
-  {
-    "title": "Redesigning source control at Anthropic",
-    "url": "https://www.anthropic.com/engineering/redesigning-source-control",
-    "summary": " Article URL:  https://www.anthropic.com/engineering/redesigning-source-control  \n Comments URL:  https://news.ycombinator.com/item?id=50073633  \n Points: 670 \n # Comments: 644 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-10-14T06:11:15.224587+00:00"
-  },
-  {
-    "title": "Recreational Programming",
-    "url": "https://www.cphiri.dev/presentations/recreational-programming",
-    "summary": " Article URL:  https://www.cphiri.dev/presentations/recreational-programming  \n Comments URL:  https://news.ycombinator.com/item?id=50079865  \n Points: 123 \n # Comments: 47 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-10-14T06:11:15.224175+00:00"
+    "researched_at": "2026-10-15T05:55:31.119541+00:00"
   },
   {
     "title": "Purchasing existing IG accounts when starting?",
@@ -335,43 +325,34 @@
     "source": "https://www.reddit.com/r/Entrepreneur/.rss",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-14T06:11:15.224710+00:00"
+    "researched_at": "2026-10-15T05:55:31.119671+00:00"
   },
   {
-    "title": "Is 'Attention' the Essence of Intelligence?",
-    "url": "https://www.quantamagazine.org/is-attention-the-essence-of-intelligence-20261012/",
-    "summary": " Article URL:  https://www.quantamagazine.org/is-attention-the-essence-of-intelligence-20261012/  \n Comments URL:  https://news.ycombinator.com/item?id=50081930  \n Points: 45 \n # Comments: 31 ",
+    "title": "Passkeys are not a trap",
+    "url": "https://scotthelme.co.uk/passkeys-are-not-a-trap/",
+    "summary": " Article URL:  https://scotthelme.co.uk/passkeys-are-not-a-trap/  \n Comments URL:  https://news.ycombinator.com/item?id=50088935  \n Points: 550 \n # Comments: 716 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-14T06:11:15.224142+00:00"
+    "researched_at": "2026-10-15T05:55:31.119546+00:00"
   },
   {
-    "title": "Grace Hopper Celebration Cancelled",
-    "url": "https://anitab.org/press-release",
-    "summary": " Article URL:  https://anitab.org/press-release  \n Comments URL:  https://news.ycombinator.com/item?id=50080007  \n Points: 94 \n # Comments: 24 ",
+    "title": "OpenCode 2.0",
+    "url": "https://anoma.ly/notes/opencode-2-0/",
+    "summary": " Article URL:  https://anoma.ly/notes/opencode-2-0/  \n Comments URL:  https://news.ycombinator.com/item?id=50094994  \n Points: 467 \n # Comments: 194 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-14T06:11:15.224170+00:00"
+    "researched_at": "2026-10-15T05:55:31.119443+00:00"
   },
   {
-    "title": "Gemini 4 Argon",
-    "url": "https://deepmind.google/models/gemini/",
-    "summary": " See also:  Gemini 4 Argon for Robotics  -  https://news.ycombinator.com/item?id=50074869  \n \n Comments URL:  https://news.ycombinator.com/item?id=50073879  \n Points: 1174 \n # Comments: 837 ",
+    "title": "Fire at Starlink site in Bulgaria after suspected sabotage in Poland",
+    "url": "https://dpa-international.com/politics/urn:newsml:dpa.com:20090101:261014-930-839530/",
+    "summary": " Article URL:  https://dpa-international.com/politics/urn:newsml:dpa.com:20090101:261014-930-839530/  \n Comments URL:  https://news.ycombinator.com/item?id=50092730  \n Points: 330 \n # Comments: 214 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-14T06:11:15.224583+00:00"
-  },
-  {
-    "title": "Felix Rieseberg Homepage",
-    "url": "https://felixrieseberg.com/",
-    "summary": " Article URL:  https://felixrieseberg.com/  \n Comments URL:  https://news.ycombinator.com/item?id=50082470  \n Points: 64 \n # Comments: 23 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-10-14T06:11:15.224134+00:00"
+    "researched_at": "2026-10-15T05:55:31.119469+00:00"
   },
   {
     "title": "Feedback Friday: Rate My Ideas | October 09, 2026",
@@ -380,33 +361,51 @@
     "source": "https://www.reddit.com/r/Entrepreneur/.rss",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-14T06:11:15.224716+00:00"
+    "researched_at": "2026-10-15T05:55:31.119677+00:00"
   },
   {
-    "title": "Do Frameworks Matter Anymore?",
-    "url": "https://brookslybrand.com/posts/do-frameworks-matter-anymore/",
-    "summary": " Article URL:  https://brookslybrand.com/posts/do-frameworks-matter-anymore/  \n Comments URL:  https://news.ycombinator.com/item?id=50081092  \n Points: 25 \n # Comments: 14 ",
+    "title": "Fancy Curl Sites",
+    "url": "https://nytpu.com/gemlog/2026-03-18",
+    "summary": " Article URL:  https://nytpu.com/gemlog/2026-03-18  \n Comments URL:  https://news.ycombinator.com/item?id=50093612  \n Points: 109 \n # Comments: 20 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-14T06:11:15.224152+00:00"
+    "researched_at": "2026-10-15T05:55:31.119457+00:00"
   },
   {
-    "title": "Apple HomeView",
-    "url": "https://www.apple.com/apple-homeview/",
-    "summary": " Article URL:  https://www.apple.com/apple-homeview/  \n Comments URL:  https://news.ycombinator.com/item?id=50071017  \n Points: 705 \n # Comments: 835 ",
+    "title": "Better HTTP/1 connection reuse in Go 1.27",
+    "url": "https://go.dev/blog/http-connection-reuse",
+    "summary": " Article URL:  https://go.dev/blog/http-connection-reuse  \n Comments URL:  https://news.ycombinator.com/item?id=50090369  \n Points: 225 \n # Comments: 34 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-14T06:11:15.224608+00:00"
+    "researched_at": "2026-10-15T05:55:31.119530+00:00"
   },
   {
-    "title": "AlphaNIST",
-    "url": "https://alpha-nist.github.io/",
-    "summary": " Article URL:  https://alpha-nist.github.io/  \n Comments URL:  https://news.ycombinator.com/item?id=50079464  \n Points: 61 \n # Comments: 22 ",
+    "title": "Anthropic's Scion is heavily inspired by Mononoke",
+    "url": "https://sunshowers.io/posts/anthropic-mononoke/",
+    "summary": " Article URL:  https://sunshowers.io/posts/anthropic-mononoke/  \n Comments URL:  https://news.ycombinator.com/item?id=50094694  \n Points: 334 \n # Comments: 123 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-14T06:11:15.224179+00:00"
+    "researched_at": "2026-10-15T05:55:31.119451+00:00"
+  },
+  {
+    "title": "An Apology",
+    "url": "https://www.elevationlab.com/blogs/news/an-apology",
+    "summary": " Article URL:  https://www.elevationlab.com/blogs/news/an-apology  \n Comments URL:  https://news.ycombinator.com/item?id=50099121  \n Points: 27 \n # Comments: 11 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-10-15T05:55:31.089829+00:00"
+  },
+  {
+    "title": "Americans' social activity has steeply declined in the past 30 years",
+    "url": "https://www.dataforprogress.org/blog/2026/9/29/americans-social-activity-has-steeply-declined-in-the-past-30-years",
+    "summary": " Article URL:  https://www.dataforprogress.org/blog/2026/9/29/americans-social-activity-has-steeply-declined-in-the-past-30-years  \n Comments URL:  https://news.ycombinator.com/item?id=50089921  \n Points: 316 \n # Comments: 312 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-10-15T05:55:31.119536+00:00"
   }
 ]
