@@ -10,17 +10,17 @@
     "errors": []
   },
   {
+    "path": "data/content/drafts/y-all-feel-like-you-don-t-make-progress-fast-enough.json",
+    "passed": true,
+    "errors": []
+  },
+  {
     "path": "data/content/drafts/what-was-the-first-business-compliance-task-that-caught-you-off-guard.json",
     "passed": true,
     "errors": []
   },
   {
     "path": "data/content/drafts/sunday-steam-vent-it-or-roast-it-october-11-2026.json",
-    "passed": true,
-    "errors": []
-  },
-  {
-    "path": "data/content/drafts/i-wrote-a-60-second-business-pitch-and-won-35-000-for-it.json",
     "passed": true,
     "errors": []
   }
