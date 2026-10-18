@@ -1,18 +1,5 @@
 [
   {
-    "title": "The per seat pricing model punishes you for growing your team",
-    "url": "https://www.reddit.com/r/Entrepreneur/comments/1x18sjn/the_per_seat_pricing_model_punishes_you_for/",
-    "summary": "   Most software for service businesses charges per user. That means every cleaner you add to the system raises your monthly bill. Think about how backwards that is. You hire more people because the business is growing, and your tools tax you for it.   I switched to a CRM that charges a flat rate no matter how many cleaners I add, and it changed how I use the thing. Cleaners actually get their own logins. Jobs get assigned properly instead of me texting addresses around. Nothing lives in my head anymore because there is no penalty for putting the whole team in the system.     &#32; submitted by &#32;   /u/BagAdministrative330       [link]   &#32;   [comments]  ",
-    "source": "https://www.reddit.com/r/Entrepreneur/.rss",
-    "score": 3,
-    "matched_keywords": [
-      "ai",
-      "business",
-      "software"
-    ],
-    "researched_at": "2026-10-17T05:37:49.430090+00:00"
-  },
-  {
     "title": "You have to start a remote business with nothing but a pc and an internet connection . What do you do?",
     "url": "https://www.reddit.com/r/Entrepreneur/comments/1x3ujku/you_have_to_start_a_remote_business_with_nothing/",
     "summary": "   You have to start a remote business with nothing but a pc and an internet connection and yourself. What business would you start and why.   All your bills and expenditure are already paid up for a decade so you can focus on the business.    Rules      Remote only - no in face meetings.   You can have a high end PC or Mac of your choice.   You have to make as much money as you can in 10 years   Has to be a new business, can&#39;t continue one you already have.   Clients or business can be anywhere in the world but you work remotely from home.     What would you do?     &#32; submitted by &#32;   /u/RenderSlaver       [link]   &#32;   [comments]  ",
@@ -22,7 +9,7 @@
       "ai",
       "business"
     ],
-    "researched_at": "2026-10-17T05:37:49.430035+00:00"
+    "researched_at": "2026-10-18T05:57:51.557683+00:00"
   },
   {
     "title": "Y'all feel like you don't make progress fast enough?",
@@ -34,7 +21,7 @@
       "ai",
       "business"
     ],
-    "researched_at": "2026-10-17T05:37:49.429972+00:00"
+    "researched_at": "2026-10-18T05:57:51.557613+00:00"
   },
   {
     "title": "What was the first business compliance task that caught you off guard?",
@@ -46,7 +33,7 @@
       "ai",
       "business"
     ],
-    "researched_at": "2026-10-17T05:37:49.430029+00:00"
+    "researched_at": "2026-10-18T05:57:51.557676+00:00"
   },
   {
     "title": "Sunday Steam: Vent It or Roast It | October 11, 2026",
@@ -58,7 +45,31 @@
       "ai",
       "business"
     ],
-    "researched_at": "2026-10-17T05:37:49.430061+00:00"
+    "researched_at": "2026-10-18T05:57:51.557708+00:00"
+  },
+  {
+    "title": "Show HN: Sphinx – a hook that quizzes you on your AI's code before shipping",
+    "url": "https://sphinx-six-theta.vercel.app/",
+    "summary": " FOSS, Basically it plugs into your existing coding agent workflow and every time you push to prod it'll throw up a questionnaire that checks if you understand how the code you're pushing works. \n \n Comments URL:  https://news.ycombinator.com/item?id=50137950  \n Points: 36 \n # Comments: 11 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 2,
+    "matched_keywords": [
+      "ai",
+      "workflow"
+    ],
+    "researched_at": "2026-10-18T05:57:51.557480+00:00"
+  },
+  {
+    "title": "Show HN: Esp32sim – Run ESP32 firmware in the browser",
+    "url": "https://github.com/mikroverk/esp32sim",
+    "summary": " Hi HN, I’ve been working on esp32sim, an open-source ESP32 emulator that runs in the browser. The fun part of the demo is that there is no ESP32 involved — the firmware is executing in the emulator. The goal is to make ESP32 software easier to experiment with, test and simulate without always needing physical hardware connected. Source:\n https://github.com/mikroverk/esp32sim  I made a short video showing it in action:\n https://youtu.be/waoWFilTWEc  I’m particularly interested in feedback from embedded developers: what would an emulator like this need to support before you’d actually use it for development, testing or CI? \n \n Comments URL:  https://news.ycombinator.com/item?id=50131189  \n Points: 147 \n # Comments: 15 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 2,
+    "matched_keywords": [
+      "software",
+      "developer"
+    ],
+    "researched_at": "2026-10-18T05:57:51.557554+00:00"
   },
   {
     "title": "How to handle people reaching out to \"pick ny brain\"?",
@@ -70,7 +81,7 @@
       "ai",
       "business"
     ],
-    "researched_at": "2026-10-17T05:37:49.430069+00:00"
+    "researched_at": "2026-10-18T05:57:51.557716+00:00"
   },
   {
     "title": "How do I maximize social media for multiple businesses/projects",
@@ -82,7 +93,7 @@
       "ai",
       "business"
     ],
-    "researched_at": "2026-10-17T05:37:49.429981+00:00"
+    "researched_at": "2026-10-18T05:57:51.557622+00:00"
   },
   {
     "title": "Hello Again & Other Tidbits on Acquiring a Business",
@@ -94,18 +105,7 @@
       "ai",
       "business"
     ],
-    "researched_at": "2026-10-17T05:37:49.430017+00:00"
-  },
-  {
-    "title": "You could have invented transformers from memory",
-    "url": "https://alexwang.ai/posts/associative-memory/",
-    "summary": " Article URL:  https://alexwang.ai/posts/associative-memory/  \n Comments URL:  https://news.ycombinator.com/item?id=50122878  \n Points: 208 \n # Comments: 59 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 1,
-    "matched_keywords": [
-      "ai"
-    ],
-    "researched_at": "2026-10-17T05:37:49.429901+00:00"
+    "researched_at": "2026-10-18T05:57:51.557664+00:00"
   },
   {
     "title": "Why most agency SOPs fail when turned into prompts and the exact framework to automate them properly",
@@ -116,7 +116,7 @@
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-17T05:37:49.430009+00:00"
+    "researched_at": "2026-10-18T05:57:51.557656+00:00"
   },
   {
     "title": "What’s something you kept explaining on sales calls that you eventually fixed on your website?",
@@ -127,7 +127,7 @@
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-17T05:37:49.430051+00:00"
+    "researched_at": "2026-10-18T05:57:51.557698+00:00"
   },
   {
     "title": "What's one business process you wish you'd simplified earlier?",
@@ -138,29 +138,29 @@
     "matched_keywords": [
       "business"
     ],
-    "researched_at": "2026-10-17T05:37:49.429988+00:00"
+    "researched_at": "2026-10-18T05:57:51.557634+00:00"
   },
   {
-    "title": "Show HN: Gemini 4 Argon plays StarCraft",
-    "url": "https://starskirmish.com/bench/v0-2/",
-    "summary": " I've refreshed StarSkirmish Bench, a benchmark where LLMs play StarCraft BW by writing code, with results from the flagship models of OpenAI, Anthropic, Google, and Muse \n \n Comments URL:  https://news.ycombinator.com/item?id=50118688  \n Points: 206 \n # Comments: 90 ",
+    "title": "Show HN: 500 clocks in one 6.3 MB HTML file by Opus 5.5",
+    "url": "https://tkgally.github.io/500-clocks/",
+    "summary": " Lately I've been testing frontier models by having them create self-contained web pages that display clocks--sort of my personal version of Simon Willison’s pelican-on-a-bicycle metric. I have been particularly impressed by the variety, interest, and quality of the clocks created by Claude Opus 5.5. Over the course of several sessions in the Claude chat interface, I had it build a total of 500 clocks. Claude’s summary of the prompting process and page design is here:  https://github.com/tkgally/500-clocks/tree/main  \n \n Comments URL:  https://news.ycombinator.com/item?id=50137820  \n Points: 11 \n # Comments: 2 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-17T05:37:49.429941+00:00"
+    "researched_at": "2026-10-18T05:57:51.557492+00:00"
   },
   {
-    "title": "Show HN: Fakeipedia – Wikipedia for worlds that don't exist",
-    "url": "https://fakeipedia.org",
-    "summary": " Hi HN! Fakeipedia is an automatic world-building platform which takes an imagined world and makes a whole wiki that you can endlessly explore by clicking red links. I came up with this idea a few months ago after playing around with worldbuilding in Gemini, but I didn't want to release it until a powerful enough model could do it justice, and I decided that Argon is creative enough to write articles that are worth reading. I was surprised how well it turned out and how engaging some of the writing actually is. If you want to generate an article there is a nominal charge attached ($0.90), which helps cover AI/Stripe costs, and I think I just about break even. You can also steer the generation ala choose-your-own-adventure books when generating a new article. Everything generated is free and public for everyone to see. I hope you like it and I'm very much open to hearing about new world ideas/features that would make this project better. \n \n Comments URL:  https://news.ycombinator.com/i",
+    "title": "Pele – Mermaid diagrams as themeable SVG",
+    "url": "https://pele.run/",
+    "summary": " Article URL:  https://pele.run/  \n Comments URL:  https://news.ycombinator.com/item?id=50132193  \n Points: 353 \n # Comments: 30 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-17T05:37:49.429872+00:00"
+    "researched_at": "2026-10-18T05:57:51.557532+00:00"
   },
   {
     "title": "One thing I underestimated when starting a business: the work behind the scenes",
@@ -171,18 +171,7 @@
     "matched_keywords": [
       "business"
     ],
-    "researched_at": "2026-10-17T05:37:49.430000+00:00"
-  },
-  {
-    "title": "Nine-Inch Snails",
-    "url": "https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/",
-    "summary": " Article URL:  https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/  \n Comments URL:  https://news.ycombinator.com/item?id=50125545  \n Points: 43 \n # Comments: 20 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 1,
-    "matched_keywords": [
-      "ai"
-    ],
-    "researched_at": "2026-10-17T05:37:49.429882+00:00"
+    "researched_at": "2026-10-18T05:57:51.557647+00:00"
   },
   {
     "title": "Monday mentorship: ask anything | October 12, 2026",
@@ -193,51 +182,29 @@
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-17T05:37:49.430056+00:00"
+    "researched_at": "2026-10-18T05:57:51.557703+00:00"
   },
   {
-    "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
-    "url": "https://github.com/cobanov/PS5LM",
-    "summary": " Article URL:  https://github.com/cobanov/PS5LM  \n Comments URL:  https://news.ycombinator.com/item?id=50122431  \n Points: 239 \n # Comments: 62 ",
+    "title": "DeepSeek-v4.1-Flash-1017",
+    "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+    "summary": "  https://api-docs.deepseek.com/news/news261017/   https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017  \n \n Comments URL:  https://news.ycombinator.com/item?id=50129045  \n Points: 789 \n # Comments: 623 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-17T05:37:49.429913+00:00"
+    "researched_at": "2026-10-18T05:57:51.557566+00:00"
   },
   {
-    "title": "I love software rendering",
-    "url": "https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/",
-    "summary": " Article URL:  https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/  \n Comments URL:  https://news.ycombinator.com/item?id=50117746  \n Points: 311 \n # Comments: 196 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 1,
-    "matched_keywords": [
-      "software"
-    ],
-    "researched_at": "2026-10-17T05:37:49.429950+00:00"
-  },
-  {
-    "title": "FLUX 3 Image Klein",
-    "url": "https://bfl.ai/blog/flux-3-image-klein",
-    "summary": " Article URL:  https://bfl.ai/blog/flux-3-image-klein  \n Comments URL:  https://news.ycombinator.com/item?id=50123580  \n Points: 141 \n # Comments: 39 ",
+    "title": "Codex Desktop continuously generates Crashpad pending dumps",
+    "url": "https://github.com/openai/codex/issues/25921",
+    "summary": " Article URL:  https://github.com/openai/codex/issues/25921  \n Comments URL:  https://news.ycombinator.com/item?id=50133231  \n Points: 114 \n # Comments: 41 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-17T05:37:49.429891+00:00"
-  },
-  {
-    "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
-    "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
-    "summary": " Article URL:  https://www.mercor.com/research/labor-index/benchmark-map/  \n Comments URL:  https://news.ycombinator.com/item?id=50121179  \n Points: 452 \n # Comments: 391 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 1,
-    "matched_keywords": [
-      "ai"
-    ],
-    "researched_at": "2026-10-17T05:37:49.429926+00:00"
+    "researched_at": "2026-10-18T05:57:51.557514+00:00"
   },
   {
     "title": "📋 Entrepreneur Moderator Applications Open - Apply Now!",
@@ -246,16 +213,16 @@
     "source": "https://www.reddit.com/r/Entrepreneur/.rss",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-17T05:37:49.429956+00:00"
+    "researched_at": "2026-10-18T05:57:51.557582+00:00"
   },
   {
-    "title": "eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear",
-    "url": "https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear",
-    "summary": " Article URL:  https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear  \n Comments URL:  https://news.ycombinator.com/item?id=50122034  \n Points: 199 \n # Comments: 157 ",
+    "title": "The game industry is broken – can we fix it?",
+    "url": "https://knowledge.edge-online.com/p/the-game-industry-is-broken-can-we-fix-it-tim-sweeney-edge-crash",
+    "summary": " Article URL:  https://knowledge.edge-online.com/p/the-game-industry-is-broken-can-we-fix-it-tim-sweeney-edge-crash  \n Comments URL:  https://news.ycombinator.com/item?id=50138156  \n Points: 4 \n # Comments: 0 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-17T05:37:49.429917+00:00"
+    "researched_at": "2026-10-18T05:57:51.557452+00:00"
   },
   {
     "title": "Thankful Thursday: Free Resources and Tools | October 15, 2026",
@@ -264,7 +231,7 @@
     "source": "https://www.reddit.com/r/Entrepreneur/.rss",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-17T05:37:49.429992+00:00"
+    "researched_at": "2026-10-18T05:57:51.557639+00:00"
   },
   {
     "title": "Talent Tuesday: Services and Collabs | October 13, 2026",
@@ -273,7 +240,16 @@
     "source": "https://www.reddit.com/r/Entrepreneur/.rss",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-17T05:37:49.430022+00:00"
+    "researched_at": "2026-10-18T05:57:51.557669+00:00"
+  },
+  {
+    "title": "Success Saturday: What's Going Right | October 17, 2026",
+    "url": "https://www.reddit.com/r/Entrepreneur/comments/1x84kjr/success_saturday_whats_going_right_october_17_2026/",
+    "summary": "   Big or small, a win is a win. First sale, first client, or first time paying yourself, share it here. This community loves to celebrate with you. No win is too minor to mention.     &#32; submitted by &#32;   /u/AutoModerator       [link]   &#32;   [comments]  ",
+    "source": "https://www.reddit.com/r/Entrepreneur/.rss",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-10-18T05:57:51.557587+00:00"
   },
   {
     "title": "Success Saturday: What's Going Right | October 10, 2026",
@@ -282,7 +258,43 @@
     "source": "https://www.reddit.com/r/Entrepreneur/.rss",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-17T05:37:49.430073+00:00"
+    "researched_at": "2026-10-18T05:57:51.557720+00:00"
+  },
+  {
+    "title": "Source code of the Estonian online voting system",
+    "url": "https://github.com/valimised/ivxv",
+    "summary": " Article URL:  https://github.com/valimised/ivxv  \n Comments URL:  https://news.ycombinator.com/item?id=50127586  \n Points: 196 \n # Comments: 159 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-10-18T05:57:51.557576+00:00"
+  },
+  {
+    "title": "Solar surpasses nuclear power globally for first time",
+    "url": "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/",
+    "summary": " Article URL:  https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/  \n Comments URL:  https://news.ycombinator.com/item?id=50131256  \n Points: 540 \n # Comments: 332 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-10-18T05:57:51.557537+00:00"
+  },
+  {
+    "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+    "url": "https://llmspeed.dev/",
+    "summary": " Article URL:  https://llmspeed.dev/  \n Comments URL:  https://news.ycombinator.com/item?id=50127979  \n Points: 271 \n # Comments: 78 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-10-18T05:57:51.557572+00:00"
+  },
+  {
+    "title": "Show HN: High-quality duck audio synthesizer",
+    "url": "https://celphase.github.io/duck-pond/",
+    "summary": " Article URL:  https://celphase.github.io/duck-pond/  \n Comments URL:  https://news.ycombinator.com/item?id=50131006  \n Points: 109 \n # Comments: 28 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-10-18T05:57:51.557558+00:00"
   },
   {
     "title": "Purchasing existing IG accounts when starting?",
@@ -291,34 +303,70 @@
     "source": "https://www.reddit.com/r/Entrepreneur/.rss",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-17T05:37:49.430079+00:00"
+    "researched_at": "2026-10-18T05:57:51.557726+00:00"
   },
   {
-    "title": "JPEG XL vs. AVIF for web use-cases",
-    "url": "https://jakearchibald.com/2026/jpeg-xl-vs-avif/",
-    "summary": " Article URL:  https://jakearchibald.com/2026/jpeg-xl-vs-avif/  \n Comments URL:  https://news.ycombinator.com/item?id=50120224  \n Points: 224 \n # Comments: 157 ",
+    "title": "NY announces game ownership bill requiring ownership rather than licensing",
+    "url": "https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends",
+    "summary": " Article URL:  https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends  \n Comments URL:  https://news.ycombinator.com/item?id=50136536  \n Points: 195 \n # Comments: 61 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-17T05:37:49.429929+00:00"
+    "researched_at": "2026-10-18T05:57:51.557509+00:00"
   },
   {
-    "title": "How the Claude Code team does code review",
-    "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
-    "summary": " Article URL:  https://claude.dev/blog/solving-code-review-at-anthropic/  \n Comments URL:  https://news.ycombinator.com/item?id=50122951  \n Points: 287 \n # Comments: 264 ",
+    "title": "Matthew Prince on why Cloudflare offers a free version and always will",
+    "url": "https://webmasters.stackexchange.com/questions/88659/how-can-cloudflare-offer-a-free-cdn-with-unlimited-bandwidth/88685#88685",
+    "summary": " Article URL:  https://webmasters.stackexchange.com/questions/88659/how-can-cloudflare-offer-a-free-cdn-with-unlimited-bandwidth/88685#88685  \n Comments URL:  https://news.ycombinator.com/item?id=50138087  \n Points: 11 \n # Comments: 5 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-17T05:37:49.429896+00:00"
+    "researched_at": "2026-10-18T05:57:51.557465+00:00"
   },
   {
-    "title": "Flexport Is Hiring a Biz Ops Leader in Office of CEO",
-    "url": "https://www.flexport.com/company/careers/",
-    "summary": " Article URL:  https://www.flexport.com/company/careers/  \n Comments URL:  https://news.ycombinator.com/item?id=50126774  \n Points: 0 \n # Comments: 0 ",
+    "title": "Making chicken transparent using Dorito dust",
+    "url": "https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using",
+    "summary": " Article URL:  https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using  \n Comments URL:  https://news.ycombinator.com/item?id=50131213  \n Points: 285 \n # Comments: 73 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-17T05:37:49.429400+00:00"
+    "researched_at": "2026-10-18T05:57:51.557541+00:00"
+  },
+  {
+    "title": "Interactive Linear Programming in the Browser",
+    "url": "https://lpviz.net/",
+    "summary": " Article URL:  https://lpviz.net/  \n Comments URL:  https://news.ycombinator.com/item?id=50130379  \n Points: 6 \n # Comments: 0 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-10-18T05:57:51.557562+00:00"
+  },
+  {
+    "title": "I Became a Citizen of Japan",
+    "url": "https://www.derekwessman.com/blog-1/natural",
+    "summary": " Article URL:  https://www.derekwessman.com/blog-1/natural  \n Comments URL:  https://news.ycombinator.com/item?id=50133150  \n Points: 196 \n # Comments: 107 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-10-18T05:57:51.557518+00:00"
+  },
+  {
+    "title": "How the Elizabeth Holmes Doc 'You Can See Everything' Is Deceiving You",
+    "url": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
+    "summary": " Article URL:  https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything  \n Comments URL:  https://news.ycombinator.com/item?id=50137620  \n Points: 53 \n # Comments: 39 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-10-18T05:57:51.557502+00:00"
+  },
+  {
+    "title": "Gold is now the top U.S. export",
+    "url": "https://www.numismaticnews.net/gold-now-top-u-s-export",
+    "summary": " Article URL:  https://www.numismaticnews.net/gold-now-top-u-s-export  \n Comments URL:  https://news.ycombinator.com/item?id=50132870  \n Points: 295 \n # Comments: 153 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-10-18T05:57:51.557523+00:00"
   },
   {
     "title": "Feedback Friday: Rate My Ideas | October 16, 2026",
@@ -327,87 +375,33 @@
     "source": "https://www.reddit.com/r/Entrepreneur/.rss",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-17T05:37:49.429963+00:00"
+    "researched_at": "2026-10-18T05:57:51.557628+00:00"
   },
   {
-    "title": "Feedback Friday: Rate My Ideas | October 09, 2026",
-    "url": "https://www.reddit.com/r/Entrepreneur/comments/1x1fh88/feedback_friday_rate_my_ideas_october_09_2026/",
-    "summary": "   Share your website, pitch, logo, idea, pricing, copy, or anything else you want honest eyes on. Tell us what you&#39;re looking for: brutal honesty, general impressions, or specific questions.    Return the favour and leave feedback for someone else while you&#39;re here.     &#32; submitted by &#32;   /u/AutoModerator       [link]   &#32;   [comments]  ",
+    "title": "Artie (YC S23) Is Hiring Enterprise AES and Senior Engineers",
+    "url": "https://www.artie.com/careers",
+    "summary": " Article URL:  https://www.artie.com/careers  \n Comments URL:  https://news.ycombinator.com/item?id=50132839  \n Points: 0 \n # Comments: 0 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-10-18T05:57:51.557527+00:00"
+  },
+  {
+    "title": "A big piece of the Industrial Revolution came out of a monthly dinner party. What’s the version of that for founders today?",
+    "url": "https://www.reddit.com/r/Entrepreneur/comments/1x8dvo0/a_big_piece_of_the_industrial_revolution_came_out/",
+    "summary": "   This morning I saw a headline about sobremesa, the Spanish word for the time after a meal when nobody gets up from the table and the conversation keeps going. It got me wondering how many big ideas came out of long conversations at a table.   One answer is Birmingham, England, in the 1760s. A group of friends started meeting for dinner once a month, on the Monday closest to the full moon, so they&#39;d have moonlight to ride home by. They called themselves the Lunar Society, and joked that they were lunatics.   Who was at the table:   - Matthew Boulton, who ran one of the biggest factories in England   - James Watt, who was trying to make the steam engine work   - Josiah Wedgwood, who turned pottery into an industry   - Joseph Priestley, the chemist who isolated oxygen   - Erasmus Darwin, doctor, inventor, and Charles Darwin&#39;s grandfather   Boulton and Watt became partners. Watt had the engine and no money. Boulton had the money and a factory. Their engines went on to power the ",
     "source": "https://www.reddit.com/r/Entrepreneur/.rss",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-17T05:37:49.430084+00:00"
+    "researched_at": "2026-10-18T05:57:51.557604+00:00"
   },
   {
-    "title": "Designing more efficient quantum circuits with Claude",
-    "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
-    "summary": " Article URL:  https://www.anthropic.com/research/designing-efficient-quantum-circuits  \n Comments URL:  https://news.ycombinator.com/item?id=50121939  \n Points: 119 \n # Comments: 25 ",
+    "title": "A Mole Infiltrated the Highest Ranks of American Militias",
+    "url": "https://www.propublica.org/article/ap3-oath-keepers-militia-mole",
+    "summary": " Article URL:  https://www.propublica.org/article/ap3-oath-keepers-militia-mole  \n Comments URL:  https://news.ycombinator.com/item?id=50138044  \n Points: 35 \n # Comments: 4 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-17T05:37:49.429922+00:00"
-  },
-  {
-    "title": "Claude reveals ECDSA curve origins",
-    "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
-    "summary": "  https://words.filippo.io/seeds-solved/  \n \n Comments URL:  https://news.ycombinator.com/item?id=50122800  \n Points: 781 \n # Comments: 297 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-10-17T05:37:49.429905+00:00"
-  },
-  {
-    "title": "C++26: The New Debugging Header",
-    "url": "https://www.sandordargo.com/blog/2026/09/30/cpp26-debugging",
-    "summary": " Article URL:  https://www.sandordargo.com/blog/2026/09/30/cpp26-debugging  \n Comments URL:  https://news.ycombinator.com/item?id=50122736  \n Points: 85 \n # Comments: 14 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-10-17T05:37:49.429909+00:00"
-  },
-  {
-    "title": "Butlerian Jihad",
-    "url": "https://dune.fandom.com/wiki/Butlerian_Jihad",
-    "summary": " Article URL:  https://dune.fandom.com/wiki/Butlerian_Jihad  \n Comments URL:  https://news.ycombinator.com/item?id=50127274  \n Points: 135 \n # Comments: 74 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-10-17T05:37:49.429394+00:00"
-  },
-  {
-    "title": "Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD",
-    "url": "https://calif.io/research/big-fish",
-    "summary": " Article URL:  https://calif.io/research/big-fish  \n Comments URL:  https://news.ycombinator.com/item?id=50118977  \n Points: 173 \n # Comments: 48 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-10-17T05:37:49.429937+00:00"
-  },
-  {
-    "title": "Apple ML Research: Muse Spark Open with MLX on Mac Studio",
-    "url": "https://machinelearning.apple.com/research/mlx-distributed-inference",
-    "summary": " Article URL:  https://machinelearning.apple.com/research/mlx-distributed-inference  \n Comments URL:  https://news.ycombinator.com/item?id=50118320  \n Points: 292 \n # Comments: 140 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-10-17T05:37:49.429946+00:00"
-  },
-  {
-    "title": "A story of WiFi secrets, UART lockdowns and a damaged flash memory chip",
-    "url": "https://adepts.of0x.cc/eufy-homestation2-firmware/",
-    "summary": " Article URL:  https://adepts.of0x.cc/eufy-homestation2-firmware/  \n Comments URL:  https://news.ycombinator.com/item?id=50119751  \n Points: 27 \n # Comments: 2 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-10-17T05:37:49.429933+00:00"
-  },
-  {
-    "title": "\"In every study that considered the question\"",
-    "url": "https://unsung.aresluna.org/in-every-study-that-considered-the-question/",
-    "summary": " Article URL:  https://unsung.aresluna.org/in-every-study-that-considered-the-question/  \n Comments URL:  https://news.ycombinator.com/item?id=50127839  \n Points: 11 \n # Comments: 7 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-10-17T05:37:49.429386+00:00"
+    "researched_at": "2026-10-18T05:57:51.557470+00:00"
   }
 ]

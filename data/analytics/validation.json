@@ -1,10 +1,5 @@
 [
   {
-    "path": "data/content/drafts/the-per-seat-pricing-model-punishes-you-for-growing-your-team.json",
-    "passed": true,
-    "errors": []
-  },
-  {
     "path": "data/content/drafts/you-have-to-start-a-remote-business-with-nothing-but-a-pc-and-an-internet-connec.json",
     "passed": true,
     "errors": []
@@ -21,6 +16,11 @@
   },
   {
     "path": "data/content/drafts/sunday-steam-vent-it-or-roast-it-october-11-2026.json",
+    "passed": true,
+    "errors": []
+  },
+  {
+    "path": "data/content/drafts/show-hn-sphinx-a-hook-that-quizzes-you-on-your-ai-s-code-before-shipping.json",
     "passed": true,
     "errors": []
   }
