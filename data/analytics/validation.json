@@ -1,5 +1,10 @@
 [
   {
+    "path": "data/content/drafts/rate-my-idea-i-got-some-scrap-books-from-my-dad-my-mom-passed-away-i-started-thi.json",
+    "passed": true,
+    "errors": []
+  },
+  {
     "path": "data/content/drafts/you-have-to-start-a-remote-business-with-nothing-but-a-pc-and-an-internet-connec.json",
     "passed": true,
     "errors": []
@@ -15,12 +20,7 @@
     "errors": []
   },
   {
-    "path": "data/content/drafts/sunday-steam-vent-it-or-roast-it-october-11-2026.json",
-    "passed": true,
-    "errors": []
-  },
-  {
-    "path": "data/content/drafts/show-hn-sphinx-a-hook-that-quizzes-you-on-your-ai-s-code-before-shipping.json",
+    "path": "data/content/drafts/sunday-steam-vent-it-or-roast-it-october-18-2026.json",
     "passed": true,
     "errors": []
   }

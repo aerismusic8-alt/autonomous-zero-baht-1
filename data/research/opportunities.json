@@ -1,5 +1,18 @@
 [
   {
+    "title": "Rate my idea: I got some scrap books from my dad, my mom passed away. I started thinking about scanning them, but the companies who do this cost several dollars per page and some of them take several months, not to mention big businesses don't know where in line the books are",
+    "url": "https://www.reddit.com/r/Entrepreneur/comments/1x9cw20/rate_my_idea_i_got_some_scrap_books_from_my_dad/",
+    "summary": "   I am thinking about starting this and using automation and some AI programming to automate the process. My vision is to have a coversheet with the customer data, scan the scrapbook pages and use AI to streighten/clearup photos. According to AI, I should be charging $80 for a 50 page book, and have a $70 profit margin. I&#39;m not sure if there is a market for this service. Thanks,     &#32; submitted by &#32;   /u/jrwn       [link]   &#32;   [comments]  ",
+    "source": "https://www.reddit.com/r/Entrepreneur/.rss",
+    "score": 3,
+    "matched_keywords": [
+      "automation",
+      "ai",
+      "business"
+    ],
+    "researched_at": "2026-10-19T06:15:40.187866+00:00"
+  },
+  {
     "title": "You have to start a remote business with nothing but a pc and an internet connection . What do you do?",
     "url": "https://www.reddit.com/r/Entrepreneur/comments/1x3ujku/you_have_to_start_a_remote_business_with_nothing/",
     "summary": "   You have to start a remote business with nothing but a pc and an internet connection and yourself. What business would you start and why.   All your bills and expenditure are already paid up for a decade so you can focus on the business.    Rules      Remote only - no in face meetings.   You can have a high end PC or Mac of your choice.   You have to make as much money as you can in 10 years   Has to be a new business, can&#39;t continue one you already have.   Clients or business can be anywhere in the world but you work remotely from home.     What would you do?     &#32; submitted by &#32;   /u/RenderSlaver       [link]   &#32;   [comments]  ",
@@ -9,7 +22,7 @@
       "ai",
       "business"
     ],
-    "researched_at": "2026-10-18T05:57:51.557683+00:00"
+    "researched_at": "2026-10-19T06:15:40.187956+00:00"
   },
   {
     "title": "Y'all feel like you don't make progress fast enough?",
@@ -21,7 +34,7 @@
       "ai",
       "business"
     ],
-    "researched_at": "2026-10-18T05:57:51.557613+00:00"
+    "researched_at": "2026-10-19T06:15:40.187888+00:00"
   },
   {
     "title": "What was the first business compliance task that caught you off guard?",
@@ -33,11 +46,11 @@
       "ai",
       "business"
     ],
-    "researched_at": "2026-10-18T05:57:51.557676+00:00"
+    "researched_at": "2026-10-19T06:15:40.187951+00:00"
   },
   {
-    "title": "Sunday Steam: Vent It or Roast It | October 11, 2026",
-    "url": "https://www.reddit.com/r/Entrepreneur/comments/1x32f7w/sunday_steam_vent_it_or_roast_it_october_11_2026/",
+    "title": "Sunday Steam: Vent It or Roast It | October 18, 2026",
+    "url": "https://www.reddit.com/r/Entrepreneur/comments/1x8xkmh/sunday_steam_vent_it_or_roast_it_october_18_2026/",
     "summary": "   Had a week? Same. This is your consequence-free space to complain about clients, platforms, algorithms, your own decisions, or the general chaos of running a business. Keep it venting with no personal attacks. We&#39;ll be back to being professional tomorrow.     &#32; submitted by &#32;   /u/AutoModerator       [link]   &#32;   [comments]  ",
     "source": "https://www.reddit.com/r/Entrepreneur/.rss",
     "score": 2,
@@ -45,43 +58,43 @@
       "ai",
       "business"
     ],
-    "researched_at": "2026-10-18T05:57:51.557708+00:00"
+    "researched_at": "2026-10-19T06:15:40.187845+00:00"
   },
   {
-    "title": "Show HN: Sphinx – a hook that quizzes you on your AI's code before shipping",
-    "url": "https://sphinx-six-theta.vercel.app/",
-    "summary": " FOSS, Basically it plugs into your existing coding agent workflow and every time you push to prod it'll throw up a questionnaire that checks if you understand how the code you're pushing works. \n \n Comments URL:  https://news.ycombinator.com/item?id=50137950  \n Points: 36 \n # Comments: 11 ",
+    "title": "Show HN: WhatsApp MCP running free on Cloudflare",
+    "url": "https://github.com/finereli/whatsapp-mcp",
+    "summary": " I wanted my humble Claude on mobile to access my WhatsApp messages but the only options I could find either required WhatsApp Business or an actual server to run Baileys on. I wanted to run it for free on ClaudeFlare and with my personal WhatsApp account, so I built this. Important feature - it connects to your Google account as well as WhatsApp to grab the names of all your WhatsApp contacts, otherwise you get only phone numbers for many of them and search doesn't work properly. This is a single user install because it's both gray area and very private - so point your agent at the repo and let it set things up. \n \n Comments URL:  https://news.ycombinator.com/item?id=50145715  \n Points: 79 \n # Comments: 42 ",
     "source": "https://hnrss.org/frontpage",
     "score": 2,
     "matched_keywords": [
       "ai",
-      "workflow"
+      "business"
     ],
-    "researched_at": "2026-10-18T05:57:51.557480+00:00"
+    "researched_at": "2026-10-19T06:15:40.187793+00:00"
   },
   {
-    "title": "Show HN: Esp32sim – Run ESP32 firmware in the browser",
-    "url": "https://github.com/mikroverk/esp32sim",
-    "summary": " Hi HN, I’ve been working on esp32sim, an open-source ESP32 emulator that runs in the browser. The fun part of the demo is that there is no ESP32 involved — the firmware is executing in the emulator. The goal is to make ESP32 software easier to experiment with, test and simulate without always needing physical hardware connected. Source:\n https://github.com/mikroverk/esp32sim  I made a short video showing it in action:\n https://youtu.be/waoWFilTWEc  I’m particularly interested in feedback from embedded developers: what would an emulator like this need to support before you’d actually use it for development, testing or CI? \n \n Comments URL:  https://news.ycombinator.com/item?id=50131189  \n Points: 147 \n # Comments: 15 ",
-    "source": "https://hnrss.org/frontpage",
+    "title": "One Construction Brand or Multiple Specialized Brands?",
+    "url": "https://www.reddit.com/r/Entrepreneur/comments/1x9kakf/one_construction_brand_or_multiple_specialized/",
+    "summary": "   I&#39;m growing my existing residential construction business and am debating whether to operate under one brand or create separate brands for each higher money making specialty:     Roofing &amp; siding   Smart home automation   Basement &amp; attic renovations   Windows &amp; doors   Kitchen &amp; bathroom remodeling     I already have experience in carpentry, general contracting, and remodeling, so these specialties build on my existing skills and business. I&#39;m located in a relatively small market, which makes me wonder whether having multiple brands would be beneficial or counterproductive.   Initially, all brands would operate under my existing LLC, with the option to establish separate businesses later.   Would you recommend one recognizable brand covering all these services or multiple specialized brands targeting different customers? Would separate brands build credibility and improve marketing effectiveness, or create unnecessary complexity in a small market?     &#32; ",
+    "source": "https://www.reddit.com/r/Entrepreneur/.rss",
     "score": 2,
     "matched_keywords": [
-      "software",
-      "developer"
+      "automation",
+      "business"
     ],
-    "researched_at": "2026-10-18T05:57:51.557554+00:00"
+    "researched_at": "2026-10-19T06:15:40.187852+00:00"
   },
   {
-    "title": "How to handle people reaching out to \"pick ny brain\"?",
-    "url": "https://www.reddit.com/r/Entrepreneur/comments/1x22r5l/how_to_handle_people_reaching_out_to_pick_ny_brain/",
-    "summary": "   Starting off with a small humble brag: I run a solo consultancy business, doing fairly well, and as such have created a bit of a name for myself in my industry. This year in particular, I&#39;ve had several people reach out to have coffee for the sole purpose of &quot;picking my brain&quot; to help them as they embark on their own in the same industry. I can&#39;t really help but feel a tiny bit annoyed. Flattered, but a little bit annoyed. Having spent ten years building my business and reputation, I am not about to impart my hard earned wisdom over coffee with potential competitors. Or am I being an asshole here? I have never reached out to anyone in this manner, and the one time I have, I made it very clear I would pay for their time in helping me (it was for a book I wanted to write and they had been through the process before) Usually, I say I&#39;m busy with clients and projects and to reach out at a later time. However, I&#39;ve been toying with the idea of offering Business ",
+    "title": "I built a CRM with Claude. What can I actually do with it?",
+    "url": "https://www.reddit.com/r/Entrepreneur/comments/1x90z3i/i_built_a_crm_with_claude_what_can_i_actually_do/",
+    "summary": "   Hi guys, I have a business hosting co-living retreats and conferences for digital nomads in Nepal called &quot;Nomad Basecamp.&quot; I&#39;m a solopreneur but have local partners and volunteers.   For the first few years, I filled my retreats posting in social media groups and following up in DMs   Now I also host summits with dozens of international speakers, and have large lists of past customers, emails from Eventbrite events and online sessions, and huge lists of leads who contacted me on WhatsApp business (Meta ads direct to WhatsApp business are dirt cheap in Nepal).   If I had a magic wand and could wish for anything: it would be to have sales come in like clockwork, without me having to go out and fish for them, or engage in long and lengthy text conversations (often with leads who disappear), and phone calls. I tried Meta Agent in WhatsApp to follow up on my ads but it was talking a load of rubbish with one lead so I turned it off and switched to manual quick replies.   My ",
     "source": "https://www.reddit.com/r/Entrepreneur/.rss",
     "score": 2,
     "matched_keywords": [
       "ai",
       "business"
     ],
-    "researched_at": "2026-10-18T05:57:51.557716+00:00"
+    "researched_at": "2026-10-19T06:15:40.187896+00:00"
   },
   {
     "title": "How do I maximize social media for multiple businesses/projects",
@@ -93,7 +106,7 @@
       "ai",
       "business"
     ],
-    "researched_at": "2026-10-18T05:57:51.557622+00:00"
+    "researched_at": "2026-10-19T06:15:40.187907+00:00"
   },
   {
     "title": "Hello Again & Other Tidbits on Acquiring a Business",
@@ -105,7 +118,7 @@
       "ai",
       "business"
     ],
-    "researched_at": "2026-10-18T05:57:51.557664+00:00"
+    "researched_at": "2026-10-19T06:15:40.187941+00:00"
   },
   {
     "title": "Why most agency SOPs fail when turned into prompts and the exact framework to automate them properly",
@@ -116,7 +129,7 @@
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-18T05:57:51.557656+00:00"
+    "researched_at": "2026-10-19T06:15:40.187934+00:00"
   },
   {
     "title": "What’s something you kept explaining on sales calls that you eventually fixed on your website?",
@@ -127,7 +140,7 @@
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-18T05:57:51.557698+00:00"
+    "researched_at": "2026-10-19T06:15:40.187970+00:00"
   },
   {
     "title": "What's one business process you wish you'd simplified earlier?",
@@ -138,29 +151,29 @@
     "matched_keywords": [
       "business"
     ],
-    "researched_at": "2026-10-18T05:57:51.557634+00:00"
+    "researched_at": "2026-10-19T06:15:40.187917+00:00"
   },
   {
-    "title": "Show HN: 500 clocks in one 6.3 MB HTML file by Opus 5.5",
-    "url": "https://tkgally.github.io/500-clocks/",
-    "summary": " Lately I've been testing frontier models by having them create self-contained web pages that display clocks--sort of my personal version of Simon Willison’s pelican-on-a-bicycle metric. I have been particularly impressed by the variety, interest, and quality of the clocks created by Claude Opus 5.5. Over the course of several sessions in the Claude chat interface, I had it build a total of 500 clocks. Claude’s summary of the prompting process and page design is here:  https://github.com/tkgally/500-clocks/tree/main  \n \n Comments URL:  https://news.ycombinator.com/item?id=50137820  \n Points: 11 \n # Comments: 2 ",
+    "title": "Verisign .com Domain Name Registry Consumer Class Action",
+    "url": "https://www.hbsslaw.com/cases/verisign-com-domain-name-registry-consumer-class-action",
+    "summary": " Article URL:  https://www.hbsslaw.com/cases/verisign-com-domain-name-registry-consumer-class-action  \n Comments URL:  https://news.ycombinator.com/item?id=50148441  \n Points: 39 \n # Comments: 8 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-18T05:57:51.557492+00:00"
+    "researched_at": "2026-10-19T06:15:40.187449+00:00"
   },
   {
-    "title": "Pele – Mermaid diagrams as themeable SVG",
-    "url": "https://pele.run/",
-    "summary": " Article URL:  https://pele.run/  \n Comments URL:  https://news.ycombinator.com/item?id=50132193  \n Points: 353 \n # Comments: 30 ",
+    "title": "Someone behind the software",
+    "url": "https://karrisaarinen.com/posts/someone-behind-the-software/",
+    "summary": " Article URL:  https://karrisaarinen.com/posts/someone-behind-the-software/  \n Comments URL:  https://news.ycombinator.com/item?id=50142573  \n Points: 383 \n # Comments: 154 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
-      "ai"
+      "software"
     ],
-    "researched_at": "2026-10-18T05:57:51.557532+00:00"
+    "researched_at": "2026-10-19T06:15:40.187816+00:00"
   },
   {
     "title": "One thing I underestimated when starting a business: the work behind the scenes",
@@ -171,40 +184,40 @@
     "matched_keywords": [
       "business"
     ],
-    "researched_at": "2026-10-18T05:57:51.557647+00:00"
+    "researched_at": "2026-10-19T06:15:40.187927+00:00"
   },
   {
-    "title": "Monday mentorship: ask anything | October 12, 2026",
-    "url": "https://www.reddit.com/r/Entrepreneur/comments/1x3vzkl/monday_mentorship_ask_anything_october_12_2026/",
-    "summary": "   New to entrepreneurship or just starting out? This is your space. Ask the questions you&#39;re afraid to ask elsewhere.    Experienced folks, jump in and share what you wish someone had told you early on.     &#32; submitted by &#32;   /u/AutoModerator       [link]   &#32;   [comments]  ",
+    "title": "Namecheap just seized and disabled all my domains",
+    "url": "https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/",
+    "summary": " Article URL:  https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/  \n Comments URL:  https://news.ycombinator.com/item?id=50142866  \n Points: 522 \n # Comments: 271 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 1,
+    "matched_keywords": [
+      "ai"
+    ],
+    "researched_at": "2026-10-19T06:15:40.187813+00:00"
+  },
+  {
+    "title": "Is Part-Time Consultation Worth the Time for Exposure?",
+    "url": "https://www.reddit.com/r/Entrepreneur/comments/1x96uvh/is_parttime_consultation_worth_the_time_for/",
+    "summary": "   On my 3rd venture. Running an appointment setting business for the last 2 years. We&#39;re small (6 folks) and we&#39;ve worked with companies across 8 countries, some of which were the biggest in their country in their sector.   I believe due to the aforementioned exposure; I&#39;ve been receiving more consultation offers lately. I have received 4 part-consultation offers since March. 2 of them were prospects who were initially interested in my business&#39; service but later offered the consultation (perhaps I need to promote my business more than myself?)   They usually ask how many hours I&#39;m comfortable with, I mention 22-44 hours a month (1-2/hr per weekday) - but those hours spent on my business will yield me a better profit (money wise as well as scaling-wise).   On the pros side, the companies offering me the offer are larger than mine (10x-20x) and working alongside them will give me a decent amount of insight and exposure.   I have worked with 4 companies in the past a",
     "source": "https://www.reddit.com/r/Entrepreneur/.rss",
     "score": 1,
     "matched_keywords": [
-      "ai"
+      "business"
     ],
-    "researched_at": "2026-10-18T05:57:51.557703+00:00"
+    "researched_at": "2026-10-19T06:15:40.187860+00:00"
   },
   {
-    "title": "DeepSeek-v4.1-Flash-1017",
-    "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
-    "summary": "  https://api-docs.deepseek.com/news/news261017/   https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017  \n \n Comments URL:  https://news.ycombinator.com/item?id=50129045  \n Points: 789 \n # Comments: 623 ",
+    "title": "DeepSeek V4.1 Flash 1017 (Max)",
+    "url": "https://artificialanalysis.ai/models/deepseek-v4-1-flash-1017",
+    "summary": " Article URL:  https://artificialanalysis.ai/models/deepseek-v4-1-flash-1017  \n Comments URL:  https://news.ycombinator.com/item?id=50148452  \n Points: 76 \n # Comments: 21 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-18T05:57:51.557566+00:00"
-  },
-  {
-    "title": "Codex Desktop continuously generates Crashpad pending dumps",
-    "url": "https://github.com/openai/codex/issues/25921",
-    "summary": " Article URL:  https://github.com/openai/codex/issues/25921  \n Comments URL:  https://news.ycombinator.com/item?id=50133231  \n Points: 114 \n # Comments: 41 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 1,
-    "matched_keywords": [
-      "ai"
-    ],
-    "researched_at": "2026-10-18T05:57:51.557514+00:00"
+    "researched_at": "2026-10-19T06:15:40.187444+00:00"
   },
   {
     "title": "📋 Entrepreneur Moderator Applications Open - Apply Now!",
@@ -213,16 +226,16 @@
     "source": "https://www.reddit.com/r/Entrepreneur/.rss",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-18T05:57:51.557582+00:00"
+    "researched_at": "2026-10-19T06:15:40.187840+00:00"
   },
   {
-    "title": "The game industry is broken – can we fix it?",
-    "url": "https://knowledge.edge-online.com/p/the-game-industry-is-broken-can-we-fix-it-tim-sweeney-edge-crash",
-    "summary": " Article URL:  https://knowledge.edge-online.com/p/the-game-industry-is-broken-can-we-fix-it-tim-sweeney-edge-crash  \n Comments URL:  https://news.ycombinator.com/item?id=50138156  \n Points: 4 \n # Comments: 0 ",
+    "title": "William Gibson and the trademarking of cyberspace",
+    "url": "https://colo.to/cyberspace.html",
+    "summary": " Article URL:  https://colo.to/cyberspace.html  \n Comments URL:  https://news.ycombinator.com/item?id=50146625  \n Points: 129 \n # Comments: 33 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-18T05:57:51.557452+00:00"
+    "researched_at": "2026-10-19T06:15:40.187783+00:00"
   },
   {
     "title": "Thankful Thursday: Free Resources and Tools | October 15, 2026",
@@ -231,7 +244,7 @@
     "source": "https://www.reddit.com/r/Entrepreneur/.rss",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-18T05:57:51.557639+00:00"
+    "researched_at": "2026-10-19T06:15:40.187920+00:00"
   },
   {
     "title": "Talent Tuesday: Services and Collabs | October 13, 2026",
@@ -240,7 +253,16 @@
     "source": "https://www.reddit.com/r/Entrepreneur/.rss",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-18T05:57:51.557669+00:00"
+    "researched_at": "2026-10-19T06:15:40.187945+00:00"
+  },
+  {
+    "title": "Superlite: A Faster Alternatie to Superpowers",
+    "url": "https://contextfirst.blog/superlite-hand-an-agent-a-spec/",
+    "summary": " Article URL:  https://contextfirst.blog/superlite-hand-an-agent-a-spec/  \n Comments URL:  https://news.ycombinator.com/item?id=50147492  \n Points: 42 \n # Comments: 18 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-10-19T06:15:40.187453+00:00"
   },
   {
     "title": "Success Saturday: What's Going Right | October 17, 2026",
@@ -249,124 +271,97 @@
     "source": "https://www.reddit.com/r/Entrepreneur/.rss",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-18T05:57:51.557587+00:00"
+    "researched_at": "2026-10-19T06:15:40.187899+00:00"
   },
   {
-    "title": "Success Saturday: What's Going Right | October 10, 2026",
-    "url": "https://www.reddit.com/r/Entrepreneur/comments/1x29lqy/success_saturday_whats_going_right_october_10_2026/",
-    "summary": "   Big or small, a win is a win. First sale, first client, or first time paying yourself, share it here. This community loves to celebrate with you. No win is too minor to mention.     &#32; submitted by &#32;   /u/AutoModerator       [link]   &#32;   [comments]  ",
-    "source": "https://www.reddit.com/r/Entrepreneur/.rss",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-10-18T05:57:51.557720+00:00"
-  },
-  {
-    "title": "Source code of the Estonian online voting system",
-    "url": "https://github.com/valimised/ivxv",
-    "summary": " Article URL:  https://github.com/valimised/ivxv  \n Comments URL:  https://news.ycombinator.com/item?id=50127586  \n Points: 196 \n # Comments: 159 ",
+    "title": "Sanity's Edge – A voice BBS from 1994",
+    "url": "https://sanitys-edge.shouden.us",
+    "summary": " Article URL:  https://sanitys-edge.shouden.us  \n Comments URL:  https://news.ycombinator.com/item?id=50146966  \n Points: 17 \n # Comments: 0 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-18T05:57:51.557576+00:00"
+    "researched_at": "2026-10-19T06:15:40.187776+00:00"
   },
   {
-    "title": "Solar surpasses nuclear power globally for first time",
-    "url": "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/",
-    "summary": " Article URL:  https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/  \n Comments URL:  https://news.ycombinator.com/item?id=50131256  \n Points: 540 \n # Comments: 332 ",
+    "title": "RepRapMicron",
+    "url": "https://github.com/VikOlliver/RepRapMicron/wiki",
+    "summary": " Article URL:  https://github.com/VikOlliver/RepRapMicron/wiki  \n Comments URL:  https://news.ycombinator.com/item?id=50141076  \n Points: 365 \n # Comments: 56 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-18T05:57:51.557537+00:00"
+    "researched_at": "2026-10-19T06:15:40.187822+00:00"
   },
   {
-    "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
-    "url": "https://llmspeed.dev/",
-    "summary": " Article URL:  https://llmspeed.dev/  \n Comments URL:  https://news.ycombinator.com/item?id=50127979  \n Points: 271 \n # Comments: 78 ",
+    "title": "PalmOS Lemmings",
+    "url": "https://github.com/ardiri/palmos-lemmings",
+    "summary": " Article URL:  https://github.com/ardiri/palmos-lemmings  \n Comments URL:  https://news.ycombinator.com/item?id=50143536  \n Points: 110 \n # Comments: 24 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-18T05:57:51.557572+00:00"
+    "researched_at": "2026-10-19T06:15:40.187809+00:00"
   },
   {
-    "title": "Show HN: High-quality duck audio synthesizer",
-    "url": "https://celphase.github.io/duck-pond/",
-    "summary": " Article URL:  https://celphase.github.io/duck-pond/  \n Comments URL:  https://news.ycombinator.com/item?id=50131006  \n Points: 109 \n # Comments: 28 ",
+    "title": "Open MicroManipulator – A sub-micrometer 3D motion control plattform",
+    "url": "https://github.com/0x23/MicroManipulatorStepper",
+    "summary": " Article URL:  https://github.com/0x23/MicroManipulatorStepper  \n Comments URL:  https://news.ycombinator.com/item?id=50140001  \n Points: 184 \n # Comments: 14 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-18T05:57:51.557558+00:00"
+    "researched_at": "2026-10-19T06:15:40.187831+00:00"
   },
   {
-    "title": "Purchasing existing IG accounts when starting?",
-    "url": "https://www.reddit.com/r/Entrepreneur/comments/1x1n824/purchasing_existing_ig_accounts_when_starting/",
-    "summary": "   Hey guys like the title says do you guys purchase existing Instagram, X, Facebook, Tik Tok accounts when starting or do you build it from scratch because I see alot of these gambling companies are purchasing existing accounts and rebranding it and turning it into there brand? Like do you guys also do that or nah? And is it worth it or not?      &#32; submitted by &#32;   /u/Far-Rabbit-484       [link]   &#32;   [comments]  ",
-    "source": "https://www.reddit.com/r/Entrepreneur/.rss",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-10-18T05:57:51.557726+00:00"
-  },
-  {
-    "title": "NY announces game ownership bill requiring ownership rather than licensing",
-    "url": "https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends",
-    "summary": " Article URL:  https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends  \n Comments URL:  https://news.ycombinator.com/item?id=50136536  \n Points: 195 \n # Comments: 61 ",
+    "title": "Java sealed classes and exhaustive pattern matching",
+    "url": "https://neilmadden.blog/2026/04/24/java-sealed-classes-and-exhaustive-pattern-matching/",
+    "summary": " Article URL:  https://neilmadden.blog/2026/04/24/java-sealed-classes-and-exhaustive-pattern-matching/  \n Comments URL:  https://news.ycombinator.com/item?id=50141579  \n Points: 156 \n # Comments: 110 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-18T05:57:51.557509+00:00"
+    "researched_at": "2026-10-19T06:15:40.187819+00:00"
   },
   {
-    "title": "Matthew Prince on why Cloudflare offers a free version and always will",
-    "url": "https://webmasters.stackexchange.com/questions/88659/how-can-cloudflare-offer-a-free-cdn-with-unlimited-bandwidth/88685#88685",
-    "summary": " Article URL:  https://webmasters.stackexchange.com/questions/88659/how-can-cloudflare-offer-a-free-cdn-with-unlimited-bandwidth/88685#88685  \n Comments URL:  https://news.ycombinator.com/item?id=50138087  \n Points: 11 \n # Comments: 5 ",
+    "title": "If you don't run your own LLM proxy, how do you know whats going on?",
+    "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
+    "summary": " Article URL:  https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/  \n Comments URL:  https://news.ycombinator.com/item?id=50145507  \n Points: 100 \n # Comments: 75 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-18T05:57:51.557465+00:00"
+    "researched_at": "2026-10-19T06:15:40.187797+00:00"
   },
   {
-    "title": "Making chicken transparent using Dorito dust",
-    "url": "https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using",
-    "summary": " Article URL:  https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using  \n Comments URL:  https://news.ycombinator.com/item?id=50131213  \n Points: 285 \n # Comments: 73 ",
+    "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+    "url": "https://arxiv.org/abs/2610.18861",
+    "summary": "  https://x.com/Jiaru_Zou/status/2110400256647340476   https://github.com/togethercomputer/HybridAgent   https://huggingface.co/collections/togethercomputer/hybridag...  Evaluations:  https://arxiv.org/html/2610.18861v1#S5  \n \n Comments URL:  https://news.ycombinator.com/item?id=50145337  \n Points: 316 \n # Comments: 162 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-18T05:57:51.557541+00:00"
+    "researched_at": "2026-10-19T06:15:40.187802+00:00"
   },
   {
-    "title": "Interactive Linear Programming in the Browser",
-    "url": "https://lpviz.net/",
-    "summary": " Article URL:  https://lpviz.net/  \n Comments URL:  https://news.ycombinator.com/item?id=50130379  \n Points: 6 \n # Comments: 0 ",
+    "title": "How Quickly Can the DoD Rebuild and Recast the Munitions Industrial Base?",
+    "url": "https://www.csis.org/analysis/how-quickly-can-dod-rebuild-and-recast-munitions-industrial-base",
+    "summary": " Article URL:  https://www.csis.org/analysis/how-quickly-can-dod-rebuild-and-recast-munitions-industrial-base  \n Comments URL:  https://news.ycombinator.com/item?id=50146624  \n Points: 46 \n # Comments: 42 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-18T05:57:51.557562+00:00"
+    "researched_at": "2026-10-19T06:15:40.187787+00:00"
   },
   {
-    "title": "I Became a Citizen of Japan",
-    "url": "https://www.derekwessman.com/blog-1/natural",
-    "summary": " Article URL:  https://www.derekwessman.com/blog-1/natural  \n Comments URL:  https://news.ycombinator.com/item?id=50133150  \n Points: 196 \n # Comments: 107 ",
+    "title": "Free Pascal compiler now supports dynamic packages",
+    "url": "https://www.getlazarus.org/dynamic/",
+    "summary": " Article URL:  https://www.getlazarus.org/dynamic/  \n Comments URL:  https://news.ycombinator.com/item?id=50144066  \n Points: 139 \n # Comments: 32 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-18T05:57:51.557518+00:00"
+    "researched_at": "2026-10-19T06:15:40.187805+00:00"
   },
   {
-    "title": "How the Elizabeth Holmes Doc 'You Can See Everything' Is Deceiving You",
-    "url": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
-    "summary": " Article URL:  https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything  \n Comments URL:  https://news.ycombinator.com/item?id=50137620  \n Points: 53 \n # Comments: 39 ",
+    "title": "Footage of the Flock search that a judge ruled was uncosntitutional",
+    "url": "https://www.404media.co/watch-footage-of-the-flock-search-a-judge-ruled-unconstitutional/",
+    "summary": " Article URL:  https://www.404media.co/watch-footage-of-the-flock-search-a-judge-ruled-unconstitutional/  \n Comments URL:  https://news.ycombinator.com/item?id=50147455  \n Points: 75 \n # Comments: 24 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-18T05:57:51.557502+00:00"
-  },
-  {
-    "title": "Gold is now the top U.S. export",
-    "url": "https://www.numismaticnews.net/gold-now-top-u-s-export",
-    "summary": " Article URL:  https://www.numismaticnews.net/gold-now-top-u-s-export  \n Comments URL:  https://news.ycombinator.com/item?id=50132870  \n Points: 295 \n # Comments: 153 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-10-18T05:57:51.557523+00:00"
+    "researched_at": "2026-10-19T06:15:40.187457+00:00"
   },
   {
     "title": "Feedback Friday: Rate My Ideas | October 16, 2026",
@@ -375,16 +370,34 @@
     "source": "https://www.reddit.com/r/Entrepreneur/.rss",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-18T05:57:51.557628+00:00"
+    "researched_at": "2026-10-19T06:15:40.187911+00:00"
   },
   {
-    "title": "Artie (YC S23) Is Hiring Enterprise AES and Senior Engineers",
-    "url": "https://www.artie.com/careers",
-    "summary": " Article URL:  https://www.artie.com/careers  \n Comments URL:  https://news.ycombinator.com/item?id=50132839  \n Points: 0 \n # Comments: 0 ",
+    "title": "Dogs seem to agree with humans that 'bouba' is round and 'kiki' is spiky",
+    "url": "https://www.sciencealert.com/dogs-seem-to-agree-with-humans-that-bouba-is-round-and-kiki-is-spiky",
+    "summary": " Article URL:  https://www.sciencealert.com/dogs-seem-to-agree-with-humans-that-bouba-is-round-and-kiki-is-spiky  \n Comments URL:  https://news.ycombinator.com/item?id=50136979  \n Points: 184 \n # Comments: 113 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-18T05:57:51.557527+00:00"
+    "researched_at": "2026-10-19T06:15:40.187835+00:00"
+  },
+  {
+    "title": "Agent-Skills.market",
+    "url": "https://agent-skills.market/",
+    "summary": " Article URL:  https://agent-skills.market/  \n Comments URL:  https://news.ycombinator.com/item?id=50148882  \n Points: 3 \n # Comments: 0 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-10-19T06:15:40.187438+00:00"
+  },
+  {
+    "title": "A new way to think about borrow checking (in reverse)",
+    "url": "https://verdagon.dev/blog/reverse-borrow-checking",
+    "summary": " Article URL:  https://verdagon.dev/blog/reverse-borrow-checking  \n Comments URL:  https://news.ycombinator.com/item?id=50140383  \n Points: 47 \n # Comments: 5 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-10-19T06:15:40.187825+00:00"
   },
   {
     "title": "A big piece of the Industrial Revolution came out of a monthly dinner party. What’s the version of that for founders today?",
@@ -393,15 +406,6 @@
     "source": "https://www.reddit.com/r/Entrepreneur/.rss",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-18T05:57:51.557604+00:00"
-  },
-  {
-    "title": "A Mole Infiltrated the Highest Ranks of American Militias",
-    "url": "https://www.propublica.org/article/ap3-oath-keepers-militia-mole",
-    "summary": " Article URL:  https://www.propublica.org/article/ap3-oath-keepers-militia-mole  \n Comments URL:  https://news.ycombinator.com/item?id=50138044  \n Points: 35 \n # Comments: 4 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-10-18T05:57:51.557470+00:00"
+    "researched_at": "2026-10-19T06:15:40.187881+00:00"
   }
 ]
