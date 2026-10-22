@@ -1,0 +1,27 @@
+{
+  "id": "why-silent-ai-failures-are-killing-agency-workflows-and-how-we-audit-them-before",
+  "created_at": "2026-10-22T06:08:42.850016+00:00",
+  "source_title": "Why silent AI failures are killing agency workflows and how we audit them before clients notice",
+  "source_url": "https://www.reddit.com/r/Entrepreneur/comments/1xbr8jv/why_silent_ai_failures_are_killing_agency/",
+  "source_feed": "https://www.reddit.com/r/Entrepreneur/.rss",
+  "research_score": 2,
+  "formats": {
+    "seo_article_outline": {
+      "title": "Why silent AI failures are killing agency workflows and how we audit them before clients notice",
+      "sections": [
+        "ปัญหาหรือคำถามที่ผู้อ่านต้องการคำตอบ",
+        "ข้อมูลพื้นฐานและข้อเท็จจริงที่ตรวจสอบได้",
+        "ทางเลือกหรือขั้นตอนที่ผู้อ่านนำไปใช้ได้",
+        "ข้อจำกัดและสิ่งที่ควรตรวจสอบเพิ่มเติม",
+        "สรุปและขั้นตอนถัดไป"
+      ],
+      "source_summary_for_editor": "the most dangerous thing about building AI workflows isn&#39;t when an agent throws an error or breaks completely.   it&#39;s when it runs perfectly, returns a beautifully formatted output, and everything looks so clean that nobody bothers to check the actual data.   until 3 weeks later when someone realizes the entire report was built on wrong numbers, misattributed conversion data, or fabricated competitor pricing.   this is what i call a silent AI failure. and if you run an agency or consult for clients, it is the absolute worst way to get caught.   the issue is that modern models like claude or openai are insanely good at formatting. they will give you executive summaries with clean tables, custom severity badges, and plausible-sounding math even when the underlying data source returned an empty payload or pulled from the wrong CRM field.   because the output looks like it came from a senior strategist, your team stops auditing it and turns the weekly review into a rubber stamp.",
+      "source_url": "https://www.reddit.com/r/Entrepreneur/comments/1xbr8jv/why_silent_ai_failures_are_killing_agency/"
+    },
+    "facebook_post": "กำลังรวบรวมข้อมูลเรื่อง: Why silent AI failures are killing agency workflows and how we audit them before clients notice\\n\\nก่อนตัดสินใจ ควรตรวจสอบแหล่งข้อมูลและเปรียบเทียบทางเลือกให้เหมาะกับความต้องการของตนเอง\\n\\nแหล่งข้อมูลสำหรับตรวจสอบ: https://www.reddit.com/r/Entrepreneur/comments/1xbr8jv/why_silent_ai_failures_are_killing_agency/",
+    "short_video_script": "Hook: คุณกำลังหาข้อมูลเรื่อง Why silent AI failures are killing agency workflows and how we audit them before clients notice อยู่หรือไม่?\\n\\nเนื้อหา: เริ่มจากตรวจสอบข้อมูลต้นทาง เปรียบเทียบข้อเท็จจริงและข้อจำกัด อย่าตัดสินใจจากพาดหัวเพียงอย่างเดียว\\n\\nCTA: อ่านข้อมูลต้นทางและตรวจสอบรายละเอียดเพิ่มเติมได้ที่ https://www.reddit.com/r/Entrepreneur/comments/1xbr8jv/why_silent_ai_failures_are_killing_agency/",
+    "affiliate_disclosure": "Disclosure: หากมีลิงก์ Affiliate ในฉบับเผยแพร่ ผู้จัดทำอาจได้รับค่าคอมมิชชันโดยไม่มีค่าใช้จ่ายเพิ่มสำหรับผู้ซื้อ"
+  },
+  "status": "draft_requires_human_review",
+  "first_hand_experience_claimed": false
+}

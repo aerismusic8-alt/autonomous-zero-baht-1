@@ -11,7 +11,7 @@
       "software",
       "developer"
     ],
-    "researched_at": "2026-10-21T06:04:26.923142+00:00"
+    "researched_at": "2026-10-22T06:08:42.848808+00:00"
   },
   {
     "title": "Rate my idea: I got some scrap books from my dad, my mom passed away. I started thinking about scanning them, but the companies who do this cost several dollars per page and some of them take several months, not to mention big businesses don't know where in line the books are",
@@ -24,19 +24,19 @@
       "ai",
       "business"
     ],
-    "researched_at": "2026-10-21T06:04:26.923221+00:00"
+    "researched_at": "2026-10-22T06:08:42.848875+00:00"
   },
   {
-    "title": "Y'all feel like you don't make progress fast enough?",
-    "url": "https://www.reddit.com/r/Entrepreneur/comments/1x7zxf8/yall_feel_like_you_dont_make_progress_fast_enough/",
-    "summary": "   This is a real &quot;am I the only one who&quot; ass type question but idk, I guess I&#39;m just wondering how y&#39;all cope with it.   I&#39;ve been working on my business for awhile now. Pretty much since last year.    I don&#39;t want to give y&#39;all my entire story but basically, my only client un-subscribed today. I&#39;m kinda grateful because he was a PITA client (finishing him up certainly taught me lessons about ever working with someone like him again) yet also frustrated because I&#39;d worked so hard to satisfy him in the first place. He literally would&#39;ve been charged in just 3 days, which would&#39;ve been a decent amount of money for me.   Prior to that, I had an employee this month I had to let go. He was a sales rep, a great one too, but unfortunately outside forces came and ruined his communication, and at that point began eating my finances having him on board only for him to not show up.   My new sales rep is great. But we 2 of our 6 appointments didn&#39;",
+    "title": "Why silent AI failures are killing agency workflows and how we audit them before clients notice",
+    "url": "https://www.reddit.com/r/Entrepreneur/comments/1xbr8jv/why_silent_ai_failures_are_killing_agency/",
+    "summary": "   the most dangerous thing about building AI workflows isn&#39;t when an agent throws an error or breaks completely.   it&#39;s when it runs perfectly, returns a beautifully formatted output, and everything looks so clean that nobody bothers to check the actual data.   until 3 weeks later when someone realizes the entire report was built on wrong numbers, misattributed conversion data, or fabricated competitor pricing.   this is what i call a silent AI failure. and if you run an agency or consult for clients, it is the absolute worst way to get caught.   the issue is that modern models like claude or openai are insanely good at formatting. they will give you executive summaries with clean tables, custom severity badges, and plausible-sounding math even when the underlying data source returned an empty payload or pulled from the wrong CRM field.   because the output looks like it came from a senior strategist, your team stops auditing it and turns the weekly review into a rubber stamp.",
     "source": "https://www.reddit.com/r/Entrepreneur/.rss",
     "score": 2,
     "matched_keywords": [
       "ai",
-      "business"
+      "workflow"
     ],
-    "researched_at": "2026-10-21T06:04:26.923260+00:00"
+    "researched_at": "2026-10-22T06:08:42.848739+00:00"
   },
   {
     "title": "Sunday Steam: Vent It or Roast It | October 18, 2026",
@@ -48,19 +48,7 @@
       "ai",
       "business"
     ],
-    "researched_at": "2026-10-21T06:04:26.923226+00:00"
-  },
-  {
-    "title": "Successful entrepreneurs, what are the marketing channels that are working best for your business today?",
-    "url": "https://www.reddit.com/r/Entrepreneur/comments/1xam2iv/successful_entrepreneurs_what_are_the_marketing/",
-    "summary": "   Hi all- for entrepreneurs like us who are on the technical side, often time marketing is the biggest challenge. That said, I also understand marketing is heavily dependent on the kinda business you are.    So curious, successful entrepreneurs, what are the marketing channels that are working best for your business today? ? Please also share a quick context on what kinda business you are in      &#32; submitted by &#32;   /u/dewharmony03       [link]   &#32;   [comments]  ",
-    "source": "https://www.reddit.com/r/Entrepreneur/.rss",
-    "score": 2,
-    "matched_keywords": [
-      "ai",
-      "business"
-    ],
-    "researched_at": "2026-10-21T06:04:26.923055+00:00"
+    "researched_at": "2026-10-22T06:08:42.848880+00:00"
   },
   {
     "title": "One Construction Brand or Multiple Specialized Brands?",
@@ -72,7 +60,7 @@
       "automation",
       "business"
     ],
-    "researched_at": "2026-10-21T06:04:26.923205+00:00"
+    "researched_at": "2026-10-22T06:08:42.848861+00:00"
   },
   {
     "title": "I don’t know anymore",
@@ -84,19 +72,29 @@
       "automation",
       "digital product"
     ],
-    "researched_at": "2026-10-21T06:04:26.923128+00:00"
+    "researched_at": "2026-10-22T06:08:42.848796+00:00"
   },
   {
-    "title": "I built a CRM with Claude. What can I actually do with it?",
-    "url": "https://www.reddit.com/r/Entrepreneur/comments/1x90z3i/i_built_a_crm_with_claude_what_can_i_actually_do/",
-    "summary": "   Hi guys, I have a business hosting co-living retreats and conferences for digital nomads in Nepal called &quot;Nomad Basecamp.&quot; I&#39;m a solopreneur but have local partners and volunteers.   For the first few years, I filled my retreats posting in social media groups and following up in DMs   Now I also host summits with dozens of international speakers, and have large lists of past customers, emails from Eventbrite events and online sessions, and huge lists of leads who contacted me on WhatsApp business (Meta ads direct to WhatsApp business are dirt cheap in Nepal).   If I had a magic wand and could wish for anything: it would be to have sales come in like clockwork, without me having to go out and fish for them, or engage in long and lengthy text conversations (often with leads who disappear), and phone calls. I tried Meta Agent in WhatsApp to follow up on my ads but it was talking a load of rubbish with one lead so I turned it off and switched to manual quick replies.   My ",
-    "source": "https://www.reddit.com/r/Entrepreneur/.rss",
-    "score": 2,
+    "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
+    "url": "https://simedw.com/2026/10/21/world-model-terminal/",
+    "summary": " Article URL:  https://simedw.com/2026/10/21/world-model-terminal/  \n Comments URL:  https://news.ycombinator.com/item?id=50190363  \n Points: 39 \n # Comments: 12 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 1,
     "matched_keywords": [
-      "ai",
-      "business"
+      "ai"
     ],
-    "researched_at": "2026-10-21T06:04:26.923251+00:00"
+    "researched_at": "2026-10-22T06:08:42.848143+00:00"
+  },
+  {
+    "title": "Why do companies change when they start making big money?",
+    "url": "https://www.reddit.com/r/Entrepreneur/comments/1xbleck/why_do_companies_change_when_they_start_making/",
+    "summary": "   Guys, I’ve realized this  Major companies like wise, Shopify etc  Start to ban or restrict their users and give no valid explanation why they did so   I read an x post this week of a founder who had about 500K euros in their wise account and their account got shut out of no where.  He tried reaching out and making complaints to wise and they don’t even reply him or look into his case   Same with Shopify   Why do these companies not value their customers?  Why would you create a company then ignore when your customers have issues just because you have 1000s of them   I hate it so much!!     &#32; submitted by &#32;   /u/4PFmel       [link]   &#32;   [comments]  ",
+    "source": "https://www.reddit.com/r/Entrepreneur/.rss",
+    "score": 1,
+    "matched_keywords": [
+      "ai"
+    ],
+    "researched_at": "2026-10-22T06:08:42.848730+00:00"
   },
   {
     "title": "Where do you draw the line between proving you understand a problem and solving it for free in the proposal?",
@@ -107,18 +105,7 @@
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-21T06:04:26.923180+00:00"
-  },
-  {
-    "title": "Voxtral 3",
-    "url": "https://mistral.ai/news/voxtral-3/",
-    "summary": " Article URL:  https://mistral.ai/news/voxtral-3/  \n Comments URL:  https://news.ycombinator.com/item?id=50168396  \n Points: 585 \n # Comments: 149 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 1,
-    "matched_keywords": [
-      "ai"
-    ],
-    "researched_at": "2026-10-21T06:04:26.923030+00:00"
+    "researched_at": "2026-10-22T06:08:42.848840+00:00"
   },
   {
     "title": "Starting a deal sourcing business for Private Equity?",
@@ -129,18 +116,29 @@
     "matched_keywords": [
       "business"
     ],
-    "researched_at": "2026-10-21T06:04:26.923164+00:00"
+    "researched_at": "2026-10-22T06:08:42.848827+00:00"
   },
   {
-    "title": "Show HN: SimCity, but with Permits",
-    "url": "https://permit.petercai.com/",
-    "summary": " Article URL:  https://permit.petercai.com/  \n Comments URL:  https://news.ycombinator.com/item?id=50170593  \n Points: 686 \n # Comments: 351 ",
+    "title": "Security Disclosure",
+    "url": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
+    "summary": " Article URL:  https://blog.railway.com/p/security-disclosure-wednesday-october-21st  \n Comments URL:  https://news.ycombinator.com/item?id=50188228  \n Points: 396 \n # Comments: 231 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-21T06:04:26.923015+00:00"
+    "researched_at": "2026-10-22T06:08:42.848168+00:00"
+  },
+  {
+    "title": "OpenAI models are coming to Google Cloud",
+    "url": "https://openai.com/index/openai-models-google-cloud/",
+    "summary": " Article URL:  https://openai.com/index/openai-models-google-cloud/  \n Comments URL:  https://news.ycombinator.com/item?id=50180079  \n Points: 274 \n # Comments: 112 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 1,
+    "matched_keywords": [
+      "ai"
+    ],
+    "researched_at": "2026-10-22T06:08:42.848684+00:00"
   },
   {
     "title": "New business near university",
@@ -151,7 +149,7 @@
     "matched_keywords": [
       "business"
     ],
-    "researched_at": "2026-10-21T06:04:26.923062+00:00"
+    "researched_at": "2026-10-22T06:08:42.848745+00:00"
   },
   {
     "title": "My business is more stable, but my confidence hasn’t caught up. How do I rebuild my confidence?",
@@ -162,18 +160,7 @@
     "matched_keywords": [
       "business"
     ],
-    "researched_at": "2026-10-21T06:04:26.923097+00:00"
-  },
-  {
-    "title": "Muse exposes users' personal and business secrets when they share conversations",
-    "url": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
-    "summary": " Article URL:  https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/  \n Comments URL:  https://news.ycombinator.com/item?id=50174687  \n Points: 64 \n # Comments: 11 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 1,
-    "matched_keywords": [
-      "business"
-    ],
-    "researched_at": "2026-10-21T06:04:26.922999+00:00"
+    "researched_at": "2026-10-22T06:08:42.848758+00:00"
   },
   {
     "title": "Monday mentorship: ask anything | October 19, 2026",
@@ -184,7 +171,18 @@
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-21T06:04:26.923196+00:00"
+    "researched_at": "2026-10-22T06:08:42.848853+00:00"
+  },
+  {
+    "title": "Launch HN: Alter (YC S25) – Access control for multi-user agents",
+    "url": "https://alterauth.com/",
+    "summary": " Hi HN! We’re Srikar and Kevan, founders of Alter –  https://alterauth.com/ . We’re building access control for agents that can take actions on behalf of multiple users. If you’ve built an internal agent people use through Slack, you may have experienced this scenario: everyone signs in with their own account, but the agent connects to the CRM or billing system with one shared API key, so the agent can do anything that the key can do. User-level authentication in Slack does nothing to control what the agent can do in an external system like the CRM or billing system. Here’s what Alter does: -It acts as a proxy and manages downstream credentials for every API request that an agent takes; -It takes identity into account for every action the agent does. Automatically take into account the end user identity of the person that the agent is taking actions on behalf of. -It enforces fine grained runtime policies and records compliance grade audit logs. Here’s a demo video:  https://www.youtub",
+    "source": "https://hnrss.org/frontpage",
+    "score": 1,
+    "matched_keywords": [
+      "ai"
+    ],
+    "researched_at": "2026-10-22T06:08:42.848699+00:00"
   },
   {
     "title": "Is Part-Time Consultation Worth the Time for Exposure?",
@@ -195,7 +193,7 @@
     "matched_keywords": [
       "business"
     ],
-    "researched_at": "2026-10-21T06:04:26.923214+00:00"
+    "researched_at": "2026-10-22T06:08:42.848869+00:00"
   },
   {
     "title": "How helped scale a travel agency from $3,000 to $20,000 in monthly profits within 6 months",
@@ -206,7 +204,7 @@
     "matched_keywords": [
       "business"
     ],
-    "researched_at": "2026-10-21T06:04:26.923158+00:00"
+    "researched_at": "2026-10-22T06:08:42.848821+00:00"
   },
   {
     "title": "Have you ever delivered everything in the contract and still had an unhappy customer?",
@@ -217,29 +215,18 @@
     "matched_keywords": [
       "business"
     ],
-    "researched_at": "2026-10-21T06:04:26.923113+00:00"
+    "researched_at": "2026-10-22T06:08:42.848783+00:00"
   },
   {
-    "title": "Good type against all odds",
-    "url": "https://unsung.aresluna.org/good-type-against-all-odds/",
-    "summary": " Article URL:  https://unsung.aresluna.org/good-type-against-all-odds/  \n Comments URL:  https://news.ycombinator.com/item?id=50175059  \n Points: 71 \n # Comments: 8 ",
-    "source": "https://hnrss.org/frontpage",
+    "title": "As an entrepreneur, I give really bad advice for average people.",
+    "url": "https://www.reddit.com/r/Entrepreneur/comments/1xbwmhd/as_an_entrepreneur_i_give_really_bad_advice_for/",
+    "summary": "   I don’t think the people I talk to want to be average though...    If you want to stay average, keep your 9-5, put your money in a 401k, and wait for a raise that depends on whether HR decided you were a good boy or girl this year.    Or bet on yourself, own equity in something, and actually control your own outcome instead of letting somebody else decide it for you.    You don’t reach the top 1% doing what the 99% do.     &#32; submitted by &#32;   /u/BobbyBizScout       [link]   &#32;   [comments]  ",
+    "source": "https://www.reddit.com/r/Entrepreneur/.rss",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-21T06:04:26.922993+00:00"
-  },
-  {
-    "title": "Advanced coding in low-resource programming languages",
-    "url": "https://openai.com/index/low-resource-programming-languages/",
-    "summary": " Article URL:  https://openai.com/index/low-resource-programming-languages/  \n Comments URL:  https://news.ycombinator.com/item?id=50169955  \n Points: 62 \n # Comments: 67 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 1,
-    "matched_keywords": [
-      "ai"
-    ],
-    "researched_at": "2026-10-21T06:04:26.923019+00:00"
+    "researched_at": "2026-10-22T06:08:42.848769+00:00"
   },
   {
     "title": "📋 Entrepreneur Moderator Applications Open - Apply Now!",
@@ -248,52 +235,43 @@
     "source": "https://www.reddit.com/r/Entrepreneur/.rss",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-21T06:04:26.923045+00:00"
+    "researched_at": "2026-10-22T06:08:42.848705+00:00"
   },
   {
-    "title": "What shall I teach my son?",
-    "url": "https://stevekrouse.com/ends",
-    "summary": " Article URL:  https://stevekrouse.com/ends  \n Comments URL:  https://news.ycombinator.com/item?id=50169707  \n Points: 340 \n # Comments: 405 ",
+    "title": "mitmproxy adds --emudhra option",
+    "url": "https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b",
+    "summary": " Article URL:  https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b  \n Comments URL:  https://news.ycombinator.com/item?id=50189232  \n Points: 371 \n # Comments: 95 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-21T06:04:26.923023+00:00"
+    "researched_at": "2026-10-22T06:08:42.848151+00:00"
   },
   {
-    "title": "Using Claude to reduce the attack surface of code",
-    "url": "https://www.anthropic.com/research/attack-surface-reduction",
-    "summary": " Article URL:  https://www.anthropic.com/research/attack-surface-reduction  \n Comments URL:  https://news.ycombinator.com/item?id=50175779  \n Points: 6 \n # Comments: 0 ",
+    "title": "Today's PHP security release, and how we're strengthening security",
+    "url": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
+    "summary": " Related ongoing thread:  PHP 8.2.35  -  https://news.ycombinator.com/item?id=50180873  (links to more at  https://news.ycombinator.com/item?id=50184935 ) \n \n Comments URL:  https://news.ycombinator.com/item?id=50182987  \n Points: 707 \n # Comments: 348 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-21T06:04:26.922979+00:00"
+    "researched_at": "2026-10-22T06:08:42.848659+00:00"
   },
   {
-    "title": "Upcoming critical PHP security release",
-    "url": "https://news-web.php.net/php.announce/509",
-    "summary": " Article URL:  https://news-web.php.net/php.announce/509  \n Comments URL:  https://news.ycombinator.com/item?id=50172041  \n Points: 397 \n # Comments: 148 ",
+    "title": "There isn't an easy exploit for this PHP vulnerability",
+    "url": "https://eliastaylor.com/noexploit/",
+    "summary": " Article URL:  https://eliastaylor.com/noexploit/  \n Comments URL:  https://news.ycombinator.com/item?id=50188948  \n Points: 366 \n # Comments: 171 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-21T06:04:26.923011+00:00"
+    "researched_at": "2026-10-22T06:08:42.848158+00:00"
   },
   {
-    "title": "The Other Epidemic: Trying to get off benzodiazepines",
-    "url": "https://www.thebeliever.net/the-other-epidemic/",
-    "summary": "  https://web.archive.org/web/20261020230542/https://www.thebe...   https://archive.ph/Tb1SZ  \n \n Comments URL:  https://news.ycombinator.com/item?id=50173891  \n Points: 140 \n # Comments: 93 ",
+    "title": "The recently proposed o(n log n) integer multiplication algorithm [pdf]",
+    "url": "https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf",
+    "summary": " Article URL:  https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf  \n Comments URL:  https://news.ycombinator.com/item?id=50190455  \n Points: 101 \n # Comments: 61 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-21T06:04:26.923003+00:00"
-  },
-  {
-    "title": "The Future of CSS",
-    "url": "https://www.joshwcomeau.com/css/interop-2027/",
-    "summary": " Article URL:  https://www.joshwcomeau.com/css/interop-2027/  \n Comments URL:  https://news.ycombinator.com/item?id=50175070  \n Points: 165 \n # Comments: 53 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-10-21T06:04:26.922989+00:00"
+    "researched_at": "2026-10-22T06:08:42.848139+00:00"
   },
   {
     "title": "Talent Tuesday: Services and Collabs | October 20, 2026",
@@ -302,70 +280,88 @@
     "source": "https://www.reddit.com/r/Entrepreneur/.rss",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-21T06:04:26.923049+00:00"
+    "researched_at": "2026-10-22T06:08:42.848709+00:00"
   },
   {
-    "title": "Sixteen years after Deepwater Horizon, deep sea life shows few signs of recovery",
-    "url": "https://e360.yale.edu/digest/deepwater-horizon-deep-sea-recovery",
-    "summary": " Article URL:  https://e360.yale.edu/digest/deepwater-horizon-deep-sea-recovery  \n Comments URL:  https://news.ycombinator.com/item?id=50168357  \n Points: 239 \n # Comments: 142 ",
+    "title": "Show HN: Omnara – Open-source alternative to Claude Managed Agents",
+    "url": "https://github.com/omnara-ai/omnara",
+    "summary": " Hey all, Kartik from Omnara ( https://omnara.com ) here. We're building an open-source API for running durable agents. You create an agent with an API call, and Omnara runs the agent loop, gives the agent sandboxes to run commands in, and handles secrets, permissions, and RBAC. Each agent's state is stored in Postgres, so agents survive restarts and cost nothing while idle. You can message them and stream their events over the API. You may remember us from our early days, when we made a remote-control phone app for Claude Code and Codex. Since the harness ran on a laptop back then, we had to build a relay to reach it, it stopped when the laptop closed, and moving it to a cloud sandbox meant syncing code and agent state between machines. We didn't think remote-controlling a local agent was end-game for how people would run agents, so we built a new product where the agent runs in the cloud, any client can talk to it through an API, and it can still use your laptop as one of its machine",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-21T06:04:26.923034+00:00"
+    "researched_at": "2026-10-22T06:08:42.848653+00:00"
   },
   {
-    "title": "Setting Up SSH Keys on macOS with Touch ID",
-    "url": "https://nmattia.com/posts/2026-10-19-setting-up-ssh-keys-touch-id/",
-    "summary": " Article URL:  https://nmattia.com/posts/2026-10-19-setting-up-ssh-keys-touch-id/  \n Comments URL:  https://news.ycombinator.com/item?id=50175882  \n Points: 10 \n # Comments: 3 ",
+    "title": "Rust Style Guide",
+    "url": "https://google.github.io/styleguide/rustguide.html",
+    "summary": " Article URL:  https://google.github.io/styleguide/rustguide.html  \n Comments URL:  https://news.ycombinator.com/item?id=50186010  \n Points: 266 \n # Comments: 146 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-21T06:04:26.922971+00:00"
+    "researched_at": "2026-10-22T06:08:42.848173+00:00"
   },
   {
-    "title": "Pillowfort Is Closing",
-    "url": "https://www.pillowfort.social/posts/8413273",
-    "summary": " Article URL:  https://www.pillowfort.social/posts/8413273  \n Comments URL:  https://news.ycombinator.com/item?id=50176301  \n Points: 12 \n # Comments: 4 ",
+    "title": "Postgres recovery_prefetch can cause outages",
+    "url": "https://ardentperf.com/2026/10/20/postgres-recovery_prefetch-considered-harmful-and-causing-outages/",
+    "summary": " Article URL:  https://ardentperf.com/2026/10/20/postgres-recovery_prefetch-considered-harmful-and-causing-outages/  \n Comments URL:  https://news.ycombinator.com/item?id=50188614  \n Points: 13 \n # Comments: 0 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-21T06:04:26.922400+00:00"
+    "researched_at": "2026-10-22T06:08:42.848163+00:00"
   },
   {
-    "title": "Ofcom concedes defeat in 4chan case",
-    "url": "https://prestonbyrne.com/2026/10/20/ofcom-concedes-defeat/",
-    "summary": " Article URL:  https://prestonbyrne.com/2026/10/20/ofcom-concedes-defeat/  \n Comments URL:  https://news.ycombinator.com/item?id=50167028  \n Points: 366 \n # Comments: 272 ",
+    "title": "Patch the Planet: global response coordination as agents uncover vulnerabilities",
+    "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
+    "summary": "  https://patchtheplanet.org/  \n \n Comments URL:  https://news.ycombinator.com/item?id=50181175  \n Points: 247 \n # Comments: 167 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-21T06:04:26.923038+00:00"
+    "researched_at": "2026-10-22T06:08:42.848667+00:00"
   },
   {
-    "title": "Nexus-CLI – Pure Go Bridge to DeepSeek R1/V3 with Claude Code and Ollama Support",
-    "url": "https://github.com/xamrayev/nexus-cli",
-    "summary": " Article URL:  https://github.com/xamrayev/nexus-cli  \n Comments URL:  https://news.ycombinator.com/item?id=50176129  \n Points: 5 \n # Comments: 0 ",
+    "title": "PHP 8.2.35",
+    "url": "https://github.com/php/php-src/releases/tag/php-8.2.35",
+    "summary": " Related ongoing thread:  Today's PHP security release, and how we're strengthening security  -  https://news.ycombinator.com/item?id=50182987  \n \n Comments URL:  https://news.ycombinator.com/item?id=50180873  \n Points: 993 \n # Comments: 535 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-21T06:04:26.922958+00:00"
+    "researched_at": "2026-10-22T06:08:42.848681+00:00"
   },
   {
-    "title": "Major PHP Vulnerability Leaked",
-    "url": "https://jackalsyn.com/posts/php-up-2026.html",
-    "summary": " Article URL:  https://jackalsyn.com/posts/php-up-2026.html  \n Comments URL:  https://news.ycombinator.com/item?id=50176077  \n Points: 93 \n # Comments: 25 ",
+    "title": "Oregon lawmakers approve money to buy an iconic waterfall listed on Redfin",
+    "url": "https://apnews.com/article/oregon-waterfall-for-sale-lawmakers-996de63462d49ec3ad9bee1629fb9488",
+    "summary": " Article URL:  https://apnews.com/article/oregon-waterfall-for-sale-lawmakers-996de63462d49ec3ad9bee1629fb9488  \n Comments URL:  https://news.ycombinator.com/item?id=50182526  \n Points: 183 \n # Comments: 91 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-21T06:04:26.922966+00:00"
+    "researched_at": "2026-10-22T06:08:42.848663+00:00"
   },
   {
-    "title": "In Hilbert space, all things are quantumly possible",
-    "url": "https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/",
-    "summary": " Article URL:  https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/  \n Comments URL:  https://news.ycombinator.com/item?id=50175185  \n Points: 56 \n # Comments: 24 ",
+    "title": "Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case",
+    "url": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
+    "summary": "  https://nmdoj.gov/press-release/the-new-mexico-department-of...  \n \n Comments URL:  https://news.ycombinator.com/item?id=50184820  \n Points: 474 \n # Comments: 297 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-21T06:04:26.922984+00:00"
+    "researched_at": "2026-10-22T06:08:42.848190+00:00"
+  },
+  {
+    "title": "LLM agents play Pokemon showdown",
+    "url": "https://olivergrabner.com/research/pokemon/",
+    "summary": " Article URL:  https://olivergrabner.com/research/pokemon/  \n Comments URL:  https://news.ycombinator.com/item?id=50190334  \n Points: 25 \n # Comments: 14 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-10-22T06:08:42.848147+00:00"
+  },
+  {
+    "title": "I can't believe PowerShell is good",
+    "url": "https://www.spacebar.news/powershell-is-actually-good/",
+    "summary": " Article URL:  https://www.spacebar.news/powershell-is-actually-good/  \n Comments URL:  https://news.ycombinator.com/item?id=50190959  \n Points: 41 \n # Comments: 26 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-10-22T06:08:42.848133+00:00"
   },
   {
     "title": "How do you handle a new manager who’s hurting morale when the team is performing well?",
@@ -374,42 +370,42 @@
     "source": "https://www.reddit.com/r/Entrepreneur/.rss",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-21T06:04:26.923191+00:00"
+    "researched_at": "2026-10-22T06:08:42.848849+00:00"
   },
   {
-    "title": "Google open-sources TorchTPU, a native PyTorch back end for TPUs",
-    "url": "https://github.com/google-pytorch/torch_tpu",
-    "summary": " Article URL:  https://github.com/google-pytorch/torch_tpu  \n Comments URL:  https://news.ycombinator.com/item?id=50169053  \n Points: 308 \n # Comments: 68 ",
+    "title": "GitLab critical patch release",
+    "url": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
+    "summary": " Article URL:  https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/  \n Comments URL:  https://news.ycombinator.com/item?id=50185869  \n Points: 298 \n # Comments: 71 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-21T06:04:26.923027+00:00"
+    "researched_at": "2026-10-22T06:08:42.848183+00:00"
   },
   {
-    "title": "Feds suspect ransom negotiator ran ShinyHunters extortion site",
-    "url": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
-    "summary": " Article URL:  https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/  \n Comments URL:  https://news.ycombinator.com/item?id=50173487  \n Points: 158 \n # Comments: 64 ",
+    "title": "DuckDB 2.0.0 LTS “Cinnamon Teal”",
+    "url": "https://duckdb.org/2026/10/21/announcing-duckdb-200",
+    "summary": " Article URL:  https://duckdb.org/2026/10/21/announcing-duckdb-200  \n Comments URL:  https://news.ycombinator.com/item?id=50181136  \n Points: 394 \n # Comments: 50 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-21T06:04:26.923007+00:00"
+    "researched_at": "2026-10-22T06:08:42.848673+00:00"
   },
   {
-    "title": "Battlezone Online: BZFlag in the Browser",
-    "url": "https://github.com/timriker/bzo",
-    "summary": " Article URL:  https://github.com/timriker/bzo  \n Comments URL:  https://news.ycombinator.com/item?id=50176298  \n Points: 7 \n # Comments: 2 ",
+    "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
+    "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
+    "summary": " Article URL:  https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/  \n Comments URL:  https://news.ycombinator.com/item?id=50181114  \n Points: 475 \n # Comments: 160 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-21T06:04:26.922408+00:00"
+    "researched_at": "2026-10-22T06:08:42.848677+00:00"
   },
   {
-    "title": "A big piece of the Industrial Revolution came out of a monthly dinner party. What’s the version of that for founders today?",
-    "url": "https://www.reddit.com/r/Entrepreneur/comments/1x8dvo0/a_big_piece_of_the_industrial_revolution_came_out/",
-    "summary": "   This morning I saw a headline about sobremesa, the Spanish word for the time after a meal when nobody gets up from the table and the conversation keeps going. It got me wondering how many big ideas came out of long conversations at a table.   One answer is Birmingham, England, in the 1760s. A group of friends started meeting for dinner once a month, on the Monday closest to the full moon, so they&#39;d have moonlight to ride home by. They called themselves the Lunar Society, and joked that they were lunatics.   Who was at the table:   - Matthew Boulton, who ran one of the biggest factories in England   - James Watt, who was trying to make the steam engine work   - Josiah Wedgwood, who turned pottery into an industry   - Joseph Priestley, the chemist who isolated oxygen   - Erasmus Darwin, doctor, inventor, and Charles Darwin&#39;s grandfather   Boulton and Watt became partners. Watt had the engine and no money. Boulton had the money and a factory. Their engines went on to power the ",
+    "title": "5 Ways to Become Industry Famous",
+    "url": "https://www.reddit.com/r/Entrepreneur/comments/1xbnrho/5_ways_to_become_industry_famous/",
+    "summary": "   PR Agency owner here,    For those of you that want to be the recognizable face of your company, here are the top 5 ways I take people and greatly increase their visibility.    41 of my clients have been on TV. One had a movie made from their story, 2 got documentaries made, 2 have been on reality TV.       Charge the industry. Create an industry database of magazines and journos in your niche. Reach out with a strong angle or new opinion on something and offer an interview. Industry coverage creates credibility.      Get on the news. It takes me 7 minutes to pitch a client to every news station in their area. Getting on TV provides screenshots for social media, exposure to thousands of new people, and increases your Google presence.      Write a book. Published author is a huge designator and will get you more media interviews when you launch.      Start speaking. Get on stage and get branding photos. Even if you start small, speaking gigs convene authority. Plus it opens you up to",
     "source": "https://www.reddit.com/r/Entrepreneur/.rss",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-21T06:04:26.923243+00:00"
+    "researched_at": "2026-10-22T06:08:42.848718+00:00"
   }
 ]
