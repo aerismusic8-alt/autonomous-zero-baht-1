@@ -1,0 +1,27 @@
+{
+  "id": "median-product-lifespan-has-fallen-from-4y-down-to-1-5y",
+  "created_at": "2026-10-23T06:03:50.742432+00:00",
+  "source_title": "Median product \"lifespan\" has fallen from ~4y down to ~1.5y",
+  "source_url": "https://news.ycombinator.com/item?id=50204125",
+  "source_feed": "https://hnrss.org/frontpage",
+  "research_score": 2,
+  "formats": {
+    "seo_article_outline": {
+      "title": "Median product \"lifespan\" has fallen from ~4y down to ~1.5y",
+      "sections": [
+        "ปัญหาหรือคำถามที่ผู้อ่านต้องการคำตอบ",
+        "ข้อมูลพื้นฐานและข้อเท็จจริงที่ตรวจสอบได้",
+        "ทางเลือกหรือขั้นตอนที่ผู้อ่านนำไปใช้ได้",
+        "ข้อจำกัดและสิ่งที่ควรตรวจสอบเพิ่มเติม",
+        "สรุปและขั้นตอนถัดไป"
+      ],
+      "source_summary_for_editor": "The \"product graveyard\" of SaaSHub has been tracking the status (and lifespan) of hundreds of thousands of products. It's been hovering around 4y for quite some time. However, there's a sharp decline in 2026 leading to about 1.5y these days.  https://www.saashub.com/product-graveyard  That's a huge drop. And, it matches my \"human\" observations. A lot of products are being vibe coded, released, and soon after that abandoned. It's become too cheap to produce software. So, a lot of people have been experimenting for 'free' with their ideas - only to find out that they weren't viable... or that they couldn't bring customers in. Distribution and marketing have become much more important than before - within the context that everyone can build \"features\" for free. Anyhow, I expect this trend of shortening product lifespan to continue even further down. Or maybe, at some point people will realised that there are no users for their products as every user can \"build\" their own and custom produ",
+      "source_url": "https://news.ycombinator.com/item?id=50204125"
+    },
+    "facebook_post": "กำลังรวบรวมข้อมูลเรื่อง: Median product \"lifespan\" has fallen from ~4y down to ~1.5y\\n\\nก่อนตัดสินใจ ควรตรวจสอบแหล่งข้อมูลและเปรียบเทียบทางเลือกให้เหมาะกับความต้องการของตนเอง\\n\\nแหล่งข้อมูลสำหรับตรวจสอบ: https://news.ycombinator.com/item?id=50204125",
+    "short_video_script": "Hook: คุณกำลังหาข้อมูลเรื่อง Median product \"lifespan\" has fallen from ~4y down to ~1.5y อยู่หรือไม่?\\n\\nเนื้อหา: เริ่มจากตรวจสอบข้อมูลต้นทาง เปรียบเทียบข้อเท็จจริงและข้อจำกัด อย่าตัดสินใจจากพาดหัวเพียงอย่างเดียว\\n\\nCTA: อ่านข้อมูลต้นทางและตรวจสอบรายละเอียดเพิ่มเติมได้ที่ https://news.ycombinator.com/item?id=50204125",
+    "affiliate_disclosure": "Disclosure: หากมีลิงก์ Affiliate ในฉบับเผยแพร่ ผู้จัดทำอาจได้รับค่าคอมมิชชันโดยไม่มีค่าใช้จ่ายเพิ่มสำหรับผู้ซื้อ"
+  },
+  "status": "draft_requires_human_review",
+  "first_hand_experience_claimed": false
+}

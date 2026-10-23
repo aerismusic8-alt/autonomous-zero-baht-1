@@ -5,22 +5,22 @@
     "errors": []
   },
   {
-    "path": "data/content/drafts/rate-my-idea-i-got-some-scrap-books-from-my-dad-my-mom-passed-away-i-started-thi.json",
-    "passed": true,
-    "errors": []
-  },
-  {
     "path": "data/content/drafts/why-silent-ai-failures-are-killing-agency-workflows-and-how-we-audit-them-before.json",
     "passed": true,
     "errors": []
   },
   {
-    "path": "data/content/drafts/sunday-steam-vent-it-or-roast-it-october-18-2026.json",
+    "path": "data/content/drafts/rtws-the-media-angles-that-got-my-clients-on-tv.json",
     "passed": true,
     "errors": []
   },
   {
     "path": "data/content/drafts/one-construction-brand-or-multiple-specialized-brands.json",
+    "passed": true,
+    "errors": []
+  },
+  {
+    "path": "data/content/drafts/median-product-lifespan-has-fallen-from-4y-down-to-1-5y.json",
     "passed": true,
     "errors": []
   }

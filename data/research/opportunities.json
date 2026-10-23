@@ -11,20 +11,7 @@
       "software",
       "developer"
     ],
-    "researched_at": "2026-10-22T06:08:42.848808+00:00"
-  },
-  {
-    "title": "Rate my idea: I got some scrap books from my dad, my mom passed away. I started thinking about scanning them, but the companies who do this cost several dollars per page and some of them take several months, not to mention big businesses don't know where in line the books are",
-    "url": "https://www.reddit.com/r/Entrepreneur/comments/1x9cw20/rate_my_idea_i_got_some_scrap_books_from_my_dad/",
-    "summary": "   I am thinking about starting this and using automation and some AI programming to automate the process. My vision is to have a coversheet with the customer data, scan the scrapbook pages and use AI to streighten/clearup photos. According to AI, I should be charging $80 for a 50 page book, and have a $70 profit margin. I&#39;m not sure if there is a market for this service. Thanks,     &#32; submitted by &#32;   /u/jrwn       [link]   &#32;   [comments]  ",
-    "source": "https://www.reddit.com/r/Entrepreneur/.rss",
-    "score": 3,
-    "matched_keywords": [
-      "automation",
-      "ai",
-      "business"
-    ],
-    "researched_at": "2026-10-22T06:08:42.848875+00:00"
+    "researched_at": "2026-10-23T06:03:50.740364+00:00"
   },
   {
     "title": "Why silent AI failures are killing agency workflows and how we audit them before clients notice",
@@ -36,19 +23,19 @@
       "ai",
       "workflow"
     ],
-    "researched_at": "2026-10-22T06:08:42.848739+00:00"
+    "researched_at": "2026-10-23T06:03:50.740276+00:00"
   },
   {
-    "title": "Sunday Steam: Vent It or Roast It | October 18, 2026",
-    "url": "https://www.reddit.com/r/Entrepreneur/comments/1x8xkmh/sunday_steam_vent_it_or_roast_it_october_18_2026/",
-    "summary": "   Had a week? Same. This is your consequence-free space to complain about clients, platforms, algorithms, your own decisions, or the general chaos of running a business. Keep it venting with no personal attacks. We&#39;ll be back to being professional tomorrow.     &#32; submitted by &#32;   /u/AutoModerator       [link]   &#32;   [comments]  ",
+    "title": "RTWS - The Media Angles That Got My Clients on TV",
+    "url": "https://www.reddit.com/r/Entrepreneur/comments/1xckuqk/rtws_the_media_angles_that_got_my_clients_on_tv/",
+    "summary": "   Pirates of Reddit,    Arrrr,    Thanks for checking out my post on PR yesterday, I got some great questions and discussion topics. That&#39;s the funny thing about Reddit, one day you feel like you just made 20 cool friends and the next day 35 people attack you, call you a fraud and say things about your mother&#39;s cooking.    Today I&#39;m going to discuss the angles. The ones that worked and got people IMMEDIATE coverage from the news. These are some of my best client wins. Take this and think about your own story and how you can develop it and pitch.    If you are trying to get your story and business on TV, you need an angle. Lucky for you, I have 7-9 angles already pre determined that can be adjusted to match your story. Once we lock the angle, we lock the pitch. Once we have the pitch, we create the database. Then off we go.    Here are the winners:    An Air Force Staff Sergeant was struck by an uninsured 18 year old, shattering both of her legs. It completely upended her l",
     "source": "https://www.reddit.com/r/Entrepreneur/.rss",
     "score": 2,
     "matched_keywords": [
       "ai",
       "business"
     ],
-    "researched_at": "2026-10-22T06:08:42.848880+00:00"
+    "researched_at": "2026-10-23T06:03:50.740265+00:00"
   },
   {
     "title": "One Construction Brand or Multiple Specialized Brands?",
@@ -60,7 +47,19 @@
       "automation",
       "business"
     ],
-    "researched_at": "2026-10-22T06:08:42.848861+00:00"
+    "researched_at": "2026-10-23T06:03:50.740433+00:00"
+  },
+  {
+    "title": "Median product \"lifespan\" has fallen from ~4y down to ~1.5y",
+    "url": "https://news.ycombinator.com/item?id=50204125",
+    "summary": " The \"product graveyard\" of SaaSHub has been tracking the status (and lifespan) of hundreds of thousands of products. It's been hovering around 4y for quite some time. However, there's a sharp decline in 2026 leading to about 1.5y these days.  https://www.saashub.com/product-graveyard  That's a huge drop. And, it matches my \"human\" observations. A lot of products are being vibe coded, released, and soon after that abandoned. It's become too cheap to produce software. So, a lot of people have been experimenting for 'free' with their ideas - only to find out that they weren't viable... or that they couldn't bring customers in. Distribution and marketing have become much more important than before - within the context that everyone can build \"features\" for free. Anyhow, I expect this trend of shortening product lifespan to continue even further down. Or maybe, at some point people will realised that there are no users for their products as every user can \"build\" their own and custom produ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 2,
+    "matched_keywords": [
+      "software",
+      "saas"
+    ],
+    "researched_at": "2026-10-23T06:03:50.734168+00:00"
   },
   {
     "title": "I don’t know anymore",
@@ -72,29 +71,18 @@
       "automation",
       "digital product"
     ],
-    "researched_at": "2026-10-22T06:08:42.848796+00:00"
+    "researched_at": "2026-10-23T06:03:50.740344+00:00"
   },
   {
-    "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
-    "url": "https://simedw.com/2026/10/21/world-model-terminal/",
-    "summary": " Article URL:  https://simedw.com/2026/10/21/world-model-terminal/  \n Comments URL:  https://news.ycombinator.com/item?id=50190363  \n Points: 39 \n # Comments: 12 ",
+    "title": "eMudhra to exit global SSL/TLS certificate business",
+    "url": "https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business",
+    "summary": " Article URL:  https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business  \n Comments URL:  https://news.ycombinator.com/item?id=50195110  \n Points: 996 \n # Comments: 665 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
-      "ai"
+      "business"
     ],
-    "researched_at": "2026-10-22T06:08:42.848143+00:00"
-  },
-  {
-    "title": "Why do companies change when they start making big money?",
-    "url": "https://www.reddit.com/r/Entrepreneur/comments/1xbleck/why_do_companies_change_when_they_start_making/",
-    "summary": "   Guys, I’ve realized this  Major companies like wise, Shopify etc  Start to ban or restrict their users and give no valid explanation why they did so   I read an x post this week of a founder who had about 500K euros in their wise account and their account got shut out of no where.  He tried reaching out and making complaints to wise and they don’t even reply him or look into his case   Same with Shopify   Why do these companies not value their customers?  Why would you create a company then ignore when your customers have issues just because you have 1000s of them   I hate it so much!!     &#32; submitted by &#32;   /u/4PFmel       [link]   &#32;   [comments]  ",
-    "source": "https://www.reddit.com/r/Entrepreneur/.rss",
-    "score": 1,
-    "matched_keywords": [
-      "ai"
-    ],
-    "researched_at": "2026-10-22T06:08:42.848730+00:00"
+    "researched_at": "2026-10-23T06:03:50.740168+00:00"
   },
   {
     "title": "Where do you draw the line between proving you understand a problem and solving it for free in the proposal?",
@@ -105,7 +93,18 @@
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-22T06:08:42.848840+00:00"
+    "researched_at": "2026-10-23T06:03:50.740404+00:00"
+  },
+  {
+    "title": "Stepping Back",
+    "url": "https://www.reddit.com/r/Entrepreneur/comments/1xcnuh3/stepping_back/",
+    "summary": "   Over the past 2 years I have grown a nice interview prep company to an annual profit of $400-500k. I have hired a few people helping to disperse the workload as we grew but overwhelmingly people are insisting on working with me. My team is phenomenal, our success rates are pretty much identical but people are always constantly requesting me. I’m currently work 5a - 10p with about few hours sleep in on the weekends, and an evening off when I can catch it. I’ve made it so scheduling divides up the workload but so often people email or call and ask for me.    I’m hoping over the next few months to launch the sister company and let me team so the prep on the original company - but I’m not sure how to break away.      &#32; submitted by &#32;   /u/ILikeFlyingAlot       [link]   &#32;   [comments]  ",
+    "source": "https://www.reddit.com/r/Entrepreneur/.rss",
+    "score": 1,
+    "matched_keywords": [
+      "ai"
+    ],
+    "researched_at": "2026-10-23T06:03:50.740225+00:00"
   },
   {
     "title": "Starting a deal sourcing business for Private Equity?",
@@ -116,29 +115,40 @@
     "matched_keywords": [
       "business"
     ],
-    "researched_at": "2026-10-22T06:08:42.848827+00:00"
+    "researched_at": "2026-10-23T06:03:50.740387+00:00"
   },
   {
-    "title": "Security Disclosure",
-    "url": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
-    "summary": " Article URL:  https://blog.railway.com/p/security-disclosure-wednesday-october-21st  \n Comments URL:  https://news.ycombinator.com/item?id=50188228  \n Points: 396 \n # Comments: 231 ",
+    "title": "Scared to pull the trigger (start)",
+    "url": "https://www.reddit.com/r/Entrepreneur/comments/1xckf3q/scared_to_pull_the_trigger_start/",
+    "summary": "   How do I prepare myself to actually own and operate a business (online for now). Cosmetic product.    I’ve pulled the trigger and started a few years ago and got scared, ended up stopping.   Now i’m starting over from scratch, except the name/trademark.   I want to start product development, but I literally dont know what to do next &amp; I’m scared its all going to happen at once.   I want to slowly start building. The product development says it takes about 4 weeks to formulate, and then I assume another few weeks or month to manufacture. I dont have to manufacture right away.    So what should I be doing? I have no real business experience.   I think I should build a basic but nice shopify website. I don’t have images of the product so I dont know what I’d even post or post on social media. Maybe on instagram just stock images or posts with cosmetic info?   I just feel like i’m going to wake up one day and be like “I GOT A BUSINESS TO RUN”. I know it won’t take off right away, bu",
+    "source": "https://www.reddit.com/r/Entrepreneur/.rss",
+    "score": 1,
+    "matched_keywords": [
+      "business"
+    ],
+    "researched_at": "2026-10-23T06:03:50.740244+00:00"
+  },
+  {
+    "title": "Railpass",
+    "url": "https://train.samismith.com/",
+    "summary": " Article URL:  https://train.samismith.com/  \n Comments URL:  https://news.ycombinator.com/item?id=50201414  \n Points: 79 \n # Comments: 23 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-22T06:08:42.848168+00:00"
+    "researched_at": "2026-10-23T06:03:50.740128+00:00"
   },
   {
-    "title": "OpenAI models are coming to Google Cloud",
-    "url": "https://openai.com/index/openai-models-google-cloud/",
-    "summary": " Article URL:  https://openai.com/index/openai-models-google-cloud/  \n Comments URL:  https://news.ycombinator.com/item?id=50180079  \n Points: 274 \n # Comments: 112 ",
+    "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
+    "url": "https://github.com/NVIDIA/OpenShell",
+    "summary": " Article URL:  https://github.com/NVIDIA/OpenShell  \n Comments URL:  https://news.ycombinator.com/item?id=50198675  \n Points: 350 \n # Comments: 184 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-22T06:08:42.848684+00:00"
+    "researched_at": "2026-10-23T06:03:50.740146+00:00"
   },
   {
     "title": "New business near university",
@@ -149,7 +159,7 @@
     "matched_keywords": [
       "business"
     ],
-    "researched_at": "2026-10-22T06:08:42.848745+00:00"
+    "researched_at": "2026-10-23T06:03:50.740284+00:00"
   },
   {
     "title": "My business is more stable, but my confidence hasn’t caught up. How do I rebuild my confidence?",
@@ -160,7 +170,7 @@
     "matched_keywords": [
       "business"
     ],
-    "researched_at": "2026-10-22T06:08:42.848758+00:00"
+    "researched_at": "2026-10-23T06:03:50.740301+00:00"
   },
   {
     "title": "Monday mentorship: ask anything | October 19, 2026",
@@ -171,29 +181,18 @@
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-22T06:08:42.848853+00:00"
+    "researched_at": "2026-10-23T06:03:50.740423+00:00"
   },
   {
-    "title": "Launch HN: Alter (YC S25) – Access control for multi-user agents",
-    "url": "https://alterauth.com/",
-    "summary": " Hi HN! We’re Srikar and Kevan, founders of Alter –  https://alterauth.com/ . We’re building access control for agents that can take actions on behalf of multiple users. If you’ve built an internal agent people use through Slack, you may have experienced this scenario: everyone signs in with their own account, but the agent connects to the CRM or billing system with one shared API key, so the agent can do anything that the key can do. User-level authentication in Slack does nothing to control what the agent can do in an external system like the CRM or billing system. Here’s what Alter does: -It acts as a proxy and manages downstream credentials for every API request that an agent takes; -It takes identity into account for every action the agent does. Automatically take into account the end user identity of the person that the agent is taking actions on behalf of. -It enforces fine grained runtime policies and records compliance grade audit logs. Here’s a demo video:  https://www.youtub",
+    "title": "LLMs are making formal software verification feasible at a much larger scale",
+    "url": "https://www.anthropic.com/research/formal-verification",
+    "summary": " Article URL:  https://www.anthropic.com/research/formal-verification  \n Comments URL:  https://news.ycombinator.com/item?id=50202217  \n Points: 240 \n # Comments: 131 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
-      "ai"
+      "software"
     ],
-    "researched_at": "2026-10-22T06:08:42.848699+00:00"
-  },
-  {
-    "title": "Is Part-Time Consultation Worth the Time for Exposure?",
-    "url": "https://www.reddit.com/r/Entrepreneur/comments/1x96uvh/is_parttime_consultation_worth_the_time_for/",
-    "summary": "   On my 3rd venture. Running an appointment setting business for the last 2 years. We&#39;re small (6 folks) and we&#39;ve worked with companies across 8 countries, some of which were the biggest in their country in their sector.   I believe due to the aforementioned exposure; I&#39;ve been receiving more consultation offers lately. I have received 4 part-consultation offers since March. 2 of them were prospects who were initially interested in my business&#39; service but later offered the consultation (perhaps I need to promote my business more than myself?)   They usually ask how many hours I&#39;m comfortable with, I mention 22-44 hours a month (1-2/hr per weekday) - but those hours spent on my business will yield me a better profit (money wise as well as scaling-wise).   On the pros side, the companies offering me the offer are larger than mine (10x-20x) and working alongside them will give me a decent amount of insight and exposure.   I have worked with 4 companies in the past a",
-    "source": "https://www.reddit.com/r/Entrepreneur/.rss",
-    "score": 1,
-    "matched_keywords": [
-      "business"
-    ],
-    "researched_at": "2026-10-22T06:08:42.848869+00:00"
+    "researched_at": "2026-10-23T06:03:50.740124+00:00"
   },
   {
     "title": "How helped scale a travel agency from $3,000 to $20,000 in monthly profits within 6 months",
@@ -204,7 +203,18 @@
     "matched_keywords": [
       "business"
     ],
-    "researched_at": "2026-10-22T06:08:42.848821+00:00"
+    "researched_at": "2026-10-23T06:03:50.740381+00:00"
+  },
+  {
+    "title": "Hedra is a 3D open world game I wrote from scratch while in highschool",
+    "url": "https://github.com/maxilevi/project-hedra/tree/pre-ai",
+    "summary": " Article URL:  https://github.com/maxilevi/project-hedra/tree/pre-ai  \n Comments URL:  https://news.ycombinator.com/item?id=50199389  \n Points: 171 \n # Comments: 31 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 1,
+    "matched_keywords": [
+      "ai"
+    ],
+    "researched_at": "2026-10-23T06:03:50.740133+00:00"
   },
   {
     "title": "Have you ever delivered everything in the contract and still had an unhappy customer?",
@@ -215,7 +225,18 @@
     "matched_keywords": [
       "business"
     ],
-    "researched_at": "2026-10-22T06:08:42.848783+00:00"
+    "researched_at": "2026-10-23T06:03:50.740328+00:00"
+  },
+  {
+    "title": "Every AI model has the same \"controversial\" take on humans",
+    "url": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
+    "summary": " Article URL:  https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans  \n Comments URL:  https://news.ycombinator.com/item?id=50197313  \n Points: 319 \n # Comments: 353 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 1,
+    "matched_keywords": [
+      "ai"
+    ],
+    "researched_at": "2026-10-23T06:03:50.740155+00:00"
   },
   {
     "title": "As an entrepreneur, I give really bad advice for average people.",
@@ -226,7 +247,18 @@
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-22T06:08:42.848769+00:00"
+    "researched_at": "2026-10-23T06:03:50.740311+00:00"
+  },
+  {
+    "title": "AI and the Enclosure of the Scientific Commons",
+    "url": "https://arxiv.org/abs/2610.27251",
+    "summary": " Article URL:  https://arxiv.org/abs/2610.27251  \n Comments URL:  https://news.ycombinator.com/item?id=50199230  \n Points: 130 \n # Comments: 75 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 1,
+    "matched_keywords": [
+      "ai"
+    ],
+    "researched_at": "2026-10-23T06:03:50.740137+00:00"
   },
   {
     "title": "📋 Entrepreneur Moderator Applications Open - Apply Now!",
@@ -235,43 +267,61 @@
     "source": "https://www.reddit.com/r/Entrepreneur/.rss",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-22T06:08:42.848705+00:00"
+    "researched_at": "2026-10-23T06:03:50.740195+00:00"
   },
   {
-    "title": "mitmproxy adds --emudhra option",
-    "url": "https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b",
-    "summary": " Article URL:  https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b  \n Comments URL:  https://news.ycombinator.com/item?id=50189232  \n Points: 371 \n # Comments: 95 ",
+    "title": "Xbox wants you to pay 24 to 40 cents per hour to stream games you bought",
+    "url": "https://arstechnica.com/gaming/2026/10/xbox-wants-you-to-pay-24-to-40-cents-per-hour-to-stream-games-you-already-bought/",
+    "summary": " Article URL:  https://arstechnica.com/gaming/2026/10/xbox-wants-you-to-pay-24-to-40-cents-per-hour-to-stream-games-you-already-bought/  \n Comments URL:  https://news.ycombinator.com/item?id=50194009  \n Points: 266 \n # Comments: 231 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-22T06:08:42.848151+00:00"
+    "researched_at": "2026-10-23T06:03:50.740178+00:00"
   },
   {
-    "title": "Today's PHP security release, and how we're strengthening security",
-    "url": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
-    "summary": " Related ongoing thread:  PHP 8.2.35  -  https://news.ycombinator.com/item?id=50180873  (links to more at  https://news.ycombinator.com/item?id=50184935 ) \n \n Comments URL:  https://news.ycombinator.com/item?id=50182987  \n Points: 707 \n # Comments: 348 ",
+    "title": "Woman charged with computer fraud due to scam CashApp account being in her name",
+    "url": "https://www.404media.co/amanda-smith-opened-a-cashapp-in-her-name-she-faces-years-in-prison-cashapp-fraud/",
+    "summary": " Article URL:  https://www.404media.co/amanda-smith-opened-a-cashapp-in-her-name-she-faces-years-in-prison-cashapp-fraud/  \n Comments URL:  https://news.ycombinator.com/item?id=50194833  \n Points: 614 \n # Comments: 608 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-22T06:08:42.848659+00:00"
+    "researched_at": "2026-10-23T06:03:50.740173+00:00"
   },
   {
-    "title": "There isn't an easy exploit for this PHP vulnerability",
-    "url": "https://eliastaylor.com/noexploit/",
-    "summary": " Article URL:  https://eliastaylor.com/noexploit/  \n Comments URL:  https://news.ycombinator.com/item?id=50188948  \n Points: 366 \n # Comments: 171 ",
+    "title": "This I Believe (1952)",
+    "url": "https://www.awakin.org/v2/read/view.php?tid=468",
+    "summary": " Article URL:  https://www.awakin.org/v2/read/view.php?tid=468  \n Comments URL:  https://news.ycombinator.com/item?id=50203759  \n Points: 29 \n # Comments: 4 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-22T06:08:42.848158+00:00"
+    "researched_at": "2026-10-23T06:03:50.734174+00:00"
   },
   {
-    "title": "The recently proposed o(n log n) integer multiplication algorithm [pdf]",
-    "url": "https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf",
-    "summary": " Article URL:  https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf  \n Comments URL:  https://news.ycombinator.com/item?id=50190455  \n Points: 101 \n # Comments: 61 ",
+    "title": "The foolishness of \"natural language programming\" (1978)",
+    "url": "https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html",
+    "summary": " Article URL:  https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html  \n Comments URL:  https://news.ycombinator.com/item?id=50203161  \n Points: 90 \n # Comments: 61 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-22T06:08:42.848139+00:00"
+    "researched_at": "2026-10-23T06:03:50.734179+00:00"
+  },
+  {
+    "title": "Thankful Thursday: Free Resources and Tools | October 22, 2026",
+    "url": "https://www.reddit.com/r/Entrepreneur/comments/1xccio2/thankful_thursday_free_resources_and_tools/",
+    "summary": "   Pay it forward. Drop your free resources, templates, tools, or anything else that&#39;s helped you and might help someone else. No strings attached; these resources have to be free.     &#32; submitted by &#32;   /u/AutoModerator       [link]   &#32;   [comments]  ",
+    "source": "https://www.reddit.com/r/Entrepreneur/.rss",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-10-23T06:03:50.740201+00:00"
+  },
+  {
+    "title": "Tell HN: I unknowingly broke the PHP RCE embargo. I am sorry.",
+    "url": "https://news.ycombinator.com/item?id=50193416",
+    "summary": " I posted here about the then-upcoming PHP RCEs related to CVE-2026-109618 & CVE-2026-109619. I appreciate this has had considerable knock-on effects with the schedule for co-ordinated disclosure, and created additional workload. I am truly sorry. I take full responsibility for my actions. It was not remotely my intention to cause any of the subsequent side effects. At the time of posting, I didn't know about any embargo. My contact had told me there was no embargo, and her contact had told her the same thing. As someone who follows the 4-weekly PHP release cycle and compiles it from source, my intention was to alert others in a similar position to be aware of the importance/urgency of the updates. That clearly backfired in a pretty wild fashion. I have learned my lesson. \n \n Comments URL:  https://news.ycombinator.com/item?id=50193416  \n Points: 466 \n # Comments: 192 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-10-23T06:03:50.740188+00:00"
   },
   {
     "title": "Talent Tuesday: Services and Collabs | October 20, 2026",
@@ -280,88 +330,52 @@
     "source": "https://www.reddit.com/r/Entrepreneur/.rss",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-22T06:08:42.848709+00:00"
+    "researched_at": "2026-10-23T06:03:50.740349+00:00"
   },
   {
-    "title": "Show HN: Omnara – Open-source alternative to Claude Managed Agents",
-    "url": "https://github.com/omnara-ai/omnara",
-    "summary": " Hey all, Kartik from Omnara ( https://omnara.com ) here. We're building an open-source API for running durable agents. You create an agent with an API call, and Omnara runs the agent loop, gives the agent sandboxes to run commands in, and handles secrets, permissions, and RBAC. Each agent's state is stored in Postgres, so agents survive restarts and cost nothing while idle. You can message them and stream their events over the API. You may remember us from our early days, when we made a remote-control phone app for Claude Code and Codex. Since the harness ran on a laptop back then, we had to build a relay to reach it, it stopped when the laptop closed, and moving it to a cloud sandbox meant syncing code and agent state between machines. We didn't think remote-controlling a local agent was end-game for how people would run agents, so we built a new product where the agent runs in the cloud, any client can talk to it through an API, and it can still use your laptop as one of its machine",
+    "title": "Run full iOS 16.5 firmware on Android Devices",
+    "url": "https://github.com/oosexgang/hackios-xnu-kernel",
+    "summary": "  https://hackios-web.vercel.app/en  \n \n Comments URL:  https://news.ycombinator.com/item?id=50196718  \n Points: 371 \n # Comments: 137 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-22T06:08:42.848653+00:00"
+    "researched_at": "2026-10-23T06:03:50.740159+00:00"
   },
   {
-    "title": "Rust Style Guide",
-    "url": "https://google.github.io/styleguide/rustguide.html",
-    "summary": " Article URL:  https://google.github.io/styleguide/rustguide.html  \n Comments URL:  https://news.ycombinator.com/item?id=50186010  \n Points: 266 \n # Comments: 146 ",
+    "title": "Quad9 (DNS Resolver) to Exit France",
+    "url": "https://quad9.net/news/blog/au-revoir-france/",
+    "summary": " Article URL:  https://quad9.net/news/blog/au-revoir-france/  \n Comments URL:  https://news.ycombinator.com/item?id=50195959  \n Points: 1099 \n # Comments: 385 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-22T06:08:42.848173+00:00"
+    "researched_at": "2026-10-23T06:03:50.740163+00:00"
   },
   {
-    "title": "Postgres recovery_prefetch can cause outages",
-    "url": "https://ardentperf.com/2026/10/20/postgres-recovery_prefetch-considered-harmful-and-causing-outages/",
-    "summary": " Article URL:  https://ardentperf.com/2026/10/20/postgres-recovery_prefetch-considered-harmful-and-causing-outages/  \n Comments URL:  https://news.ycombinator.com/item?id=50188614  \n Points: 13 \n # Comments: 0 ",
+    "title": "Move Slow and Fix Things",
+    "url": "https://endler.dev/2024/move-slow-and-fix-things/",
+    "summary": " Article URL:  https://endler.dev/2024/move-slow-and-fix-things/  \n Comments URL:  https://news.ycombinator.com/item?id=50204754  \n Points: 79 \n # Comments: 0 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-22T06:08:42.848163+00:00"
+    "researched_at": "2026-10-23T06:03:50.734154+00:00"
   },
   {
-    "title": "Patch the Planet: global response coordination as agents uncover vulnerabilities",
-    "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
-    "summary": "  https://patchtheplanet.org/  \n \n Comments URL:  https://news.ycombinator.com/item?id=50181175  \n Points: 247 \n # Comments: 167 ",
+    "title": "Mapping the Northern Sky",
+    "url": "https://www.maps.com/star-map-charts-stars-and-constellations-of-northern-hemisphere/",
+    "summary": " Article URL:  https://www.maps.com/star-map-charts-stars-and-constellations-of-northern-hemisphere/  \n Comments URL:  https://news.ycombinator.com/item?id=50202766  \n Points: 29 \n # Comments: 10 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-22T06:08:42.848667+00:00"
+    "researched_at": "2026-10-23T06:03:50.734184+00:00"
   },
   {
-    "title": "PHP 8.2.35",
-    "url": "https://github.com/php/php-src/releases/tag/php-8.2.35",
-    "summary": " Related ongoing thread:  Today's PHP security release, and how we're strengthening security  -  https://news.ycombinator.com/item?id=50182987  \n \n Comments URL:  https://news.ycombinator.com/item?id=50180873  \n Points: 993 \n # Comments: 535 ",
+    "title": "Jank – The native Clojure dialect with seamless C++ interop",
+    "url": "https://jank-lang.org/",
+    "summary": " Article URL:  https://jank-lang.org/  \n Comments URL:  https://news.ycombinator.com/item?id=50202762  \n Points: 59 \n # Comments: 2 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-22T06:08:42.848681+00:00"
-  },
-  {
-    "title": "Oregon lawmakers approve money to buy an iconic waterfall listed on Redfin",
-    "url": "https://apnews.com/article/oregon-waterfall-for-sale-lawmakers-996de63462d49ec3ad9bee1629fb9488",
-    "summary": " Article URL:  https://apnews.com/article/oregon-waterfall-for-sale-lawmakers-996de63462d49ec3ad9bee1629fb9488  \n Comments URL:  https://news.ycombinator.com/item?id=50182526  \n Points: 183 \n # Comments: 91 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-10-22T06:08:42.848663+00:00"
-  },
-  {
-    "title": "Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case",
-    "url": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
-    "summary": "  https://nmdoj.gov/press-release/the-new-mexico-department-of...  \n \n Comments URL:  https://news.ycombinator.com/item?id=50184820  \n Points: 474 \n # Comments: 297 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-10-22T06:08:42.848190+00:00"
-  },
-  {
-    "title": "LLM agents play Pokemon showdown",
-    "url": "https://olivergrabner.com/research/pokemon/",
-    "summary": " Article URL:  https://olivergrabner.com/research/pokemon/  \n Comments URL:  https://news.ycombinator.com/item?id=50190334  \n Points: 25 \n # Comments: 14 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-10-22T06:08:42.848147+00:00"
-  },
-  {
-    "title": "I can't believe PowerShell is good",
-    "url": "https://www.spacebar.news/powershell-is-actually-good/",
-    "summary": " Article URL:  https://www.spacebar.news/powershell-is-actually-good/  \n Comments URL:  https://news.ycombinator.com/item?id=50190959  \n Points: 41 \n # Comments: 26 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-10-22T06:08:42.848133+00:00"
+    "researched_at": "2026-10-23T06:03:50.740107+00:00"
   },
   {
     "title": "How do you handle a new manager who’s hurting morale when the team is performing well?",
@@ -370,34 +384,25 @@
     "source": "https://www.reddit.com/r/Entrepreneur/.rss",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-22T06:08:42.848849+00:00"
+    "researched_at": "2026-10-23T06:03:50.740417+00:00"
   },
   {
-    "title": "GitLab critical patch release",
-    "url": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
-    "summary": " Article URL:  https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/  \n Comments URL:  https://news.ycombinator.com/item?id=50185869  \n Points: 298 \n # Comments: 71 ",
+    "title": "Getting ready to operate GNU Taler in Germany",
+    "url": "https://www.taler.net/en/news/2026-13.html",
+    "summary": " Article URL:  https://www.taler.net/en/news/2026-13.html  \n Comments URL:  https://news.ycombinator.com/item?id=50197404  \n Points: 248 \n # Comments: 99 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-22T06:08:42.848183+00:00"
+    "researched_at": "2026-10-23T06:03:50.740151+00:00"
   },
   {
-    "title": "DuckDB 2.0.0 LTS “Cinnamon Teal”",
-    "url": "https://duckdb.org/2026/10/21/announcing-duckdb-200",
-    "summary": " Article URL:  https://duckdb.org/2026/10/21/announcing-duckdb-200  \n Comments URL:  https://news.ycombinator.com/item?id=50181136  \n Points: 394 \n # Comments: 50 ",
+    "title": "Docker is weird",
+    "url": "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
+    "summary": " Article URL:  https://codeandcake.dev/posts/2026-10-22-docker-is-weird  \n Comments URL:  https://news.ycombinator.com/item?id=50202681  \n Points: 297 \n # Comments: 147 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-22T06:08:42.848673+00:00"
-  },
-  {
-    "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
-    "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
-    "summary": " Article URL:  https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/  \n Comments URL:  https://news.ycombinator.com/item?id=50181114  \n Points: 475 \n # Comments: 160 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-10-22T06:08:42.848677+00:00"
+    "researched_at": "2026-10-23T06:03:50.740118+00:00"
   },
   {
     "title": "5 Ways to Become Industry Famous",
@@ -406,6 +411,6 @@
     "source": "https://www.reddit.com/r/Entrepreneur/.rss",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-22T06:08:42.848718+00:00"
+    "researched_at": "2026-10-23T06:03:50.740256+00:00"
   }
 ]
