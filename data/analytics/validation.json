@@ -10,17 +10,17 @@
     "errors": []
   },
   {
+    "path": "data/content/drafts/what-process-automation-would-improve-your-business-quality-of-life.json",
+    "passed": true,
+    "errors": []
+  },
+  {
     "path": "data/content/drafts/rtws-the-media-angles-that-got-my-clients-on-tv.json",
     "passed": true,
     "errors": []
   },
   {
-    "path": "data/content/drafts/one-construction-brand-or-multiple-specialized-brands.json",
-    "passed": true,
-    "errors": []
-  },
-  {
-    "path": "data/content/drafts/median-product-lifespan-has-fallen-from-4y-down-to-1-5y.json",
+    "path": "data/content/drafts/i-don-t-know-anymore.json",
     "passed": true,
     "errors": []
   }
