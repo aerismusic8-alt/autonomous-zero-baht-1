@@ -1,19 +1,5 @@
 [
   {
-    "title": "How do you keep good employees when there’s not enough work for everyone?",
-    "url": "https://www.reddit.com/r/Entrepreneur/comments/1x9ygdv/how_do_you_keep_good_employees_when_theres_not/",
-    "summary": "   We’re a software development company with around 40 people. In September, several of our developers ended up between client projects at the same time. We kept them on full pay for two weeks, even though there wasn’t enough billable work. After that, the plan was to move them to part-time until new projects came in, with priority to return to full-time once work picked up. The problem is that good developers don’t necessarily have to wait around. Some could probably find another contract in a couple of weeks. And losing people means we might not have the team ready when the next client comes along. Keeping everyone on full salaries indefinitely isn’t realistic either. So I’m curious how other business owners handle this. Do you guarantee some minimum pay during slow periods, or just pay for the hours available? And if you’ve been through something similar, did people actually stay, or did they start looking elsewhere anyway?     &#32; submitted by &#32;   /u/Sima228       [link]   &#",
-    "source": "https://www.reddit.com/r/Entrepreneur/.rss",
-    "score": 4,
-    "matched_keywords": [
-      "ai",
-      "business",
-      "software",
-      "developer"
-    ],
-    "researched_at": "2026-10-24T05:56:44.306627+00:00"
-  },
-  {
     "title": "Why silent AI failures are killing agency workflows and how we audit them before clients notice",
     "url": "https://www.reddit.com/r/Entrepreneur/comments/1xbr8jv/why_silent_ai_failures_are_killing_agency/",
     "summary": "   the most dangerous thing about building AI workflows isn&#39;t when an agent throws an error or breaks completely.   it&#39;s when it runs perfectly, returns a beautifully formatted output, and everything looks so clean that nobody bothers to check the actual data.   until 3 weeks later when someone realizes the entire report was built on wrong numbers, misattributed conversion data, or fabricated competitor pricing.   this is what i call a silent AI failure. and if you run an agency or consult for clients, it is the absolute worst way to get caught.   the issue is that modern models like claude or openai are insanely good at formatting. they will give you executive summaries with clean tables, custom severity badges, and plausible-sounding math even when the underlying data source returned an empty payload or pulled from the wrong CRM field.   because the output looks like it came from a senior strategist, your team stops auditing it and turns the weekly review into a rubber stamp.",
@@ -23,7 +9,7 @@
       "ai",
       "workflow"
     ],
-    "researched_at": "2026-10-24T05:56:44.306570+00:00"
+    "researched_at": "2026-10-25T06:11:17.531245+00:00"
   },
   {
     "title": "What process automation would improve your business quality of life?",
@@ -35,7 +21,7 @@
       "automation",
       "business"
     ],
-    "researched_at": "2026-10-24T05:56:44.306518+00:00"
+    "researched_at": "2026-10-25T06:11:17.531166+00:00"
   },
   {
     "title": "RTWS - The Media Angles That Got My Clients on TV",
@@ -47,7 +33,19 @@
       "ai",
       "business"
     ],
-    "researched_at": "2026-10-24T05:56:44.306552+00:00"
+    "researched_at": "2026-10-25T06:11:17.531221+00:00"
+  },
+  {
+    "title": "RTWS - How To Take An Unknown and Turn Them Into an Industry Celebrity",
+    "url": "https://www.reddit.com/r/Entrepreneur/comments/1xeclzw/rtws_how_to_take_an_unknown_and_turn_them_into_an/",
+    "summary": "   To the 7 non bots on here,    I get asked this question a lot as a PR pro.    &quot;I&#39;m unknown, how do I elevate and raise my visibility or even become an industry celebrity?&quot;    I have worked with people that had almost NO visibility, no Google searchability, etc.    The key is to start stacking.    Owned Media  Earned Media  Paid Media    A mechanic in Texas hired me. He had an IMMENSE talent at fixing up cars and even cars that other garages had given up on. An expert on restoration, he just needed more people to get his story out there.    I interviewed him and developed his media angle. He had a couple of cool stories about his garage and one of his cars was even in a movie. We created custom graphics and turned these into a few good articles.    I then featured him in my business magazine. (Owned media). We issued press releases about his garage and his story. We then wrote a few articles about him on Linkedin.    Now he is starting to show up on Google.    Then his ",
+    "source": "https://www.reddit.com/r/Entrepreneur/.rss",
+    "score": 2,
+    "matched_keywords": [
+      "ai",
+      "business"
+    ],
+    "researched_at": "2026-10-25T06:11:17.530842+00:00"
   },
   {
     "title": "I don’t know anymore",
@@ -59,7 +57,7 @@
       "automation",
       "digital product"
     ],
-    "researched_at": "2026-10-24T05:56:44.306614+00:00"
+    "researched_at": "2026-10-25T06:11:17.531309+00:00"
   },
   {
     "title": "Have you ever stopped selling a service that was still making money?",
@@ -71,7 +69,19 @@
       "business",
       "workflow"
     ],
-    "researched_at": "2026-10-24T05:56:44.306507+00:00"
+    "researched_at": "2026-10-25T06:11:17.531143+00:00"
+  },
+  {
+    "title": "Are we reaching a point where running a small business in the UK just isn't worth the risk anymore?",
+    "url": "https://www.reddit.com/r/Entrepreneur/comments/1xelubn/are_we_reaching_a_point_where_running_a_small/",
+    "summary": "   Over 100 people recently turned up for a single part-time job at a coffee shop in Manchester.   Apparently, the same business had previously received over 400 email applications for another vacancy.   I shared that story in another subreddit, and it ended up reaching over 200,000 people. What surprised me wasn&#39;t the number of views, but the experiences people shared.   People applying for hundreds of jobs and barely getting interviews. Graduates struggling to find entry-level work. Experienced professionals unable to get back into employment.   At the same time, I&#39;ve been reading discussions from small business owners describing something quite different, but perhaps connected.   Rising costs. Falling enquiries. Customers becoming more cautious with their spending. Business owners working longer hours, taking home less money and worrying about whether they&#39;ll survive another difficult year.   I&#39;m experiencing some of this myself.   I run a small IT business and bulid",
+    "source": "https://www.reddit.com/r/Entrepreneur/.rss",
+    "score": 2,
+    "matched_keywords": [
+      "ai",
+      "business"
+    ],
+    "researched_at": "2026-10-25T06:11:17.530832+00:00"
   },
   {
     "title": "Stepping Back",
@@ -82,18 +92,7 @@
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-24T05:56:44.306535+00:00"
-  },
-  {
-    "title": "Show HN: Corgi, a helpful {agent, terminal} multiplexer",
-    "url": "https://corgi.computer/",
-    "summary": " Hey everyone, Inspired by Herdr, I've built an agent multiplexer that I've been using as my daily driver for a few weeks now. I think I improved on the concept in a few ways, focusing on the ergonomics I always wished I had: I show you what the agents are up to, along with a running feed of their activity.\nThere's also a simple shortcut (F1) to go to the next unread agent. I use multiple accounts, so I've added unified launcher for Codex/Claude Code/Pi.\nTheres some careful ergonomics there: fast search and resume over sessions, inline usage tracking etc. Many small quality of life improvements to the terminal experience:\n- Links can be copied with a click, so no need to drag-select over many lines\n- cmd+v just pastes images (even on SSH)\n- images have a thumbnail preview.\n- Built-in CPU/Memory/GPU usage tracking, broken down by workspace I assume you have access to cheap inference (Luna/Haiku/etc).\nIt just reuses the agents to organize things for you: what is this http link? what is t",
-    "source": "https://hnrss.org/frontpage",
-    "score": 1,
-    "matched_keywords": [
-      "ai"
-    ],
-    "researched_at": "2026-10-24T05:56:44.299489+00:00"
+    "researched_at": "2026-10-25T06:11:17.531196+00:00"
   },
   {
     "title": "Scared to pull the trigger (start)",
@@ -104,7 +103,7 @@
     "matched_keywords": [
       "business"
     ],
-    "researched_at": "2026-10-24T05:56:44.306545+00:00"
+    "researched_at": "2026-10-25T06:11:17.531212+00:00"
   },
   {
     "title": "New business near university",
@@ -115,7 +114,7 @@
     "matched_keywords": [
       "business"
     ],
-    "researched_at": "2026-10-24T05:56:44.306576+00:00"
+    "researched_at": "2026-10-25T06:11:17.531252+00:00"
   },
   {
     "title": "My business is more stable, but my confidence hasn’t caught up. How do I rebuild my confidence?",
@@ -126,18 +125,7 @@
     "matched_keywords": [
       "business"
     ],
-    "researched_at": "2026-10-24T05:56:44.306586+00:00"
-  },
-  {
-    "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
-    "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
-    "summary": "  https://www.kimi.com/code/docs/en/kimi-code/models.html   https://artificialanalysis.ai/models/kimi-k3-1-pro   https://www.modelcompare.ai/blog/china-open-source-ai  \n \n Comments URL:  https://news.ycombinator.com/item?id=50212065  \n Points: 828 \n # Comments: 493 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 1,
-    "matched_keywords": [
-      "ai"
-    ],
-    "researched_at": "2026-10-24T05:56:44.299507+00:00"
+    "researched_at": "2026-10-25T06:11:17.531268+00:00"
   },
   {
     "title": "I started today at 1am",
@@ -148,18 +136,7 @@
     "matched_keywords": [
       "business"
     ],
-    "researched_at": "2026-10-24T05:56:44.306525+00:00"
-  },
-  {
-    "title": "How helped scale a travel agency from $3,000 to $20,000 in monthly profits within 6 months",
-    "url": "https://www.reddit.com/r/Entrepreneur/comments/1x9uh5m/how_helped_scale_a_travel_agency_from_3000_to/",
-    "summary": "   Hello Redditors, haven’t posted here in quite a while, but a recent project turned out interesting enough that i figured i should finally write it up. It was a two person agency when they came to us doing flights, hotel packages and visa assistance, and profit had been stuck at around $3k a month after almost two years. Six months later it&#39;s sitting at around $20k a month. Revenue roughly tripled in that time but profit went up about 7x, and that gap is the whole point of this post. A lot of you running small service businesses will probably recognise the &quot;busy but broke&quot; version of this, so hopefully you guys find something useful here.    Here&#39;s how we did it:   The first thing we did had nothing to do with marketing. We just went through their Whatsapp history. They were getting around 60-70 qualified inquiries a month from referrals and ads.. The problem was what happened after. Average first response was few hours later, and about a third of the people who got",
-    "source": "https://www.reddit.com/r/Entrepreneur/.rss",
-    "score": 1,
-    "matched_keywords": [
-      "business"
-    ],
-    "researched_at": "2026-10-24T05:56:44.306637+00:00"
+    "researched_at": "2026-10-25T06:11:17.531176+00:00"
   },
   {
     "title": "Have you ever delivered everything in the contract and still had an unhappy customer?",
@@ -170,29 +147,7 @@
     "matched_keywords": [
       "business"
     ],
-    "researched_at": "2026-10-24T05:56:44.306604+00:00"
-  },
-  {
-    "title": "Evolving Threat: http2shell is an RCE in Node, Python, and more",
-    "url": "https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8",
-    "summary": " Article URL:  https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8  \n Comments URL:  https://news.ycombinator.com/item?id=50216791  \n Points: 139 \n # Comments: 73 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 1,
-    "matched_keywords": [
-      "ai"
-    ],
-    "researched_at": "2026-10-24T05:56:44.299469+00:00"
-  },
-  {
-    "title": "Dessa: Conversation Model trained only on speech",
-    "url": "https://block.xyz/dessa",
-    "summary": " Article URL:  https://block.xyz/dessa  \n Comments URL:  https://news.ycombinator.com/item?id=50213925  \n Points: 325 \n # Comments: 127 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 1,
-    "matched_keywords": [
-      "ai"
-    ],
-    "researched_at": "2026-10-24T05:56:44.299495+00:00"
+    "researched_at": "2026-10-25T06:11:17.531293+00:00"
   },
   {
     "title": "As an entrepreneur, I give really bad advice for average people.",
@@ -203,40 +158,7 @@
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-24T05:56:44.306593+00:00"
-  },
-  {
-    "title": "Alzheimer's breakthrough: 2 hrs of sleep restored without clearing brain plaques",
-    "url": "https://www.sciencedaily.com/releases/2026/10/261018084421.htm",
-    "summary": " Article URL:  https://www.sciencedaily.com/releases/2026/10/261018084421.htm  \n Comments URL:  https://news.ycombinator.com/item?id=50217683  \n Points: 64 \n # Comments: 18 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 1,
-    "matched_keywords": [
-      "ai"
-    ],
-    "researched_at": "2026-10-24T05:56:44.299458+00:00"
-  },
-  {
-    "title": "Air Purifiers as White Noise Machines",
-    "url": "https://www.jefftk.com/p/air-purifiers-as-white-noise-machines",
-    "summary": " Article URL:  https://www.jefftk.com/p/air-purifiers-as-white-noise-machines  \n Comments URL:  https://news.ycombinator.com/item?id=50212507  \n Points: 101 \n # Comments: 105 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 1,
-    "matched_keywords": [
-      "ai"
-    ],
-    "researched_at": "2026-10-24T05:56:44.299500+00:00"
-  },
-  {
-    "title": "A whirlwind tour of systemd-nspawn containers (2025)",
-    "url": "https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/",
-    "summary": " Article URL:  https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/  \n Comments URL:  https://news.ycombinator.com/item?id=50214983  \n Points: 42 \n # Comments: 7 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 1,
-    "matched_keywords": [
-      "ai"
-    ],
-    "researched_at": "2026-10-24T05:56:44.299482+00:00"
+    "researched_at": "2026-10-25T06:11:17.531278+00:00"
   },
   {
     "title": "📋 Entrepreneur Moderator Applications Open - Apply Now!",
@@ -245,34 +167,7 @@
     "source": "https://www.reddit.com/r/Entrepreneur/.rss",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-24T05:56:44.306491+00:00"
-  },
-  {
-    "title": "UUIDv7: Timestamps aren’t time-ordered and other oddities",
-    "url": "https://alexsci.com/blog/uuidv7-is-weird/",
-    "summary": " Article URL:  https://alexsci.com/blog/uuidv7-is-weird/  \n Comments URL:  https://news.ycombinator.com/item?id=50211746  \n Points: 123 \n # Comments: 103 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-10-24T05:56:44.306474+00:00"
-  },
-  {
-    "title": "Twelve years of distributed SQLite",
-    "url": "https://philipotoole.com/twelve-years-of-distributed-sqlite/",
-    "summary": " Article URL:  https://philipotoole.com/twelve-years-of-distributed-sqlite/  \n Comments URL:  https://news.ycombinator.com/item?id=50217500  \n Points: 109 \n # Comments: 12 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-10-24T05:56:44.299465+00:00"
-  },
-  {
-    "title": "Today, we hacked what we'd set out to hack: the iPhone",
-    "url": "https://blog.calif.io/p/iphone",
-    "summary": " Article URL:  https://blog.calif.io/p/iphone  \n Comments URL:  https://news.ycombinator.com/item?id=50211474  \n Points: 810 \n # Comments: 535 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-10-24T05:56:44.306480+00:00"
+    "researched_at": "2026-10-25T06:11:17.530806+00:00"
   },
   {
     "title": "Thankful Thursday: Free Resources and Tools | October 22, 2026",
@@ -281,25 +176,16 @@
     "source": "https://www.reddit.com/r/Entrepreneur/.rss",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-24T05:56:44.306556+00:00"
+    "researched_at": "2026-10-25T06:11:17.531226+00:00"
   },
   {
-    "title": "Talent Tuesday: Services and Collabs | October 20, 2026",
-    "url": "https://www.reddit.com/r/Entrepreneur/comments/1xam5rg/talent_tuesday_services_and_collabs_october_20/",
-    "summary": "   Looking to hire, get hired, or find a collaborator? Post what you&#39;re offering or what you need. Keep it brief: who you are, what you do, and how to reach you. No spamming.     &#32; submitted by &#32;   /u/AutoModerator       [link]   &#32;   [comments]  ",
+    "title": "Success Saturday: What's Going Right | October 24, 2026",
+    "url": "https://www.reddit.com/r/Entrepreneur/comments/1xe2trt/success_saturday_whats_going_right_october_24_2026/",
+    "summary": "   Big or small, a win is a win. First sale, first client, or first time paying yourself, share it here. This community loves to celebrate with you. No win is too minor to mention.     &#32; submitted by &#32;   /u/AutoModerator       [link]   &#32;   [comments]  ",
     "source": "https://www.reddit.com/r/Entrepreneur/.rss",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-24T05:56:44.306618+00:00"
-  },
-  {
-    "title": "Rune 1.3: adds TypeScript, a Helix editor, Kitty graphics and OSC-7501",
-    "url": "https://rune.build/blog/rune-1-3-release",
-    "summary": " Article URL:  https://rune.build/blog/rune-1-3-release  \n Comments URL:  https://news.ycombinator.com/item?id=50214325  \n Points: 47 \n # Comments: 11 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-10-24T05:56:44.299492+00:00"
+    "researched_at": "2026-10-25T06:11:17.530820+00:00"
   },
   {
     "title": "RTWS - PR Success Story Case Study",
@@ -308,52 +194,7 @@
     "source": "https://www.reddit.com/r/Entrepreneur/.rss",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-24T05:56:44.306514+00:00"
-  },
-  {
-    "title": "Password, Please: Border Searches of Laptops, Phones Up 32% This Year",
-    "url": "https://gizmodo.com/password-please-border-searches-of-laptops-phones-up-32-this-year-2000830213",
-    "summary": " Article URL:  https://gizmodo.com/password-please-border-searches-of-laptops-phones-up-32-this-year-2000830213  \n Comments URL:  https://news.ycombinator.com/item?id=50217600  \n Points: 27 \n # Comments: 4 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-10-24T05:56:44.299462+00:00"
-  },
-  {
-    "title": "One Man's Pan Am 747 Replica [video]",
-    "url": "https://www.youtube.com/watch?v=vAFwHGGfPz4",
-    "summary": " Article URL:  https://www.youtube.com/watch?v=vAFwHGGfPz4  \n Comments URL:  https://news.ycombinator.com/item?id=50215828  \n Points: 15 \n # Comments: 0 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-10-24T05:56:44.299475+00:00"
-  },
-  {
-    "title": "Is this the new cyber normal?",
-    "url": "https://drew.silcock.dev/blog/is-this-the-new-cyber-normal/",
-    "summary": " Article URL:  https://drew.silcock.dev/blog/is-this-the-new-cyber-normal/  \n Comments URL:  https://news.ycombinator.com/item?id=50207115  \n Points: 156 \n # Comments: 174 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-10-24T05:56:44.306486+00:00"
-  },
-  {
-    "title": "How is music possible",
-    "url": "https://www.henrikkarlsson.xyz/p/music",
-    "summary": " Article URL:  https://www.henrikkarlsson.xyz/p/music  \n Comments URL:  https://news.ycombinator.com/item?id=50211719  \n Points: 105 \n # Comments: 74 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-10-24T05:56:44.306477+00:00"
-  },
-  {
-    "title": "How close can pure functional programming get to C?",
-    "url": "https://rtfeldman.com/fp-vs-c",
-    "summary": " Article URL:  https://rtfeldman.com/fp-vs-c  \n Comments URL:  https://news.ycombinator.com/item?id=50218195  \n Points: 35 \n # Comments: 2 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-10-24T05:56:44.299453+00:00"
+    "researched_at": "2026-10-25T06:11:17.531161+00:00"
   },
   {
     "title": "Feedback Friday: Rate My Ideas | October 23, 2026",
@@ -362,43 +203,7 @@
     "source": "https://www.reddit.com/r/Entrepreneur/.rss",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-24T05:56:44.306495+00:00"
-  },
-  {
-    "title": "DNS: A Replacement for Finger",
-    "url": "https://altchan.org/sh/42",
-    "summary": " Article URL:  https://altchan.org/sh/42  \n Comments URL:  https://news.ycombinator.com/item?id=50213791  \n Points: 36 \n # Comments: 27 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-10-24T05:56:44.299497+00:00"
-  },
-  {
-    "title": "CVE Tracker",
-    "url": "https://cve.0xosprey.com/",
-    "summary": " Article URL:  https://cve.0xosprey.com/  \n Comments URL:  https://news.ycombinator.com/item?id=50215530  \n Points: 142 \n # Comments: 55 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-10-24T05:56:44.299478+00:00"
-  },
-  {
-    "title": "Apple Music 404 Not Found",
-    "url": "https://music.apple.com/this-url-doesnt-exist",
-    "summary": "  https://www.macrumors.com/2026/10/23/apple-music-has-a-hidde...  \n \n Comments URL:  https://news.ycombinator.com/item?id=50207910  \n Points: 693 \n # Comments: 214 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-10-24T05:56:44.306483+00:00"
-  },
-  {
-    "title": "Animations for System Builders",
-    "url": "https://brooker.co.za/blog/2026/10/23/animations.html",
-    "summary": " Article URL:  https://brooker.co.za/blog/2026/10/23/animations.html  \n Comments URL:  https://news.ycombinator.com/item?id=50212124  \n Points: 53 \n # Comments: 3 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-10-24T05:56:44.299503+00:00"
+    "researched_at": "2026-10-25T06:11:17.531182+00:00"
   },
   {
     "title": "5 Ways to Become Industry Famous",
@@ -407,6 +212,6 @@
     "source": "https://www.reddit.com/r/Entrepreneur/.rss",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-24T05:56:44.306563+00:00"
+    "researched_at": "2026-10-25T06:11:17.531235+00:00"
   }
 ]

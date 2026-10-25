@@ -1,10 +1,5 @@
 [
   {
-    "path": "data/content/drafts/how-do-you-keep-good-employees-when-there-s-not-enough-work-for-everyone.json",
-    "passed": true,
-    "errors": []
-  },
-  {
     "path": "data/content/drafts/why-silent-ai-failures-are-killing-agency-workflows-and-how-we-audit-them-before.json",
     "passed": true,
     "errors": []
@@ -16,6 +11,11 @@
   },
   {
     "path": "data/content/drafts/rtws-the-media-angles-that-got-my-clients-on-tv.json",
+    "passed": true,
+    "errors": []
+  },
+  {
+    "path": "data/content/drafts/rtws-how-to-take-an-unknown-and-turn-them-into-an-industry-celebrity.json",
     "passed": true,
     "errors": []
   },
