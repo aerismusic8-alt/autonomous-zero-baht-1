@@ -10,17 +10,17 @@
     "errors": []
   },
   {
+    "path": "data/content/drafts/sunday-steam-vent-it-or-roast-it-october-25-2026.json",
+    "passed": true,
+    "errors": []
+  },
+  {
     "path": "data/content/drafts/rtws-the-media-angles-that-got-my-clients-on-tv.json",
     "passed": true,
     "errors": []
   },
   {
     "path": "data/content/drafts/rtws-how-to-take-an-unknown-and-turn-them-into-an-industry-celebrity.json",
-    "passed": true,
-    "errors": []
-  },
-  {
-    "path": "data/content/drafts/i-don-t-know-anymore.json",
     "passed": true,
     "errors": []
   }
