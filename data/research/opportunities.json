@@ -1,15 +1,16 @@
 [
   {
-    "title": "Why silent AI failures are killing agency workflows and how we audit them before clients notice",
-    "url": "https://www.reddit.com/r/Entrepreneur/comments/1xbr8jv/why_silent_ai_failures_are_killing_agency/",
-    "summary": "   the most dangerous thing about building AI workflows isn&#39;t when an agent throws an error or breaks completely.   it&#39;s when it runs perfectly, returns a beautifully formatted output, and everything looks so clean that nobody bothers to check the actual data.   until 3 weeks later when someone realizes the entire report was built on wrong numbers, misattributed conversion data, or fabricated competitor pricing.   this is what i call a silent AI failure. and if you run an agency or consult for clients, it is the absolute worst way to get caught.   the issue is that modern models like claude or openai are insanely good at formatting. they will give you executive summaries with clean tables, custom severity badges, and plausible-sounding math even when the underlying data source returned an empty payload or pulled from the wrong CRM field.   because the output looks like it came from a senior strategist, your team stops auditing it and turns the weekly review into a rubber stamp.",
+    "title": "Why people still pay for software when free alternatives exist",
+    "url": "https://www.reddit.com/r/Entrepreneur/comments/1xfuxgy/why_people_still_pay_for_software_when_free/",
+    "summary": "   “SaaS is dead” is the new “blogging is dead.”    open source existed before SaaS. Cheap alternatives existed before SaaS.    yet people kept building software businesses because customers don’t just pay for code. they pay to save time, solve problems, and avoid headaches.    stop confusing a changing market with a dead market.     &#32; submitted by &#32;   /u/FlatLiterature9702       [link]   &#32;   [comments]  ",
     "source": "https://www.reddit.com/r/Entrepreneur/.rss",
-    "score": 2,
+    "score": 3,
     "matched_keywords": [
-      "ai",
-      "workflow"
+      "business",
+      "software",
+      "saas"
     ],
-    "researched_at": "2026-10-26T06:18:15.180932+00:00"
+    "researched_at": "2026-10-27T06:20:03.774995+00:00"
   },
   {
     "title": "What process automation would improve your business quality of life?",
@@ -21,7 +22,7 @@
       "automation",
       "business"
     ],
-    "researched_at": "2026-10-26T06:18:15.180852+00:00"
+    "researched_at": "2026-10-27T06:20:03.775093+00:00"
   },
   {
     "title": "Sunday Steam: Vent It or Roast It | October 25, 2026",
@@ -33,7 +34,7 @@
       "ai",
       "business"
     ],
-    "researched_at": "2026-10-26T06:18:15.180769+00:00"
+    "researched_at": "2026-10-27T06:20:03.775049+00:00"
   },
   {
     "title": "RTWS - The Media Angles That Got My Clients on TV",
@@ -45,7 +46,7 @@
       "ai",
       "business"
     ],
-    "researched_at": "2026-10-26T06:18:15.180908+00:00"
+    "researched_at": "2026-10-27T06:20:03.775145+00:00"
   },
   {
     "title": "RTWS - How To Take An Unknown and Turn Them Into an Industry Celebrity",
@@ -57,7 +58,7 @@
       "ai",
       "business"
     ],
-    "researched_at": "2026-10-26T06:18:15.180816+00:00"
+    "researched_at": "2026-10-27T06:20:03.775058+00:00"
   },
   {
     "title": "Leaving well paying job for a small business",
@@ -69,7 +70,7 @@
       "ai",
       "business"
     ],
-    "researched_at": "2026-10-26T06:18:15.180779+00:00"
+    "researched_at": "2026-10-27T06:20:03.775019+00:00"
   },
   {
     "title": "Have you ever stopped selling a service that was still making money?",
@@ -81,7 +82,41 @@
       "business",
       "workflow"
     ],
-    "researched_at": "2026-10-26T06:18:15.180837+00:00"
+    "researched_at": "2026-10-27T06:20:03.775079+00:00"
+  },
+  {
+    "title": "GPT-6.1 Terra",
+    "url": "https://openai.com/index/introducing-gpt-6-1-terra/",
+    "summary": "  https://developers.openai.com/api/docs/models/gpt-6.1-terra  \n \n Comments URL:  https://news.ycombinator.com/item?id=50248124  \n Points: 567 \n # Comments: 353 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 2,
+    "matched_keywords": [
+      "ai",
+      "developer"
+    ],
+    "researched_at": "2026-10-27T06:20:03.769984+00:00"
+  },
+  {
+    "title": "UK to charge universities $1,200 per international student",
+    "url": "https://africa.businessinsider.com/local/markets/uk-to-charge-universities-dollar1200-per-international-student-including-those-from/qe5rqbe",
+    "summary": " Article URL:  https://africa.businessinsider.com/local/markets/uk-to-charge-universities-dollar1200-per-international-student-including-those-from/qe5rqbe  \n Comments URL:  https://news.ycombinator.com/item?id=50254935  \n Points: 13 \n # Comments: 0 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 1,
+    "matched_keywords": [
+      "business"
+    ],
+    "researched_at": "2026-10-27T06:20:03.769939+00:00"
+  },
+  {
+    "title": "Type Server Protocol",
+    "url": "https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md",
+    "summary": " Article URL:  https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md  \n Comments URL:  https://news.ycombinator.com/item?id=50248371  \n Points: 222 \n # Comments: 146 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 1,
+    "matched_keywords": [
+      "ai"
+    ],
+    "researched_at": "2026-10-27T06:20:03.769980+00:00"
   },
   {
     "title": "Stepping Back",
@@ -92,7 +127,7 @@
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-26T06:18:15.180883+00:00"
+    "researched_at": "2026-10-27T06:20:03.775121+00:00"
   },
   {
     "title": "Scared to pull the trigger (start)",
@@ -103,7 +138,7 @@
     "matched_keywords": [
       "business"
     ],
-    "researched_at": "2026-10-26T06:18:15.180898+00:00"
+    "researched_at": "2026-10-27T06:20:03.775136+00:00"
   },
   {
     "title": "RTWS - More PR Stories as The Bot Wars Continue",
@@ -114,51 +149,40 @@
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-26T06:18:15.180806+00:00"
+    "researched_at": "2026-10-27T06:20:03.775043+00:00"
   },
   {
-    "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
-    "url": "https://minimaxir.com/2026/10/cheap-llms/",
-    "summary": " Article URL:  https://minimaxir.com/2026/10/cheap-llms/  \n Comments URL:  https://news.ycombinator.com/item?id=50236102  \n Points: 237 \n # Comments: 261 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 1,
-    "matched_keywords": [
-      "ai"
-    ],
-    "researched_at": "2026-10-26T06:18:15.180725+00:00"
-  },
-  {
-    "title": "New business near university",
-    "url": "https://www.reddit.com/r/Entrepreneur/comments/1xb5blj/new_business_near_university/",
-    "summary": "   I own a business near a university that does well , a space opened up about 900 sq ft . What’s a good business to start I was thinking t shirt printing and embroidery      &#32; submitted by &#32;   /u/screenprinter817       [link]   &#32;   [comments]  ",
+    "title": "RTWS - Marketing and PR 101",
+    "url": "https://www.reddit.com/r/Entrepreneur/comments/1xg2jh8/rtws_marketing_and_pr_101/",
+    "summary": "   Bots, neckbeards, and the occasional entrepreneur,    Many people don&#39;t know the difference between marketing and PR so here are some good guidelines to help you.    PR is to build the reputation of your company or to get media coverage    Marketing is to drive sales    PR can get you marketing results, marketing cannot get you PR results    PR should be 20% of your marketing budget unless you DO NOT want coverage for your business. This only makes sense if you sell goods online and want to devote 100% to adspend.    PR is good if you:  - Want to be the face of your company  - Run a personal brand  - Want to be interviewed  - Want to stand out from competitors  - Desire to create story based narratives to attract coverage    There are several subsets of PR. Not all agencies do the same things.    - Media outreach  - Reputation management  - Event promotion  - Crisis management  - Interview coordination    Its normal for an agency to charge 60% down.    Always get a contract. Alw",
     "source": "https://www.reddit.com/r/Entrepreneur/.rss",
     "score": 1,
     "matched_keywords": [
       "business"
     ],
-    "researched_at": "2026-10-26T06:18:15.180940+00:00"
+    "researched_at": "2026-10-27T06:20:03.775008+00:00"
   },
   {
-    "title": "My business is more stable, but my confidence hasn’t caught up. How do I rebuild my confidence?",
-    "url": "https://www.reddit.com/r/Entrepreneur/comments/1xapxwl/my_business_is_more_stable_but_my_confidence/",
-    "summary": "   I started my business about two years ago, and the first year and a half felt like one mistake and hard lesson after another. There was always something else I was doing wrong or hadn’t thought through.   Things have finally become more stable. I’ve found what works, and I’ve learned a lot about things like setting boundaries, change management, people/team management, process documentation, process optimization, etc. I know that’s a big vague, but the lessons I’ve learned in those areas have made a real difference in how I run the business.   I had the courage to work through my mistakes until I learned and improved. I expected that experience to make me more confident, but it hasn’t really worked out that way. A lot of what I learned seems obvious in hindsight, so instead of thinking, “I know how to handle that now,” I get stuck on, “Why didn’t I already know that?”   I can recognize that those difficult experiences were valuable. I’m glad I learned what I did. But I’m struggling ",
+    "title": "Monday mentorship: ask anything | October 26, 2026",
+    "url": "https://www.reddit.com/r/Entrepreneur/comments/1xfqoew/monday_mentorship_ask_anything_october_26_2026/",
+    "summary": "   New to entrepreneurship or just starting out? This is your space. Ask the questions you&#39;re afraid to ask elsewhere.    Experienced folks, jump in and share what you wish someone had told you early on.     &#32; submitted by &#32;   /u/AutoModerator       [link]   &#32;   [comments]  ",
     "source": "https://www.reddit.com/r/Entrepreneur/.rss",
-    "score": 1,
-    "matched_keywords": [
-      "business"
-    ],
-    "researched_at": "2026-10-26T06:18:15.180957+00:00"
-  },
-  {
-    "title": "Microsoft Decision-1: 9B Qwen Model Launch Explained",
-    "url": "https://shattered.io/microsoft-decision-1-qwen3-5-9b-model-2026/",
-    "summary": " Article URL:  https://shattered.io/microsoft-decision-1-qwen3-5-9b-model-2026/  \n Comments URL:  https://news.ycombinator.com/item?id=50238620  \n Points: 26 \n # Comments: 9 ",
-    "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-26T06:18:15.180687+00:00"
+    "researched_at": "2026-10-27T06:20:03.774686+00:00"
+  },
+  {
+    "title": "Microsoft offers mass buyouts for roughly a quarter of its workforce",
+    "url": "https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/",
+    "summary": " Article URL:  https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/  \n Comments URL:  https://news.ycombinator.com/item?id=50245524  \n Points: 873 \n # Comments: 816 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 1,
+    "matched_keywords": [
+      "business"
+    ],
+    "researched_at": "2026-10-27T06:20:03.770005+00:00"
   },
   {
     "title": "I started today at 1am",
@@ -169,7 +193,7 @@
     "matched_keywords": [
       "business"
     ],
-    "researched_at": "2026-10-26T06:18:15.180862+00:00"
+    "researched_at": "2026-10-27T06:20:03.775102+00:00"
   },
   {
     "title": "Even the least hated sounds are enough to drive customers out",
@@ -180,18 +204,18 @@
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-26T06:18:15.180797+00:00"
+    "researched_at": "2026-10-27T06:20:03.775035+00:00"
   },
   {
-    "title": "Cognitive Mercantilism: AI panic resembles fears of early capitalism",
-    "url": "https://contraptions.venkateshrao.com/p/cognitive-mercantilism",
-    "summary": " Article URL:  https://contraptions.venkateshrao.com/p/cognitive-mercantilism  \n Comments URL:  https://news.ycombinator.com/item?id=50239027  \n Points: 11 \n # Comments: 0 ",
+    "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
+    "url": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
+    "summary": " Article URL:  https://blog.cloudflare.com/kv-cache-exposure-remediation/  \n Comments URL:  https://news.ycombinator.com/item?id=50252159  \n Points: 113 \n # Comments: 37 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-26T06:18:15.180656+00:00"
+    "researched_at": "2026-10-27T06:20:03.769961+00:00"
   },
   {
     "title": "📋 Entrepreneur Moderator Applications Open - Apply Now!",
@@ -200,43 +224,43 @@
     "source": "https://www.reddit.com/r/Entrepreneur/.rss",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-26T06:18:15.180764+00:00"
+    "researched_at": "2026-10-27T06:20:03.774672+00:00"
   },
   {
-    "title": "iPhone Duo Teardown",
-    "url": "https://www.ifixit.com/News/119895/iphone-duo-teardown",
-    "summary": " Article URL:  https://www.ifixit.com/News/119895/iphone-duo-teardown  \n Comments URL:  https://news.ycombinator.com/item?id=50237896  \n Points: 96 \n # Comments: 55 ",
+    "title": "Websites Should Be Printable",
+    "url": "https://brennenputh.me/blog/printable-websites/",
+    "summary": " Article URL:  https://brennenputh.me/blog/printable-websites/  \n Comments URL:  https://news.ycombinator.com/item?id=50241664  \n Points: 312 \n # Comments: 187 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-26T06:18:15.180698+00:00"
+    "researched_at": "2026-10-27T06:20:03.770027+00:00"
   },
   {
-    "title": "Why I Am a Programmer",
-    "url": "https://www.alfie.wtf/programming/why-i-am-a-programmer.html",
-    "summary": " Article URL:  https://www.alfie.wtf/programming/why-i-am-a-programmer.html  \n Comments URL:  https://news.ycombinator.com/item?id=50235017  \n Points: 186 \n # Comments: 59 ",
+    "title": "Three new discoveries in mathematics, computer science, and physics",
+    "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
+    "summary": " Related:  The Exponential Time Hypothesis Is False [pdf]  -  https://news.ycombinator.com/item?id=50251661  \n \n Comments URL:  https://news.ycombinator.com/item?id=50251344  \n Points: 722 \n # Comments: 316 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-26T06:18:15.180737+00:00"
+    "researched_at": "2026-10-27T06:20:03.769975+00:00"
   },
   {
-    "title": "What goes into making an animated film?",
-    "url": "https://www.disneyanimation.com/process/",
-    "summary": " Article URL:  https://www.disneyanimation.com/process/  \n Comments URL:  https://news.ycombinator.com/item?id=50235738  \n Points: 126 \n # Comments: 51 ",
+    "title": "There are now 5 inference providers for abliterated DeepSeek",
+    "url": "https://allmodels.io/llm/abliterated",
+    "summary": " Article URL:  https://allmodels.io/llm/abliterated  \n Comments URL:  https://news.ycombinator.com/item?id=50254836  \n Points: 35 \n # Comments: 27 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-26T06:18:15.180733+00:00"
+    "researched_at": "2026-10-27T06:20:03.769947+00:00"
   },
   {
-    "title": "The State of Context Engineering",
-    "url": "https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html",
-    "summary": " Article URL:  https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html  \n Comments URL:  https://news.ycombinator.com/item?id=50235780  \n Points: 136 \n # Comments: 37 ",
+    "title": "The Exponential Time Hypothesis Is False [pdf]",
+    "url": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf",
+    "summary": " See also:  Announcing three new discoveries in mathematics, computer science, and physics  -  https://news.ycombinator.com/item?id=50251344  \n \n Comments URL:  https://news.ycombinator.com/item?id=50251661  \n Points: 503 \n # Comments: 185 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-26T06:18:15.180729+00:00"
+    "researched_at": "2026-10-27T06:20:03.769970+00:00"
   },
   {
     "title": "Thankful Thursday: Free Resources and Tools | October 22, 2026",
@@ -245,7 +269,7 @@
     "source": "https://www.reddit.com/r/Entrepreneur/.rss",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-26T06:18:15.180912+00:00"
+    "researched_at": "2026-10-27T06:20:03.775150+00:00"
   },
   {
     "title": "Success Saturday: What's Going Right | October 24, 2026",
@@ -254,43 +278,25 @@
     "source": "https://www.reddit.com/r/Entrepreneur/.rss",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-26T06:18:15.180821+00:00"
+    "researched_at": "2026-10-27T06:20:03.775063+00:00"
   },
   {
-    "title": "Steal My Bitcoin CTF PoC",
-    "url": "https://github.com/KillaBoi/StealMyBitcoin-PoC",
-    "summary": " Article URL:  https://github.com/KillaBoi/StealMyBitcoin-PoC  \n Comments URL:  https://news.ycombinator.com/item?id=50237379  \n Points: 66 \n # Comments: 10 ",
+    "title": "Solar power is becoming bigger than nuclear",
+    "url": "https://www.bbc.com/future/article/20261023-how-solar-became-bigger-than-nuclear",
+    "summary": " Article URL:  https://www.bbc.com/future/article/20261023-how-solar-became-bigger-than-nuclear  \n Comments URL:  https://news.ycombinator.com/item?id=50245385  \n Points: 226 \n # Comments: 346 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-26T06:18:15.180712+00:00"
+    "researched_at": "2026-10-27T06:20:03.770009+00:00"
   },
   {
-    "title": "Show HN: TitleArt – Make text like it's 1997",
-    "url": "https://titleart.dvy.io/",
-    "summary": " Article URL:  https://titleart.dvy.io/  \n Comments URL:  https://news.ycombinator.com/item?id=50238708  \n Points: 79 \n # Comments: 14 ",
+    "title": "Sebastian Raschka's from-scratch video course on building reasoning models",
+    "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
+    "summary": " Article URL:  https://magazine.sebastianraschka.com/p/building-reasoning-models  \n Comments URL:  https://news.ycombinator.com/item?id=50245138  \n Points: 646 \n # Comments: 91 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-26T06:18:15.180677+00:00"
-  },
-  {
-    "title": "Show HN: Proc-CLI – An agent-friendly CLI tool for process and port management",
-    "url": "https://proc-cli.com/",
-    "summary": " Article URL:  https://proc-cli.com/  \n Comments URL:  https://news.ycombinator.com/item?id=50239041  \n Points: 6 \n # Comments: 0 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-10-26T06:18:15.180646+00:00"
-  },
-  {
-    "title": "Removing Next.js Got My Blog to 100 on Every Lighthouse Category",
-    "url": "https://korindiehacker.bloffy.blog/en/removing-nextjs-got-my-blog-to-100-on-every-lighthouse-category",
-    "summary": " Article URL:  https://korindiehacker.bloffy.blog/en/removing-nextjs-got-my-blog-to-100-on-every-lighthouse-category  \n Comments URL:  https://news.ycombinator.com/item?id=50237712  \n Points: 96 \n # Comments: 47 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-10-26T06:18:15.180703+00:00"
+    "researched_at": "2026-10-27T06:20:03.770013+00:00"
   },
   {
     "title": "RTWS - PR Success Story Case Study",
@@ -299,43 +305,61 @@
     "source": "https://www.reddit.com/r/Entrepreneur/.rss",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-26T06:18:15.180848+00:00"
+    "researched_at": "2026-10-27T06:20:03.775089+00:00"
   },
   {
-    "title": "PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP",
-    "url": "https://github.com/KrushnaVardhanReddy/PaperPilot",
-    "summary": " Article URL:  https://github.com/KrushnaVardhanReddy/PaperPilot  \n Comments URL:  https://news.ycombinator.com/item?id=50238739  \n Points: 54 \n # Comments: 9 ",
+    "title": "Pharo 14",
+    "url": "https://pharo.org/news/2026-10-26-Pharo14Release.html",
+    "summary": " Article URL:  https://pharo.org/news/2026-10-26-Pharo14Release.html  \n Comments URL:  https://news.ycombinator.com/item?id=50241925  \n Points: 250 \n # Comments: 68 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-26T06:18:15.180670+00:00"
+    "researched_at": "2026-10-27T06:20:03.770024+00:00"
   },
   {
-    "title": "Lula wins election after final votes tallied",
-    "url": "https://www.reuters.com/live/brazil-election-live-lula-bolsonaro-face-off-presidential-runoff-2026-10-25/",
-    "summary": " Article URL:  https://www.reuters.com/live/brazil-election-live-lula-bolsonaro-face-off-presidential-runoff-2026-10-25/  \n Comments URL:  https://news.ycombinator.com/item?id=50237485  \n Points: 291 \n # Comments: 279 ",
+    "title": "Oldest GUI application that still runs on Windows 11",
+    "url": "https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/",
+    "summary": " Article URL:  https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/  \n Comments URL:  https://news.ycombinator.com/item?id=50248055  \n Points: 372 \n # Comments: 215 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-26T06:18:15.180708+00:00"
+    "researched_at": "2026-10-27T06:20:03.769988+00:00"
   },
   {
-    "title": "Learning to Be Me (1990) [pdf]",
-    "url": "https://gwern.net/doc/fiction/science-fiction/1995-egan.pdf",
-    "summary": " Article URL:  https://gwern.net/doc/fiction/science-fiction/1995-egan.pdf  \n Comments URL:  https://news.ycombinator.com/item?id=50234028  \n Points: 10 \n # Comments: 2 ",
+    "title": "Nietzschian Debugger",
+    "url": "https://github.com/DilawarShafiq/nietzschian-debugger",
+    "summary": " Article URL:  https://github.com/DilawarShafiq/nietzschian-debugger  \n Comments URL:  https://news.ycombinator.com/item?id=50247493  \n Points: 154 \n # Comments: 50 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-26T06:18:15.180753+00:00"
+    "researched_at": "2026-10-27T06:20:03.769996+00:00"
   },
   {
-    "title": "IBM CEO says open weight models are now good and cheap on-prem",
-    "url": "https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640",
-    "summary": " Article URL:  https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640  \n Comments URL:  https://news.ycombinator.com/item?id=50238088  \n Points: 130 \n # Comments: 80 ",
+    "title": "New iPad mini",
+    "url": "https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/",
+    "summary": " Article URL:  https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/  \n Comments URL:  https://news.ycombinator.com/item?id=50243061  \n Points: 178 \n # Comments: 459 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-26T06:18:15.180693+00:00"
+    "researched_at": "2026-10-27T06:20:03.770017+00:00"
+  },
+  {
+    "title": "Medical supplier- how to get started",
+    "url": "https://www.reddit.com/r/Entrepreneur/comments/1xg3mj8/medical_supplier_how_to_get_started/",
+    "summary": "   I am looking into medical supplier and really need help in getting my foot in. How do I and where do I get started? Any pointers to websites links or courses? Any current or former employee willing to mentor?     &#32; submitted by &#32;   /u/Leather-Wheel1115       [link]   &#32;   [comments]  ",
+    "source": "https://www.reddit.com/r/Entrepreneur/.rss",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-10-27T06:20:03.774692+00:00"
+  },
+  {
+    "title": "I still teach OpenGL ES 3.0",
+    "url": "https://eliasfarhan.ch/graphics/cpp/2026/01/27/why-i-teach-opengles.html",
+    "summary": " Article URL:  https://eliasfarhan.ch/graphics/cpp/2026/01/27/why-i-teach-opengles.html  \n Comments URL:  https://news.ycombinator.com/item?id=50253939  \n Points: 21 \n # Comments: 14 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-10-27T06:20:03.769952+00:00"
   },
   {
     "title": "Feedback Friday: Rate My Ideas | October 23, 2026",
@@ -344,60 +368,42 @@
     "source": "https://www.reddit.com/r/Entrepreneur/.rss",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-26T06:18:15.180868+00:00"
+    "researched_at": "2026-10-27T06:20:03.775108+00:00"
   },
   {
-    "title": "F-Zero X on Nintendo 3DS",
-    "url": "https://hypnotize.works/gdx-3ds/postmortem/index.html",
-    "summary": " Article URL:  https://hypnotize.works/gdx-3ds/postmortem/index.html  \n Comments URL:  https://news.ycombinator.com/item?id=50237078  \n Points: 93 \n # Comments: 44 ",
+    "title": "CSS-Tricks has a new owner",
+    "url": "https://css-tricks.com/css-tricks-has-a-new-owner/",
+    "summary": " Article URL:  https://css-tricks.com/css-tricks-has-a-new-owner/  \n Comments URL:  https://news.ycombinator.com/item?id=50245831  \n Points: 424 \n # Comments: 96 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-26T06:18:15.180720+00:00"
+    "researched_at": "2026-10-27T06:20:03.770000+00:00"
   },
   {
-    "title": "Dolly Parton's Imagination Library",
-    "url": "https://imaginationlibrary.com/",
-    "summary": " With today's news, I thought I'd share this great program: “When I was growing up in the hills of East Tennessee, I knew my dreams would come true. I know there are children in your community with their own dreams. They dream of becoming a doctor or an inventor or a minister. Who knows, maybe there is a little girl whose dream is to be a writer and singer. The seeds of these dreams are often found in books and the seeds you help plant in your community can grow across the world.” \n \n Comments URL:  https://news.ycombinator.com/item?id=50234474  \n Points: 485 \n # Comments: 87 ",
+    "title": "Anthropic S-1",
+    "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+    "summary": " Article URL:  https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm  \n Comments URL:  https://news.ycombinator.com/item?id=50242939  \n Points: 1564 \n # Comments: 1503 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-26T06:18:15.180749+00:00"
+    "researched_at": "2026-10-27T06:20:03.770020+00:00"
   },
   {
-    "title": "Behind the scenes at the NeXT Computer office",
-    "url": "https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry",
-    "summary": " Article URL:  https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry  \n Comments URL:  https://news.ycombinator.com/item?id=50238763  \n Points: 51 \n # Comments: 17 ",
+    "title": "A Man from the Future: Why Johnny Can't Stop Abstracting",
+    "url": "http://muratbuffalo.blogspot.com/2026/10/the-man-from-future-why-johnny-cant.html",
+    "summary": " Article URL:  http://muratbuffalo.blogspot.com/2026/10/the-man-from-future-why-johnny-cant.html  \n Comments URL:  https://news.ycombinator.com/item?id=50247928  \n Points: 155 \n # Comments: 75 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-26T06:18:15.180663+00:00"
+    "researched_at": "2026-10-27T06:20:03.769993+00:00"
   },
   {
-    "title": "Attention Is Not What You Need (2025)",
-    "url": "https://arxiv.org/abs/2512.19428",
-    "summary": " Article URL:  https://arxiv.org/abs/2512.19428  \n Comments URL:  https://news.ycombinator.com/item?id=50237224  \n Points: 68 \n # Comments: 25 ",
+    "title": "16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows",
+    "url": "https://github.com/otya128/winevdm",
+    "summary": " Article URL:  https://github.com/otya128/winevdm  \n Comments URL:  https://news.ycombinator.com/item?id=50253529  \n Points: 63 \n # Comments: 5 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-26T06:18:15.180716+00:00"
-  },
-  {
-    "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
-    "url": "https://lynchlab.net/llm-skin-cancer",
-    "summary": " Article URL:  https://lynchlab.net/llm-skin-cancer  \n Comments URL:  https://news.ycombinator.com/item?id=50233779  \n Points: 506 \n # Comments: 228 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-10-26T06:18:15.180757+00:00"
-  },
-  {
-    "title": "5 Ways to Become Industry Famous",
-    "url": "https://www.reddit.com/r/Entrepreneur/comments/1xbnrho/5_ways_to_become_industry_famous/",
-    "summary": "   PR Agency owner here,    For those of you that want to be the recognizable face of your company, here are the top 5 ways I take people and greatly increase their visibility.    41 of my clients have been on TV. One had a movie made from their story, 2 got documentaries made, 2 have been on reality TV.       Charge the industry. Create an industry database of magazines and journos in your niche. Reach out with a strong angle or new opinion on something and offer an interview. Industry coverage creates credibility.      Get on the news. It takes me 7 minutes to pitch a client to every news station in their area. Getting on TV provides screenshots for social media, exposure to thousands of new people, and increases your Google presence.      Write a book. Published author is a huge designator and will get you more media interviews when you launch.      Start speaking. Get on stage and get branding photos. Even if you start small, speaking gigs convene authority. Plus it opens you up to",
-    "source": "https://www.reddit.com/r/Entrepreneur/.rss",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-10-26T06:18:15.180922+00:00"
+    "researched_at": "2026-10-27T06:20:03.769956+00:00"
   }
 ]
