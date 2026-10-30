@@ -10,7 +10,7 @@
       "software",
       "saas"
     ],
-    "researched_at": "2026-10-29T07:09:26.873304+00:00"
+    "researched_at": "2026-10-30T07:11:54.769886+00:00"
   },
   {
     "title": "What was one moment in your business that made the biggest difference?",
@@ -22,7 +22,7 @@
       "ai",
       "business"
     ],
-    "researched_at": "2026-10-29T07:09:26.873214+00:00"
+    "researched_at": "2026-10-30T07:11:54.769790+00:00"
   },
   {
     "title": "Leaving well paying job for a small business",
@@ -34,7 +34,19 @@
       "ai",
       "business"
     ],
-    "researched_at": "2026-10-29T07:09:26.873318+00:00"
+    "researched_at": "2026-10-30T07:11:54.769899+00:00"
+  },
+  {
+    "title": "Launch HN: Simantic (YC F26) – Firmware Simulation for AI Agents",
+    "url": "https://news.ycombinator.com/item?id=50291116",
+    "summary": " Hi HN, we're Ahnaf and Seungmin from Simantic ( https://simantic.com ). We are building the simulation layer that lets engineers and AI agents test and validate firmware without hardware. Before Simantic, we were ex-firmware engineers at companies like Neuralink and Tesla. We’ve worked on some of the coolest projects, like the Cybertruck and Roadster, back when they were still early prototypes. We started working on firmware back when ChatGPT didn’t exist yet, but over the years, we saw how much of the engineering and development work has been automated as the frontier models improved to this point. In software, AI can run and test code inside your computer in a matter of seconds. But as firmware engineers, we didn’t have that luxury. An AI agent can write firmware in seconds, but in order to test it, we had to flash a physical board, then manually run tests using expensive and clunky tools with software made over a decade ago. To speed up the validation loop, we built the simulation ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 2,
+    "matched_keywords": [
+      "ai",
+      "software"
+    ],
+    "researched_at": "2026-10-30T07:11:54.769735+00:00"
   },
   {
     "title": "I grew my SEO agency to €1.6M a year mostly with cold email. Here's the exact email I still send",
@@ -46,18 +58,7 @@
       "ai",
       "business"
     ],
-    "researched_at": "2026-10-29T07:09:26.873256+00:00"
-  },
-  {
-    "title": "Zillow to pay $212.5M to settle class action for real estate venture",
-    "url": "https://www.reuters.com/legal/government/zillow-pay-2125-million-settle-class-action-over-failed-real-estate-venture-2026-10-28/",
-    "summary": " Article URL:  https://www.reuters.com/legal/government/zillow-pay-2125-million-settle-class-action-over-failed-real-estate-venture-2026-10-28/  \n Comments URL:  https://news.ycombinator.com/item?id=50284342  \n Points: 31 \n # Comments: 9 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 1,
-    "matched_keywords": [
-      "ai"
-    ],
-    "researched_at": "2026-10-29T07:09:26.873095+00:00"
+    "researched_at": "2026-10-30T07:11:54.769842+00:00"
   },
   {
     "title": "What is the thing that helped you push past mental barriers to be a better entrepreneur?",
@@ -68,18 +69,40 @@
     "matched_keywords": [
       "saas"
     ],
-    "researched_at": "2026-10-29T07:09:26.873218+00:00"
+    "researched_at": "2026-10-30T07:11:54.769794+00:00"
   },
   {
-    "title": "TLP Is Not a Suggestion",
-    "url": "https://www.akamai.com/blog/security-research/tlp-is-not-a-suggestion",
-    "summary": " Article URL:  https://www.akamai.com/blog/security-research/tlp-is-not-a-suggestion  \n Comments URL:  https://news.ycombinator.com/item?id=50271756  \n Points: 5 \n # Comments: 0 ",
+    "title": "We're releasing the weights of Mistral Large 4",
+    "url": "https://mistral.ai/news/mistral-large-4-oss/",
+    "summary": " Article URL:  https://mistral.ai/news/mistral-large-4-oss/  \n Comments URL:  https://news.ycombinator.com/item?id=50289418  \n Points: 1351 \n # Comments: 366 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-29T07:09:26.873178+00:00"
+    "researched_at": "2026-10-30T07:11:54.769746+00:00"
+  },
+  {
+    "title": "We ran AI agent swarms in Minecraft and Mindustry",
+    "url": "https://labs.ycombinator.com/projects/games/index.html",
+    "summary": " Article URL:  https://labs.ycombinator.com/projects/games/index.html  \n Comments URL:  https://news.ycombinator.com/item?id=50296486  \n Points: 248 \n # Comments: 82 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 1,
+    "matched_keywords": [
+      "ai"
+    ],
+    "researched_at": "2026-10-30T07:11:54.769689+00:00"
+  },
+  {
+    "title": "Spent 3 days at SWITCH Singapore, Asia's big deep-tech and IT startup event. Here's what were the point of discussions among investors and the innovators",
+    "url": "https://www.reddit.com/r/Entrepreneur/comments/1xj5avo/spent_3_days_at_switch_singapore_asias_big/",
+    "summary": "      Deep-Tech dominated, not the apps:  of course robotics, quantum, climate tech and semiconductors    Almost every conversation was about the Ai but the hard part seemed to get that to production:  for example a robot was able to pick your choice of drink from shelf and get that delivered to your table in controlled environment, but if you wanted to take it home, the monthly rent was quoted as 4000 SGD/m, or if you wanted to own that upfront cost was around 60,000 SGD!    Investors asked about:  go-to-market, unit economics, IP more then the tech itself.     Happy to answer if anyone&#39;s considering this next year or deciding between SWITCH and Singapore FinTech Festival     &#32; submitted by &#32;   /u/bilal-cs       [link]   &#32;   [comments]  ",
+    "source": "https://www.reddit.com/r/Entrepreneur/.rss",
+    "score": 1,
+    "matched_keywords": [
+      "ai"
+    ],
+    "researched_at": "2026-10-30T07:11:54.769765+00:00"
   },
   {
     "title": "Skin care or fragrance?",
@@ -90,29 +113,29 @@
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-29T07:09:26.873241+00:00"
+    "researched_at": "2026-10-30T07:11:54.769818+00:00"
   },
   {
-    "title": "Scaling Hierarchical Networks",
-    "url": "https://www.cartesia.ai/blog/from-tokens-to-bytes-part-1",
-    "summary": " Article URL:  https://www.cartesia.ai/blog/from-tokens-to-bytes-part-1  \n Comments URL:  https://news.ycombinator.com/item?id=50278253  \n Points: 58 \n # Comments: 2 ",
+    "title": "Show HN: Lasm – Write formally verified webapps in Lean for Node/serverless/edge",
+    "url": "https://github.com/Millillion/lasm",
+    "summary": " Lasm has been my dream for a good part of 2026.\nI firmly believe that formal verification is the next evolution of software engineering and programming languages. This next wave will largely be enabled by the incredibly intelligent LLMs that understand formal verification and its programming languages. Lean is one of the most popular languages that allow for formal verification, and to me is incredibly powerful because it is a general purpose programming language with formal verification built directly into it. You can build general purpose software in Lean, and formally verify it in Lean. Amazing. Lasm brings Lean to the browser, Node, serverless, and edge environments (and more). The idea is that you can now write web apps, frontend to backend, in Lean and formally verify these apps. Imagine an Express server or Hono server, running on Cloudflare Workers, with formal verification of its specification. I'm an agentic engineer with an emphasis in software engineering, and Lasm was bui",
+    "source": "https://hnrss.org/frontpage",
+    "score": 1,
+    "matched_keywords": [
+      "software"
+    ],
+    "researched_at": "2026-10-30T07:11:54.769649+00:00"
+  },
+  {
+    "title": "Show HN: I Turned DOOM into a Transformer",
+    "url": "https://github.com/mottopanikeiku/doomformer",
+    "summary": " Instead of trying to run DOOM on things, I have instead decided to use DOOM (many, many, many doom games actually) to create a transformer. For a lot of the math required I essentially had to use DOOM game mechanics and voodoo dolls (DOOM is turing complete btw) and exchange them with the actual operations, essentially creating an alternative to NumPy (a 65000x slower one). Thus, I am proud to present DOOMFORMER. Here are a list of things DOOMFORMER can do : It can classify MNIST digits, even if you write these digits on the map! It can talk(kinda) You can use it to make decisions, so, it can play DOOM. Yes! You can play DOOM with thousands of DOOM games now! The marine's mind can be controlled by DOOM, playing on a map generated by DOOMFORMER. Truly, the possibilities are endless, and even larger-scale training of DOOMFORMER could be done on a measly T4. If anyone would like to help me scale this up and make crazier things, I'd love to work together. \n \n Comments URL:  https://news.y",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-29T07:09:26.873145+00:00"
-  },
-  {
-    "title": "RTWS - More PR Stories as The Bot Wars Continue",
-    "url": "https://www.reddit.com/r/Entrepreneur/comments/1xf3f0r/rtws_more_pr_stories_as_the_bot_wars_continue/",
-    "summary": "   Reddit Bot Army,    The client hired me because he wanted to be known in his industry. He had made a fortune north of 7 figures when certain digital currencies took off.    Then over time, things got weird. Calls from unknown users. Getting screamed at for things that he had requested in the package. Gifts in the mail out of nowhere, then messages saying he wasn&#39;t happy with the results.    Finally I walked. I had enough. I realized he was a nightmare client and his expectations were ridiculous.    A year later, I searched his name for shits and giggles. Multiple arrests. Drugs. Ladies of the night. Paraphernalia and a BABY in the car during the arrest.    His story got picked up by a major news outlet.    Glad to see he got the coverage he wanted. Even if it was in an orange jumpsuit.      &#32; submitted by &#32;   /u/flyfightandgrin       [link]   &#32;   [comments]  ",
-    "source": "https://www.reddit.com/r/Entrepreneur/.rss",
-    "score": 1,
-    "matched_keywords": [
-      "ai"
-    ],
-    "researched_at": "2026-10-29T07:09:26.873340+00:00"
+    "researched_at": "2026-10-30T07:11:54.769676+00:00"
   },
   {
     "title": "RTWS - Marketing and PR 101",
@@ -123,7 +146,7 @@
     "matched_keywords": [
       "business"
     ],
-    "researched_at": "2026-10-29T07:09:26.873297+00:00"
+    "researched_at": "2026-10-30T07:11:54.769878+00:00"
   },
   {
     "title": "RTWS - How I Attract and Partner with High Value Clients For Business",
@@ -134,7 +157,18 @@
     "matched_keywords": [
       "business"
     ],
-    "researched_at": "2026-10-29T07:09:26.873227+00:00"
+    "researched_at": "2026-10-30T07:11:54.769803+00:00"
+  },
+  {
+    "title": "Pico CSS is no longer maintained",
+    "url": "https://github.com/picocss/pico/discussions/754",
+    "summary": " Article URL:  https://github.com/picocss/pico/discussions/754  \n Comments URL:  https://news.ycombinator.com/item?id=50298964  \n Points: 100 \n # Comments: 33 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 1,
+    "matched_keywords": [
+      "ai"
+    ],
+    "researched_at": "2026-10-30T07:11:54.769653+00:00"
   },
   {
     "title": "Monday mentorship: ask anything | October 26, 2026",
@@ -145,7 +179,7 @@
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-29T07:09:26.873309+00:00"
+    "researched_at": "2026-10-30T07:11:54.769891+00:00"
   },
   {
     "title": "How to find a mentor or someone with experience? (UK)",
@@ -156,18 +190,7 @@
     "matched_keywords": [
       "business"
     ],
-    "researched_at": "2026-10-29T07:09:26.873265+00:00"
-  },
-  {
-    "title": "Gemini 4 Carbon",
-    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
-    "summary": " Article URL:  https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/  \n Comments URL:  https://news.ycombinator.com/item?id=50276792  \n Points: 886 \n # Comments: 731 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 1,
-    "matched_keywords": [
-      "ai"
-    ],
-    "researched_at": "2026-10-29T07:09:26.873161+00:00"
+    "researched_at": "2026-10-30T07:11:54.769851+00:00"
   },
   {
     "title": "Experts here, what is the best way to get your business mentioned on ChatGPT?",
@@ -178,18 +201,7 @@
     "matched_keywords": [
       "business"
     ],
-    "researched_at": "2026-10-29T07:09:26.873202+00:00"
-  },
-  {
-    "title": "Even the least hated sounds are enough to drive customers out",
-    "url": "https://www.reddit.com/r/Entrepreneur/comments/1xf4vct/even_the_least_hated_sounds_are_enough_to_drive/",
-    "summary": "   Have you noticed how often the sound is the reason you stop watching? Maybe the vlogger has an irritating voice, the audio quality is terrible, or the background music is drowning out the speech. These mistakes seem obvious to the listener, yet the person making the video often doesn&#39;t notice them at all. The same goes for advertising. If I hear annoying digital female voice, I gone in a millisecond. Simple as that.   So which sounds do people hate most? I asked a big subreddit. Over 300 people answered with sounds they can’t stand. Then I went through the comments and pulled out 26 sounds people find unbearable.   Here is six last sounds from the hated sounds list:      Cracking knuckles 3     Velcro 4     Vacuum cleaners 5     Dripping tap, running water, pouring 6     Phone on speaker in public 6     Ticking clocks and watches 6      Full list of &#39;the most hated sounds&#39; in the comments.     &#32; submitted by &#32;   /u/Patient-Airline-8150       [link]   &#32;   [com",
-    "source": "https://www.reddit.com/r/Entrepreneur/.rss",
-    "score": 1,
-    "matched_keywords": [
-      "ai"
-    ],
-    "researched_at": "2026-10-29T07:09:26.873332+00:00"
+    "researched_at": "2026-10-30T07:11:54.769778+00:00"
   },
   {
     "title": "Did you guys realize how much SEO affects how many customers your website actually gets?",
@@ -200,40 +212,18 @@
     "matched_keywords": [
       "business"
     ],
-    "researched_at": "2026-10-29T07:09:26.873274+00:00"
+    "researched_at": "2026-10-30T07:11:54.769828+00:00"
   },
   {
-    "title": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
-    "url": "https://surgehq.ai/blog/dayjob-tax",
-    "summary": " Article URL:  https://surgehq.ai/blog/dayjob-tax  \n Comments URL:  https://news.ycombinator.com/item?id=50275626  \n Points: 223 \n # Comments: 145 ",
+    "title": "CVE-2026-98432: Linux TCP Use-After-Free Risk and Patch Validation",
+    "url": "https://www.penligent.ai/hackinglabs/cve-2026-98432/",
+    "summary": " Article URL:  https://www.penligent.ai/hackinglabs/cve-2026-98432/  \n Comments URL:  https://news.ycombinator.com/item?id=50299182  \n Points: 50 \n # Comments: 32 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-29T07:09:26.873167+00:00"
-  },
-  {
-    "title": "Claude Code regularly sends each background agent’s transcript to its model",
-    "url": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
-    "summary": " Article URL:  https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce  \n Comments URL:  https://news.ycombinator.com/item?id=50284255  \n Points: 259 \n # Comments: 81 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 1,
-    "matched_keywords": [
-      "ai"
-    ],
-    "researched_at": "2026-10-29T07:09:26.873107+00:00"
-  },
-  {
-    "title": "Bernstein – open-source governance layer for AI agents",
-    "url": "https://bernstein.run",
-    "summary": " Article URL:  https://bernstein.run  \n Comments URL:  https://news.ycombinator.com/item?id=50285177  \n Points: 12 \n # Comments: 0 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 1,
-    "matched_keywords": [
-      "ai"
-    ],
-    "researched_at": "2026-10-29T07:09:26.873085+00:00"
+    "researched_at": "2026-10-30T07:11:54.769629+00:00"
   },
   {
     "title": "As we head towards the end of the year, how have your business plans worked out?",
@@ -244,7 +234,18 @@
     "matched_keywords": [
       "business"
     ],
-    "researched_at": "2026-10-29T07:09:26.873208+00:00"
+    "researched_at": "2026-10-30T07:11:54.769784+00:00"
+  },
+  {
+    "title": "A Pig, the State, and War: Porco Rosso (Kurenai No Buta) (2014)",
+    "url": "https://journal.animationstudies.org/article/id/66/",
+    "summary": " Article URL:  https://journal.animationstudies.org/article/id/66/  \n Comments URL:  https://news.ycombinator.com/item?id=50297089  \n Points: 100 \n # Comments: 23 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 1,
+    "matched_keywords": [
+      "ai"
+    ],
+    "researched_at": "2026-10-30T07:11:54.769681+00:00"
   },
   {
     "title": "📋 Entrepreneur Moderator Applications Open - Apply Now!",
@@ -253,16 +254,7 @@
     "source": "https://www.reddit.com/r/Entrepreneur/.rss",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-29T07:09:26.873184+00:00"
-  },
-  {
-    "title": "Why is this fingerprinting script creating bioweapons?",
-    "url": "https://nullpt.rs/fingerprinting-bioweapons",
-    "summary": " Article URL:  https://nullpt.rs/fingerprinting-bioweapons  \n Comments URL:  https://news.ycombinator.com/item?id=50276998  \n Points: 1062 \n # Comments: 216 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-10-29T07:09:26.873154+00:00"
+    "researched_at": "2026-10-30T07:11:54.769752+00:00"
   },
   {
     "title": "What’s a hire that went bad but taught you more than any good one?",
@@ -271,25 +263,34 @@
     "source": "https://www.reddit.com/r/Entrepreneur/.rss",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-29T07:09:26.873195+00:00"
+    "researched_at": "2026-10-30T07:11:54.769771+00:00"
   },
   {
-    "title": "The case of the 9 bit AES key",
-    "url": "https://v12.sh/blog/the-case-of-the-9bit-aes-key",
-    "summary": " Article URL:  https://v12.sh/blog/the-case-of-the-9bit-aes-key  \n Comments URL:  https://news.ycombinator.com/item?id=50280722  \n Points: 104 \n # Comments: 53 ",
+    "title": "Wasmer (YC S19) Is Hiring OS/Hypervisor Experts in Europe",
+    "url": "https://www.workatastartup.com/jobs/98722",
+    "summary": " Article URL:  https://www.workatastartup.com/jobs/98722  \n Comments URL:  https://news.ycombinator.com/item?id=50300643  \n Points: 0 \n # Comments: 0 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-29T07:09:26.873141+00:00"
+    "researched_at": "2026-10-30T07:11:54.769621+00:00"
   },
   {
-    "title": "The Milwaukee Brewers win the first World Series title in franchise history",
-    "url": "https://www.cnn.com/2026/10/28/sport/live-news/game-5-world-series",
-    "summary": " Article URL:  https://www.cnn.com/2026/10/28/sport/live-news/game-5-world-series  \n Comments URL:  https://news.ycombinator.com/item?id=50284329  \n Points: 75 \n # Comments: 41 ",
+    "title": "The Great American Rascal: Tom Sawyer at 150",
+    "url": "https://claremontreviewofbooks.com/the-great-american-rascal/",
+    "summary": " Article URL:  https://claremontreviewofbooks.com/the-great-american-rascal/  \n Comments URL:  https://news.ycombinator.com/item?id=50296947  \n Points: 63 \n # Comments: 31 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-29T07:09:26.873100+00:00"
+    "researched_at": "2026-10-30T07:11:54.769685+00:00"
+  },
+  {
+    "title": "Thankful Thursday: Free Resources and Tools | October 29, 2026",
+    "url": "https://www.reddit.com/r/Entrepreneur/comments/1xiduxx/thankful_thursday_free_resources_and_tools/",
+    "summary": "   Pay it forward. Drop your free resources, templates, tools, or anything else that&#39;s helped you and might help someone else. No strings attached; these resources have to be free.     &#32; submitted by &#32;   /u/AutoModerator       [link]   &#32;   [comments]  ",
+    "source": "https://www.reddit.com/r/Entrepreneur/.rss",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-10-30T07:11:54.769757+00:00"
   },
   {
     "title": "Talent Tuesday: Services and Collabs | October 27, 2026",
@@ -298,25 +299,25 @@
     "source": "https://www.reddit.com/r/Entrepreneur/.rss",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-29T07:09:26.873189+00:00"
+    "researched_at": "2026-10-30T07:11:54.769865+00:00"
   },
   {
-    "title": "StackOverflow now gets fewer than 1000 questions a month",
-    "url": "https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1",
-    "summary": " Article URL:  https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1  \n Comments URL:  https://news.ycombinator.com/item?id=50282454  \n Points: 303 \n # Comments: 264 ",
+    "title": "Sylphide OS: a general-purpose OS for microcontroller-based computers",
+    "url": "https://projects.freehackers.org/sylphide-os/",
+    "summary": " Article URL:  https://projects.freehackers.org/sylphide-os/  \n Comments URL:  https://news.ycombinator.com/item?id=50295868  \n Points: 57 \n # Comments: 15 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-29T07:09:26.873125+00:00"
+    "researched_at": "2026-10-30T07:11:54.769700+00:00"
   },
   {
-    "title": "Spiders Spin 'Silk Dope' into Nature's Toughest Material",
-    "url": "https://www.quantamagazine.org/how-spiders-spin-silk-dope-into-natures-toughest-material-20261028/",
-    "summary": " Article URL:  https://www.quantamagazine.org/how-spiders-spin-silk-dope-into-natures-toughest-material-20261028/  \n Comments URL:  https://news.ycombinator.com/item?id=50277755  \n Points: 58 \n # Comments: 6 ",
+    "title": "Show HN: Auto Dismiss Mac OS \"Allow <app> to find devices on local networks?\"",
+    "url": "https://github.com/johncassil/dontallow",
+    "summary": " This popup has been a constant gripe of mine for years.  I almost NEVER want to allow this permission and there is no system setting to disable it globally and prevent the popup from interrupting your typing, etc.  This tiny swift app I built will autoclose it in 1/4th of a second and leave behind a little notification that it did so.  Would love to hear feedback! \n \n Comments URL:  https://news.ycombinator.com/item?id=50294506  \n Points: 122 \n # Comments: 93 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-29T07:09:26.873149+00:00"
+    "researched_at": "2026-10-30T07:11:54.769720+00:00"
   },
   {
     "title": "RTWS - Social Media and App Tips For Entrepreneurs",
@@ -325,25 +326,16 @@
     "source": "https://www.reddit.com/r/Entrepreneur/.rss",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-29T07:09:26.873283+00:00"
+    "researched_at": "2026-10-30T07:11:54.769861+00:00"
   },
   {
-    "title": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
-    "url": "https://divagr.com/blog/qwenputer",
-    "summary": " Article URL:  https://divagr.com/blog/qwenputer  \n Comments URL:  https://news.ycombinator.com/item?id=50282838  \n Points: 323 \n # Comments: 76 ",
+    "title": "Patrick Stewart has died",
+    "url": "https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html",
+    "summary": "  https://archive.ph/y4Egm   https://en.wikipedia.org/wiki/Patrick_Stewart  \n \n Comments URL:  https://news.ycombinator.com/item?id=50294702  \n Points: 2779 \n # Comments: 588 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-29T07:09:26.873112+00:00"
-  },
-  {
-    "title": "Nango (YC W23) Is Hiring Across Eng, FDE, Marketing, DevRel",
-    "url": "https://nango.dev/careers",
-    "summary": " Article URL:  https://nango.dev/careers  \n Comments URL:  https://news.ycombinator.com/item?id=50280824  \n Points: 0 \n # Comments: 0 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-10-29T07:09:26.873137+00:00"
+    "researched_at": "2026-10-30T07:11:54.769714+00:00"
   },
   {
     "title": "Medical supplier- how to get started",
@@ -352,60 +344,69 @@
     "source": "https://www.reddit.com/r/Entrepreneur/.rss",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-29T07:09:26.873288+00:00"
+    "researched_at": "2026-10-30T07:11:54.769870+00:00"
   },
   {
-    "title": "MacBook Pro with PROLED XDR Display and Touch",
-    "url": "https://www.apple.com/macbook-pro/proled-xdr-display/",
-    "summary": "  https://www.apple.com/newsroom/2026/10/apple-unveils-groundb...  \n \n Comments URL:  https://news.ycombinator.com/item?id=50276940  \n Points: 555 \n # Comments: 942 ",
+    "title": "LLM Voice",
+    "url": "https://martinfowler.com/bliki/LLM-Voice.html",
+    "summary": " Article URL:  https://martinfowler.com/bliki/LLM-Voice.html  \n Comments URL:  https://news.ycombinator.com/item?id=50290177  \n Points: 431 \n # Comments: 221 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-29T07:09:26.873157+00:00"
+    "researched_at": "2026-10-30T07:11:54.769743+00:00"
   },
   {
-    "title": "GitLab Security Incident: Attempted Exploitation of CVE-2026-97229",
-    "url": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
-    "summary": " Article URL:  https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html  \n Comments URL:  https://news.ycombinator.com/item?id=50282544  \n Points: 149 \n # Comments: 65 ",
+    "title": "Herdr has released native app",
+    "url": "https://github.com/herdrdev/herdr-app",
+    "summary": " Article URL:  https://github.com/herdrdev/herdr-app  \n Comments URL:  https://news.ycombinator.com/item?id=50298436  \n Points: 132 \n # Comments: 82 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-29T07:09:26.873120+00:00"
+    "researched_at": "2026-10-30T07:11:54.769658+00:00"
   },
   {
-    "title": "Formlabs Studio 1 $699 Resin Printer",
-    "url": "https://formlabs.com/products/form-studio-1-basic-founders-edition/",
-    "summary": " Article URL:  https://formlabs.com/products/form-studio-1-basic-founders-edition/  \n Comments URL:  https://news.ycombinator.com/item?id=50281044  \n Points: 165 \n # Comments: 107 ",
+    "title": "H.264 Is Magic (2016)",
+    "url": "https://sidbala.com/h-264-is-magic/",
+    "summary": " Article URL:  https://sidbala.com/h-264-is-magic/  \n Comments URL:  https://news.ycombinator.com/item?id=50291054  \n Points: 388 \n # Comments: 143 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-29T07:09:26.873130+00:00"
+    "researched_at": "2026-10-30T07:11:54.769739+00:00"
   },
   {
-    "title": "CNC Stone Carving",
-    "url": "https://carmelitegothic.com/cnc-stone-carving/",
-    "summary": " Article URL:  https://carmelitegothic.com/cnc-stone-carving/  \n Comments URL:  https://news.ycombinator.com/item?id=50274409  \n Points: 453 \n # Comments: 125 ",
+    "title": "ElementaryUI – Swift, in the Browser",
+    "url": "https://elementary.codes",
+    "summary": " Article URL:  https://elementary.codes  \n Comments URL:  https://news.ycombinator.com/item?id=50295821  \n Points: 90 \n # Comments: 19 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-29T07:09:26.873171+00:00"
+    "researched_at": "2026-10-30T07:11:54.769706+00:00"
   },
   {
-    "title": "AlpineBSD",
-    "url": "https://wiki.alpinebsd.org",
-    "summary": " Article URL:  https://wiki.alpinebsd.org  \n Comments URL:  https://news.ycombinator.com/item?id=50274251  \n Points: 197 \n # Comments: 186 ",
+    "title": "Cormac McCarthy's Library",
+    "url": "https://cormacmccarthy.lib.utk.edu/",
+    "summary": " Article URL:  https://cormacmccarthy.lib.utk.edu/  \n Comments URL:  https://news.ycombinator.com/item?id=50298318  \n Points: 42 \n # Comments: 18 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-29T07:09:26.873174+00:00"
+    "researched_at": "2026-10-30T07:11:54.769665+00:00"
   },
   {
-    "title": "A Health Update",
-    "url": "https://furbo.org/2026/10/28/a-health-update/",
-    "summary": " Article URL:  https://furbo.org/2026/10/28/a-health-update/  \n Comments URL:  https://news.ycombinator.com/item?id=50280974  \n Points: 195 \n # Comments: 32 ",
+    "title": "Binance-hacker-1029 – $5.6B stolen from Binance",
+    "url": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8",
+    "summary": " Article URL:  https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8  \n Comments URL:  https://news.ycombinator.com/item?id=50296470  \n Points: 1125 \n # Comments: 676 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-29T07:09:26.873134+00:00"
+    "researched_at": "2026-10-30T07:11:54.769696+00:00"
+  },
+  {
+    "title": "A tiny world model running games on a Raspberry Pi Pico 2 W",
+    "url": "https://github.com/SheepSeb/tinyworldformer",
+    "summary": " Article URL:  https://github.com/SheepSeb/tinyworldformer  \n Comments URL:  https://news.ycombinator.com/item?id=50295450  \n Points: 187 \n # Comments: 10 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-10-30T07:11:54.769710+00:00"
   }
 ]
