@@ -1,0 +1,27 @@
+{
+  "id": "launch-hn-momentic-yc-w24-agents-that-catch-bugs-by-using-your-app",
+  "created_at": "2026-11-03T07:57:42.645164+00:00",
+  "source_title": "Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app",
+  "source_url": "https://momentic.ai/",
+  "source_feed": "https://hnrss.org/frontpage",
+  "research_score": 2,
+  "formats": {
+    "seo_article_outline": {
+      "title": "Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app",
+      "sections": [
+        "ปัญหาหรือคำถามที่ผู้อ่านต้องการคำตอบ",
+        "ข้อมูลพื้นฐานและข้อเท็จจริงที่ตรวจสอบได้",
+        "ทางเลือกหรือขั้นตอนที่ผู้อ่านนำไปใช้ได้",
+        "ข้อจำกัดและสิ่งที่ควรตรวจสอบเพิ่มเติม",
+        "สรุปและขั้นตอนถัดไป"
+      ],
+      "source_summary_for_editor": "Hey HN, we’re Wei-Wei and Jeff. We’re building Momentic, QA agents that autonomously plan, explore, and bug-bash controls and user flows in your web, iOS, Android, and (soon) desktop apps to catch bugs. Here’s a demo:  https://youtu.be/BFsM-Se1Fh8  We’re both software engineers that spent our careers on dev tooling and infra across companies like Robinhood, Retool, WeWork, and Qualtrics. Testing was always a pain in the ass (esp Playwright and Selenium), so we built agents to do it for us. Modern day software has a ton of bugs and the change failure rate is only growing faster as coding agent adoption scales. LLMs are really good at generating code, but reinforce their own assumptions, write a ton of useless tests, and are bad at visual understanding. On DeepSWE v1.1, Sonnet 5.5 hit 66.2% pass rate when banned from writing tests, versus 65.3% when allowed. OSS end-to-end testing frameworks like Playwright, Selenium, or Maestro force you to hardcode implementation details like XPath, t",
+      "source_url": "https://momentic.ai/"
+    },
+    "facebook_post": "กำลังรวบรวมข้อมูลเรื่อง: Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app\\n\\nก่อนตัดสินใจ ควรตรวจสอบแหล่งข้อมูลและเปรียบเทียบทางเลือกให้เหมาะกับความต้องการของตนเอง\\n\\nแหล่งข้อมูลสำหรับตรวจสอบ: https://momentic.ai/",
+    "short_video_script": "Hook: คุณกำลังหาข้อมูลเรื่อง Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app อยู่หรือไม่?\\n\\nเนื้อหา: เริ่มจากตรวจสอบข้อมูลต้นทาง เปรียบเทียบข้อเท็จจริงและข้อจำกัด อย่าตัดสินใจจากพาดหัวเพียงอย่างเดียว\\n\\nCTA: อ่านข้อมูลต้นทางและตรวจสอบรายละเอียดเพิ่มเติมได้ที่ https://momentic.ai/",
+    "affiliate_disclosure": "Disclosure: หากมีลิงก์ Affiliate ในฉบับเผยแพร่ ผู้จัดทำอาจได้รับค่าคอมมิชชันโดยไม่มีค่าใช้จ่ายเพิ่มสำหรับผู้ซื้อ"
+  },
+  "status": "draft_requires_human_review",
+  "first_hand_experience_claimed": false
+}

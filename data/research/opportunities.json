@@ -9,7 +9,7 @@
       "ai",
       "business"
     ],
-    "researched_at": "2026-11-02T07:43:00.887386+00:00"
+    "researched_at": "2026-11-03T07:57:42.644055+00:00"
   },
   {
     "title": "Sunday Steam: Vent It or Roast It | November 01, 2026",
@@ -21,7 +21,7 @@
       "ai",
       "business"
     ],
-    "researched_at": "2026-11-02T07:43:00.887288+00:00"
+    "researched_at": "2026-11-03T07:57:42.644007+00:00"
   },
   {
     "title": "RTWS- Did you ever run a business that failed? What industry and why did it fail?",
@@ -33,41 +33,43 @@
       "ai",
       "business"
     ],
-    "researched_at": "2026-11-02T07:43:00.887323+00:00"
+    "researched_at": "2026-11-03T07:57:42.644017+00:00"
   },
   {
-    "title": "I grew my SEO agency to €1.6M a year mostly with cold email. Here's the exact email I still send",
-    "url": "https://www.reddit.com/r/Entrepreneur/comments/1xhmxmr/i_grew_my_seo_agency_to_16m_a_year_mostly_with/",
-    "summary": "   Everyone wants a growth hack. Mine was sending a plain, slightly boring email to about 10 businesses a day (when i had the time). It&#39;s how my SEO agency got most of its clients, from €74K to €1.6M a year.   People overcomplicate cold email, so here&#39;s what I actually send.    The subject:  About [their domain] results    The email:      Hi [name],    I represent [agency]. We help companies rank higher in Google.    I looked at [domain] and there&#39;s real room to improve your positions for the keywords that matter most. Right now you&#39;re here:    As a rough guide, position 1 gets over 30% of the clicks, position 10 under 3%.    Would this be worth a look for you?     That&#39;s the whole thing. It has landed a tyre retailer (five years and counting), a dental clinic and more.    Results:  Reply rate around 25% with this message. I must be frank, the email itself is a bit more detailed than I shared here, but you get the main idea.   Last 3 years we have a revenue over 1M+",
+    "title": "Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app",
+    "url": "https://momentic.ai/",
+    "summary": " Hey HN, we’re Wei-Wei and Jeff. We’re building Momentic, QA agents that autonomously plan, explore, and bug-bash controls and user flows in your web, iOS, Android, and (soon) desktop apps to catch bugs. Here’s a demo:  https://youtu.be/BFsM-Se1Fh8  We’re both software engineers that spent our careers on dev tooling and infra across companies like Robinhood, Retool, WeWork, and Qualtrics. Testing was always a pain in the ass (esp Playwright and Selenium), so we built agents to do it for us. Modern day software has a ton of bugs and the change failure rate is only growing faster as coding agent adoption scales. LLMs are really good at generating code, but reinforce their own assumptions, write a ton of useless tests, and are bad at visual understanding. On DeepSWE v1.1, Sonnet 5.5 hit 66.2% pass rate when banned from writing tests, versus 65.3% when allowed. OSS end-to-end testing frameworks like Playwright, Selenium, or Maestro force you to hardcode implementation details like XPath, t",
+    "source": "https://hnrss.org/frontpage",
+    "score": 2,
+    "matched_keywords": [
+      "ai",
+      "software"
+    ],
+    "researched_at": "2026-11-03T07:57:42.643953+00:00"
+  },
+  {
+    "title": "I made over $100k last month. Here’s how",
+    "url": "https://www.reddit.com/r/Entrepreneur/comments/1xmek3f/i_made_over_100k_last_month_heres_how/",
+    "summary": "   After shutting my businesses down 5 years ago to focus on a health issue and spend time with family. I hit remission December of 25 and started my real estate brokerage back up in June of 26. Here’s the exact breakdown of the income made.  Brokerage  1. 15 acre land deal: Commission $38,000  2. 2 lots beach deal: Commission $25,000  3. Southport water front: Commission $20,000  4. Topsail deal: Commission $6,800  5. Air bnb deal: Commission $15,000  6. Currie deal: commission: $2,100  Total: $106,900   Consulting: $16,000  Hard money loan interest: $2,850  Section 8 rental cash flow: 13,300  STR profit: $3,100   I built my real estate business over the last 20 years while being a cop. I also had several service related businesses along the way. Here’s what I learned are the keys to being successful.       Singular focus: I wasted a ton of time chasing the shiny new trends. If I would of had a singular focus 20 years ago  I would have hit these numbers 10 years ago.     Become the be",
     "source": "https://www.reddit.com/r/Entrepreneur/.rss",
     "score": 2,
     "matched_keywords": [
       "ai",
       "business"
     ],
-    "researched_at": "2026-11-02T07:43:00.887365+00:00"
+    "researched_at": "2026-11-03T07:57:42.643987+00:00"
   },
   {
-    "title": "What is the thing that helped you push past mental barriers to be a better entrepreneur?",
-    "url": "https://www.reddit.com/r/Entrepreneur/comments/1xh4u5i/what_is_the_thing_that_helped_you_push_past/",
-    "summary": "   Meditation and journaling have been huge for me. What has helped you grow?     &#32; submitted by &#32;   /u/SAAS-Agency       [link]   &#32;   [comments]  ",
+    "title": "I have the skills, the experience, and the knowledge, yet I feel like a prisoner in a massive corporation, and I genuinely don't know how to escape.",
+    "url": "https://www.reddit.com/r/Entrepreneur/comments/1xm06go/i_have_the_skills_the_experience_and_the/",
+    "summary": "    I have the skills, the experience, and the knowledge, yet I feel like a prisoner in a massive corporation, and I genuinely don&#39;t know how to escape.    I&#39;m writing this because I&#39;ve reached a point in my life where I desperately need advice from people who have been in a similar situation, especially those who have built their own businesses or agencies.   I&#39;ve been working in the corporate world for a while now, and I feel like it&#39;s slowly destroying me. My energy, motivation, mental health, and even my ability to enjoy life have taken a serious hit. I&#39;m struggling with depression, and the thought of spending another 5, 10, or 20 years in this environment genuinely terrifies me.   The hardest part is that I know I&#39;m capable of so much more - and I think thats the core problem.   I have a diverse skill set which is (that&#39;s what I do on a daily basis)   Creative &amp; Brand Development   - Brand Development   - Creative Development   - Campaign Concep",
     "source": "https://www.reddit.com/r/Entrepreneur/.rss",
-    "score": 1,
+    "score": 2,
     "matched_keywords": [
-      "saas"
+      "ai",
+      "business"
     ],
-    "researched_at": "2026-11-02T07:43:00.887390+00:00"
-  },
-  {
-    "title": "The AI cost of JavaScript frameworks",
-    "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
-    "summary": " Article URL:  https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/  \n Comments URL:  https://news.ycombinator.com/item?id=50323088  \n Points: 350 \n # Comments: 267 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 1,
-    "matched_keywords": [
-      "ai"
-    ],
-    "researched_at": "2026-11-02T07:43:00.887257+00:00"
+    "researched_at": "2026-11-03T07:57:42.643969+00:00"
   },
   {
     "title": "Spent 3 days at SWITCH Singapore, Asia's big deep-tech and IT startup event. Here's what were the point of discussions among investors and the innovators",
@@ -78,40 +80,40 @@
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-11-02T07:43:00.887338+00:00"
+    "researched_at": "2026-11-03T07:57:42.644027+00:00"
   },
   {
-    "title": "Skin care or fragrance?",
-    "url": "https://www.reddit.com/r/Entrepreneur/comments/1xgxrd1/skin_care_or_fragrance/",
-    "summary": "   I must pick between these 2 soon.    My trademark is in both categories so it’s not an issue.    Do I start with a perfume (or be a perfume brand), or start with skin care (and eventually make a perfume soon).   There’s lots of skin care brands that also offer a perfume, so it wouldn’t totally be random.   I just feel if I pick fragrance, I might regret it and want to do skin care. At least with skin care I could always expand into fragrance.    I know both markets are saturated.    People tend to use different fragrances daily, as opposed to different moisturizers and skin care products.   I’m more passionate about sunscreen and skin care.   To launch an SPF in the US requires a higher MOQ. It’s also a drug, which is a non-issue since the manufacturer would likely help me with registering &amp; all that jazz.   So a first product would likely be a facial moisturizer. While that does sound nice; I don’t feel I’m bringing much to the market. My real differentiation would be probably ",
-    "source": "https://www.reddit.com/r/Entrepreneur/.rss",
-    "score": 1,
-    "matched_keywords": [
-      "ai"
-    ],
-    "researched_at": "2026-11-02T07:43:00.887417+00:00"
-  },
-  {
-    "title": "Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust",
-    "url": "https://github.com/ivankovic/omnidiff",
-    "summary": " I have been researching what the ultimate diff tool would look like, based on actual diffs in open source repositories. OmniDiff can diff: code (25 languages), config, images, PDFs, archives, cursors, fonts... It's fast. It can diff C++ files of tens of thousands of lines in under 100ms, on a 2023 ThinkPad T14s. It's open source. AGPLv3. It's based on real diffs. I looked at the 7400 repositories that are listed in Gentoo packages, sampled 2000 diffs and solved them manually to get a good understanding of what is needed, before putting together the diff pipelines for each content type. Incidentally, this also forms the basis of the CI pipeline, so the robustness of the codebase is quite high. I'm still developing it. It's v0.3.0 at this time. But I have been using it daily as my git difftool for months now, and it works well. AI Disclosure: Yes, I do use AI. No, I do not vibecode. \n \n Comments URL:  https://news.ycombinator.com/item?id=50325253  \n Points: 216 \n # Comments: 51 ",
+    "title": "Skill to Create Product Videos",
+    "url": "https://github.com/aaitor/skill-video-studio",
+    "summary": " Article URL:  https://github.com/aaitor/skill-video-studio  \n Comments URL:  https://news.ycombinator.com/item?id=50340992  \n Points: 97 \n # Comments: 27 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-11-02T07:43:00.887249+00:00"
+    "researched_at": "2026-11-03T07:57:42.643924+00:00"
   },
   {
-    "title": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
-    "url": "https://hackerbooks.org",
-    "summary": " Saw Karpathy's HackerTube and wanted the same thing for books. So I had Claude build one (Opus 5.5). It's ~16.5k books that at least two different HN commenters brought up, from 2007 till now. Each book links back to the comments that mentioned it. Data is downloadable from the about page. To be clear: Claude wrote almost all of it, including the data pipeline and the site. I mostly steered and made calls, bought the domain name, etc. It counts mentions, so it's not perfect (praising a book and trashing it both count). If your favourite book is missing or matched to the wrong thing, tell me. \n \n Comments URL:  https://news.ycombinator.com/item?id=50326821  \n Points: 1261 \n # Comments: 223 ",
+    "title": "Show HN: Subvocal – Talk to your computer without making noise",
+    "url": "https://news.ycombinator.com/item?id=50340088",
+    "summary": " Hi HN, we're Aarush and Arnav from The Subvocal Company (YC F26) ( https://subvocal.company/ ). We’re building smart glasses that let you talk to your computer without talking out loud. You can mouth words silently and discreetly and the glasses decode them to text at the speed of speech. Here's a video of Dave from YC trying it out:  https://www.youtube.com/watch?v=9QdX1eObVYI  (Edit: you don't actually have to move your lips or even open your mouth for this to work! Since the RF can see inside your mouth the system can be fine tuned on \"internal speech\". This isn't the automatic tongue movements that occur when \"thinking\" words to yourself, but more like mouthing with your lips closed. It's a bit weird to do, but with practice, we have been able to get it down pretty well.) Arnav and I were studying CS at Georgia Tech at the beginning of the year, with no experience in silent speech or sensing. We were both AI-native builders and power users of Wispr Flow. What bugged us was not bei",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-11-02T07:43:00.887223+00:00"
+    "researched_at": "2026-11-03T07:57:42.643942+00:00"
+  },
+  {
+    "title": "Scaling Git at OpenAI",
+    "url": "https://openai.com/index/scaling-git-at-openai/",
+    "summary": " Article URL:  https://openai.com/index/scaling-git-at-openai/  \n Comments URL:  https://news.ycombinator.com/item?id=50345924  \n Points: 187 \n # Comments: 103 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 1,
+    "matched_keywords": [
+      "ai"
+    ],
+    "researched_at": "2026-11-03T07:57:42.643899+00:00"
   },
   {
     "title": "RTWS - How I Attract and Partner with High Value Clients For Business",
@@ -122,7 +124,7 @@
     "matched_keywords": [
       "business"
     ],
-    "researched_at": "2026-11-02T07:43:00.887400+00:00"
+    "researched_at": "2026-11-03T07:57:42.644051+00:00"
   },
   {
     "title": "Paid Beta Testers Really Surprised Me",
@@ -133,18 +135,18 @@
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-11-02T07:43:00.887298+00:00"
+    "researched_at": "2026-11-03T07:57:42.643997+00:00"
   },
   {
-    "title": "OccupySaaS",
-    "url": "https://occupysaas.com/",
-    "summary": " Article URL:  https://occupysaas.com/  \n Comments URL:  https://news.ycombinator.com/item?id=50331402  \n Points: 204 \n # Comments: 133 ",
-    "source": "https://hnrss.org/frontpage",
+    "title": "Monday mentorship: ask anything | November 02, 2026",
+    "url": "https://www.reddit.com/r/Entrepreneur/comments/1xlre2j/monday_mentorship_ask_anything_november_02_2026/",
+    "summary": "   New to entrepreneurship or just starting out? This is your space. Ask the questions you&#39;re afraid to ask elsewhere.    Experienced folks, jump in and share what you wish someone had told you early on.     &#32; submitted by &#32;   /u/AutoModerator       [link]   &#32;   [comments]  ",
+    "source": "https://www.reddit.com/r/Entrepreneur/.rss",
     "score": 1,
     "matched_keywords": [
-      "saas"
+      "ai"
     ],
-    "researched_at": "2026-11-02T07:43:00.887184+00:00"
+    "researched_at": "2026-11-03T07:57:42.643961+00:00"
   },
   {
     "title": "Making good money but lost my drive.",
@@ -155,29 +157,18 @@
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-11-02T07:43:00.887307+00:00"
+    "researched_at": "2026-11-03T07:57:42.644003+00:00"
   },
   {
-    "title": "I Am the Reason OpenAI Is Killing Unlimited Chats",
-    "url": "https://chaosmanage.github.io/i-killed-unlimited-chatgpt/",
-    "summary": " Article URL:  https://chaosmanage.github.io/i-killed-unlimited-chatgpt/  \n Comments URL:  https://news.ycombinator.com/item?id=50327416  \n Points: 49 \n # Comments: 11 ",
-    "source": "https://hnrss.org/frontpage",
+    "title": "I love AI",
+    "url": "https://www.reddit.com/r/Entrepreneur/comments/1xmiwq9/i_love_ai/",
+    "summary": "   Will it be the end of humanity? Maybe. But my god is it incredible as a soloprenuer. It has saved me an unbelievable amount of busy work, made me a semi expert in a number of areas I am working on pivoting into, and has single handedly saved multiple big ticket deals I am working on with innovative deal structures and the numbers/analysis to back it up. Truly incredible.     &#32; submitted by &#32;   /u/Nightman233       [link]   &#32;   [comments]  ",
+    "source": "https://www.reddit.com/r/Entrepreneur/.rss",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-11-02T07:43:00.887207+00:00"
-  },
-  {
-    "title": "How to find a mentor or someone with experience? (UK)",
-    "url": "https://www.reddit.com/r/Entrepreneur/comments/1xgn35t/how_to_find_a_mentor_or_someone_with_experience_uk/",
-    "summary": "   I’ve started my first business (fintech) with some other seasoned Entrepreneurs. I have a few questions about what is normal and what isn’t in regard to operations and finance but don’t know anyone personally who has experience.    Looking for recommendations on how or where I could find someone who might be willing to offer guidance.      &#32; submitted by &#32;   /u/PanicStil       [link]   &#32;   [comments]  ",
-    "source": "https://www.reddit.com/r/Entrepreneur/.rss",
-    "score": 1,
-    "matched_keywords": [
-      "business"
-    ],
-    "researched_at": "2026-11-02T07:43:00.887436+00:00"
+    "researched_at": "2026-11-03T07:57:42.643991+00:00"
   },
   {
     "title": "Experts here, what is the best way to get your business mentioned on ChatGPT?",
@@ -188,29 +179,18 @@
     "matched_keywords": [
       "business"
     ],
-    "researched_at": "2026-11-02T07:43:00.887373+00:00"
+    "researched_at": "2026-11-03T07:57:42.644039+00:00"
   },
   {
-    "title": "Domain hacks with unusual Unicode characters (2018)",
-    "url": "https://shkspr.mobi/blog/2018/11/domain-hacks-with-unusual-unicode-characters/",
-    "summary": " Article URL:  https://shkspr.mobi/blog/2018/11/domain-hacks-with-unusual-unicode-characters/  \n Comments URL:  https://news.ycombinator.com/item?id=50324371  \n Points: 73 \n # Comments: 51 ",
+    "title": "Egoless Mathematics in the AI Era",
+    "url": "https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/",
+    "summary": " Article URL:  https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/  \n Comments URL:  https://news.ycombinator.com/item?id=50341736  \n Points: 154 \n # Comments: 105 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-11-02T07:43:00.887253+00:00"
-  },
-  {
-    "title": "Ask HN: Which TV do you recommend for privacy?",
-    "url": "https://news.ycombinator.com/item?id=50328896",
-    "summary": " I haven’t owned a TV in years and would like one that respects my privacy. Are there any TV’s which do this well? I am looking for something in the 60”to 80”range and would like a 4k display with at least 60hz display. I don’t mind paying a premium. I have heard good things about Apple TV as a better alternative to most smart TV native apps. Would some TV’s pair better with this than others for privacy? I don’t want the TV doing anything other than being the display for Apple TV. I am curious what success others have had. \n \n Comments URL:  https://news.ycombinator.com/item?id=50328896  \n Points: 292 \n # Comments: 453 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 1,
-    "matched_keywords": [
-      "ai"
-    ],
-    "researched_at": "2026-11-02T07:43:00.887197+00:00"
+    "researched_at": "2026-11-03T07:57:42.643912+00:00"
   },
   {
     "title": "As we head towards the end of the year, how have your business plans worked out?",
@@ -221,7 +201,7 @@
     "matched_keywords": [
       "business"
     ],
-    "researched_at": "2026-11-02T07:43:00.887380+00:00"
+    "researched_at": "2026-11-03T07:57:42.644044+00:00"
   },
   {
     "title": "Anyone here actually showing positive unit economics on an AI product after 12+ months?",
@@ -232,18 +212,7 @@
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-11-02T07:43:00.887313+00:00"
-  },
-  {
-    "title": "AI fan wikis riddled with errors are muddying the waters of games culture",
-    "url": "https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture",
-    "summary": " Article URL:  https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture  \n Comments URL:  https://news.ycombinator.com/item?id=50332086  \n Points: 78 \n # Comments: 60 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 1,
-    "matched_keywords": [
-      "ai"
-    ],
-    "researched_at": "2026-11-02T07:43:00.887167+00:00"
+    "researched_at": "2026-11-03T07:57:42.644011+00:00"
   },
   {
     "title": "📋 Entrepreneur Moderator Applications Open - Apply Now!",
@@ -252,7 +221,16 @@
     "source": "https://www.reddit.com/r/Entrepreneur/.rss",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-02T07:43:00.887282+00:00"
+    "researched_at": "2026-11-03T07:57:42.643958+00:00"
+  },
+  {
+    "title": "uBlock Origin filter to block autoplay videos in TechCrunch",
+    "url": "https://cornfieldlabs.github.io/posts/ublock-stop-techcrunch-autoplay-video/post.html",
+    "summary": " Article URL:  https://cornfieldlabs.github.io/posts/ublock-stop-techcrunch-autoplay-video/post.html  \n Comments URL:  https://news.ycombinator.com/item?id=50349155  \n Points: 10 \n # Comments: 1 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-11-03T07:57:42.643863+00:00"
   },
   {
     "title": "What’s a hire that went bad but taught you more than any good one?",
@@ -261,16 +239,34 @@
     "source": "https://www.reddit.com/r/Entrepreneur/.rss",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-02T07:43:00.887350+00:00"
+    "researched_at": "2026-11-03T07:57:42.644034+00:00"
   },
   {
-    "title": "Trigger.dev customer environment variables exposed",
-    "url": "https://trigger.dev/blog/security-incident-nov-2026",
-    "summary": " Article URL:  https://trigger.dev/blog/security-incident-nov-2026  \n Comments URL:  https://news.ycombinator.com/item?id=50331784  \n Points: 67 \n # Comments: 26 ",
+    "title": "V100 SXM2 pinout and NVLink reference",
+    "url": "https://github.com/pigeon-labs-stack/v100-sxm2-reference",
+    "summary": " Article URL:  https://github.com/pigeon-labs-stack/v100-sxm2-reference  \n Comments URL:  https://news.ycombinator.com/item?id=50344912  \n Points: 30 \n # Comments: 5 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-02T07:43:00.887176+00:00"
+    "researched_at": "2026-11-03T07:57:42.643905+00:00"
+  },
+  {
+    "title": "Ubuntu still has not released patch for Linux 0day RCE in almost 3 weeks",
+    "url": "https://freenode.net/article/ubuntu-lts-kernels-still-unfixed-for-critical-cve-2026-98432",
+    "summary": " Article URL:  https://freenode.net/article/ubuntu-lts-kernels-still-unfixed-for-critical-cve-2026-98432  \n Comments URL:  https://news.ycombinator.com/item?id=50341462  \n Points: 448 \n # Comments: 128 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-11-03T07:57:42.643915+00:00"
+  },
+  {
+    "title": "The SEC Should Block Anthropic's IPO to Protect the Public",
+    "url": "https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/",
+    "summary": " Article URL:  https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/  \n Comments URL:  https://news.ycombinator.com/item?id=50344919  \n Points: 309 \n # Comments: 233 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-11-03T07:57:42.643902+00:00"
   },
   {
     "title": "Thankful Thursday: Free Resources and Tools | October 29, 2026",
@@ -279,7 +275,7 @@
     "source": "https://www.reddit.com/r/Entrepreneur/.rss",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-02T07:43:00.887343+00:00"
+    "researched_at": "2026-11-03T07:57:42.644030+00:00"
   },
   {
     "title": "Success Saturday: What's Going Right | October 31, 2026",
@@ -288,79 +284,88 @@
     "source": "https://www.reddit.com/r/Entrepreneur/.rss",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-02T07:43:00.887318+00:00"
+    "researched_at": "2026-11-03T07:57:42.644014+00:00"
   },
   {
-    "title": "Show HN: Wikihack – HackerTube, but for Wikipedia articles mentioned on HN",
-    "url": "https://wikihack.netlify.app",
-    "summary": " After seeing Karpathy's Hackertube and Hackerbooks, I just had to make Wikihack. I scraped all mentions of wikipedia on hackernews and ranked them, and turn them into a scrollable feed to make it a bit more easy to digest / interact with. You can see where people submitted the articles and where people mentioned it in comments. The top shows the most frequently linked articles. Random is random but slightly weighted towards the more frequently linked articles (a little bit like Wikipedia actually). Rising is ranked towards the past 12 months. The entire site is served only through the frontend -- I'll add more features if people enjoy this! \n \n Comments URL:  https://news.ycombinator.com/item?id=50333339  \n Points: 49 \n # Comments: 12 ",
+    "title": "Sneaking into the auditorium for the Windows 2000 launch rehearsal",
+    "url": "https://devblogs.microsoft.com/oldnewthing/20261102-00/?p=112818/",
+    "summary": " Article URL:  https://devblogs.microsoft.com/oldnewthing/20261102-00/?p=112818/  \n Comments URL:  https://news.ycombinator.com/item?id=50341028  \n Points: 128 \n # Comments: 46 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-02T07:43:00.887150+00:00"
+    "researched_at": "2026-11-03T07:57:42.643921+00:00"
   },
   {
-    "title": "Seoul Viosys begins production of rare-earth-free white light emitter",
-    "url": "https://www.semiconductor-today.com/news_items/2026/oct/seoul-291026.shtml",
-    "summary": " Article URL:  https://www.semiconductor-today.com/news_items/2026/oct/seoul-291026.shtml  \n Comments URL:  https://news.ycombinator.com/item?id=50327058  \n Points: 166 \n # Comments: 48 ",
+    "title": "Show HN: ReBirth 338 in Browser",
+    "url": "https://margeux.com/rb338.html",
+    "summary": " Article URL:  https://margeux.com/rb338.html  \n Comments URL:  https://news.ycombinator.com/item?id=50348740  \n Points: 14 \n # Comments: 4 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-02T07:43:00.887211+00:00"
+    "researched_at": "2026-11-03T07:57:42.643868+00:00"
   },
   {
-    "title": "RTWS - Social Media and App Tips For Entrepreneurs",
-    "url": "https://www.reddit.com/r/Entrepreneur/comments/1xgtbop/rtws_social_media_and_app_tips_for_entrepreneurs/",
-    "summary": "   Magic Users, Palladins, and Bards,    As a PR agency owner, I have come across a few interesting things that could help you. Some of these might be obvious, others might be useful. Enjoy:    - On Windows, press Windows key, SHIFT button and &quot;R&quot; and you can take video recordings from your screen. This is extremely useful if you need a snippet on Youtube without sacrificing quality. As a PR agency owner, I use this to make client success stories by showing them on the news. I personally used it to make a collage of my own interviews online.    - Your FB Messenger has a folder called &quot;Message Requests.&quot; Its a spam folder for inbound messages from non friends. While you will get odd shit, you can find media requests, customer inquiries, etc as well. Check it once a week.    - You can add a link to an IG story and it will carry over to your FB story with the link intact. You cannot organically make a FB story with a working link. To do this on IG, create a story, clic",
+    "title": "Show HN: I built a little browser game to practice Vim commands",
+    "url": "https://hjkl.duy.run",
+    "summary": " I made hjkl to help myself remember Vim commands. It’s a little browser game you can play when you want to unwind and get a bit of Vim practice in. There are still a lot of commands I want to add, but I hope someone finds it useful in the meantime :) \n \n Comments URL:  https://news.ycombinator.com/item?id=50347552  \n Points: 20 \n # Comments: 12 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-11-03T07:57:42.643882+00:00"
+  },
+  {
+    "title": "Show HN: Hacker Times, a New York Times-inspired version of Hacker News",
+    "url": "https://hackertimes.ca/",
+    "summary": " I thought it would be fun to browse HN as if it were a newspaper. The site updates once an hour. Enjoy! \n \n Comments URL:  https://news.ycombinator.com/item?id=50346981  \n Points: 198 \n # Comments: 60 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-11-03T07:57:42.643892+00:00"
+  },
+  {
+    "title": "Self-Employed? Solopreneur? NIST Has a Cybersecurity Guide Just for You",
+    "url": "https://www.nist.gov/news-events/news/2026/11/self-employed-solopreneur-nist-has-cybersecurity-guide-just-you",
+    "summary": " Article URL:  https://www.nist.gov/news-events/news/2026/11/self-employed-solopreneur-nist-has-cybersecurity-guide-just-you  \n Comments URL:  https://news.ycombinator.com/item?id=50340619  \n Points: 195 \n # Comments: 54 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-11-03T07:57:42.643927+00:00"
+  },
+  {
+    "title": "SLAC researchers find proof of altermagnetism, a new magnetic phase",
+    "url": "https://www6.slac.stanford.edu/news/2026-10-29-slac-researchers-find-proof-altermagnetism-new-magnetic-phase",
+    "summary": " Article URL:  https://www6.slac.stanford.edu/news/2026-10-29-slac-researchers-find-proof-altermagnetism-new-magnetic-phase  \n Comments URL:  https://news.ycombinator.com/item?id=50344224  \n Points: 68 \n # Comments: 8 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-11-03T07:57:42.643909+00:00"
+  },
+  {
+    "title": "Polyend releases the Tracker firmware source code",
+    "url": "https://polyend.com/whats-up/tracker-the-biggest-update-yet/",
+    "summary": " Article URL:  https://polyend.com/whats-up/tracker-the-biggest-update-yet/  \n Comments URL:  https://news.ycombinator.com/item?id=50340159  \n Points: 122 \n # Comments: 38 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-11-03T07:57:42.643930+00:00"
+  },
+  {
+    "title": "Open-Source 5G Ran Platforms: A Dual Perspective on Performance and Capabilities",
+    "url": "https://arxiv.org/abs/2608.25820",
+    "summary": " Article URL:  https://arxiv.org/abs/2608.25820  \n Comments URL:  https://news.ycombinator.com/item?id=50347464  \n Points: 22 \n # Comments: 0 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-11-03T07:57:42.643885+00:00"
+  },
+  {
+    "title": "How do you develop new managers without disrupting a high performing team?",
+    "url": "https://www.reddit.com/r/Entrepreneur/comments/1xlvq4m/how_do_you_develop_new_managers_without/",
+    "summary": "   For those leading larger teams or companies, what practices have worked best when a newly promoted manager or outside hire starts reporting to you?   How do you give them room to develop their own leadership style while still protecting the culture and performance that already exists?   How often are you coaching them, reviewing performance, or stepping in when their decisions start affecting the team?   I’d like to hear what’s actually worked for people managing at this scale.     &#32; submitted by &#32;   /u/CleanOpsGuide       [link]   &#32;   [comments]  ",
     "source": "https://www.reddit.com/r/Entrepreneur/.rss",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-02T07:43:00.887427+00:00"
-  },
-  {
-    "title": "Proving and improving the Platonic Representation Hypothesis with JEPAs",
-    "url": "https://arxiv.org/abs/2610.39302",
-    "summary": " Article URL:  https://arxiv.org/abs/2610.39302  \n Comments URL:  https://news.ycombinator.com/item?id=50325454  \n Points: 132 \n # Comments: 67 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-11-02T07:43:00.887233+00:00"
-  },
-  {
-    "title": "Mystery of 60-Second Fluctuations in Power Grids Solved",
-    "url": "https://www.fz-juelich.de/en/news/archive/press-release/2026/mystery-of-60-second-fluctuations-in-power-grids-solved",
-    "summary": " Article URL:  https://www.fz-juelich.de/en/news/archive/press-release/2026/mystery-of-60-second-fluctuations-in-power-grids-solved  \n Comments URL:  https://news.ycombinator.com/item?id=50315217  \n Points: 94 \n # Comments: 38 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-11-02T07:43:00.887276+00:00"
-  },
-  {
-    "title": "Mathematics has changed. Let's act like it",
-    "url": "https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/",
-    "summary": " Article URL:  https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/  \n Comments URL:  https://news.ycombinator.com/item?id=50328251  \n Points: 285 \n # Comments: 301 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-11-02T07:43:00.887202+00:00"
-  },
-  {
-    "title": "Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case",
-    "url": "https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/",
-    "summary": " Article URL:  https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/  \n Comments URL:  https://news.ycombinator.com/item?id=50326099  \n Points: 457 \n # Comments: 157 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-11-02T07:43:00.887228+00:00"
-  },
-  {
-    "title": "HackerTube: YouTube built from videos recommended by HN",
-    "url": "https://karpathy.bearblog.dev/hacker-tube/",
-    "summary": " YouTube-style UI over 6,454 videos sourced from 39,834 HN comments since 2007.  https://hackertube.org/  \n \n Comments URL:  https://news.ycombinator.com/item?id=50319510  \n Points: 2480 \n # Comments: 555 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-11-02T07:43:00.887271+00:00"
+    "researched_at": "2026-11-03T07:57:42.643977+00:00"
   },
   {
     "title": "Feedback Friday: Rate My Ideas | October 30, 2026",
@@ -369,42 +374,33 @@
     "source": "https://www.reddit.com/r/Entrepreneur/.rss",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-02T07:43:00.887329+00:00"
+    "researched_at": "2026-11-03T07:57:42.644021+00:00"
   },
   {
-    "title": "F/OSS Comics #13: BSD Unix, Part 3 – The Beginning of BSD Unix",
-    "url": "https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/",
-    "summary": " Article URL:  https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/  \n Comments URL:  https://news.ycombinator.com/item?id=50332163  \n Points: 87 \n # Comments: 8 ",
+    "title": "DiscImageStudio: burn visible artwork onto CDs, DVDs and Blu-ray discs",
+    "url": "https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio",
+    "summary": " Article URL:  https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio  \n Comments URL:  https://news.ycombinator.com/item?id=50346849  \n Points: 154 \n # Comments: 35 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-02T07:43:00.887160+00:00"
+    "researched_at": "2026-11-03T07:57:42.643896+00:00"
   },
   {
-    "title": "Bones may release proteins that slow aging and extend life span",
-    "url": "https://www.science.org/content/article/bones-may-release-proteins-slow-aging-and-extend-life-span",
-    "summary": " Article URL:  https://www.science.org/content/article/bones-may-release-proteins-slow-aging-and-extend-life-span  \n Comments URL:  https://news.ycombinator.com/item?id=50331957  \n Points: 35 \n # Comments: 3 ",
+    "title": "Cloudflare experiencing multiple active incidents",
+    "url": "https://www.cloudflarestatus.com/",
+    "summary": " Article URL:  https://www.cloudflarestatus.com/  \n Comments URL:  https://news.ycombinator.com/item?id=50348260  \n Points: 31 \n # Comments: 4 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-02T07:43:00.887172+00:00"
+    "researched_at": "2026-11-03T07:57:42.643871+00:00"
   },
   {
-    "title": "Bidirectional charging during grid outages",
-    "url": "https://www.jefftk.com/p/bidirectional-charging-during-grid-outages",
-    "summary": " Article URL:  https://www.jefftk.com/p/bidirectional-charging-during-grid-outages  \n Comments URL:  https://news.ycombinator.com/item?id=50319749  \n Points: 98 \n # Comments: 145 ",
+    "title": "Astra can read and write weights to improve Qwen",
+    "url": "https://rikiyat.github.io/blog/weight-space-programming/",
+    "summary": " Article URL:  https://rikiyat.github.io/blog/weight-space-programming/  \n Comments URL:  https://news.ycombinator.com/item?id=50341174  \n Points: 2455 \n # Comments: 769 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-02T07:43:00.887267+00:00"
-  },
-  {
-    "title": "An Italian farmer found some unknown seeds in his attic and planted them",
-    "url": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
-    "summary": " Article URL:  https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/  \n Comments URL:  https://news.ycombinator.com/item?id=50320963  \n Points: 795 \n # Comments: 203 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-11-02T07:43:00.887263+00:00"
+    "researched_at": "2026-11-03T07:57:42.643919+00:00"
   }
 ]
