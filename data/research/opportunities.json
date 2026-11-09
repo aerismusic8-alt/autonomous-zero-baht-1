@@ -9,19 +9,19 @@
       "ai",
       "business"
     ],
-    "researched_at": "2026-11-08T07:25:31.933273+00:00"
+    "researched_at": "2026-11-09T08:00:17.067682+00:00"
   },
   {
-    "title": "The end of Microsoft Research's AI Frontiers group",
-    "url": "https://hunch.net/?p=13764006",
-    "summary": "  https://archive.is/AaY5O   https://businessexaminer.ca/victoria-articles/item/microsoft...  \n \n Comments URL:  https://news.ycombinator.com/item?id=50406563  \n Points: 439 \n # Comments: 261 ",
-    "source": "https://hnrss.org/frontpage",
+    "title": "Sunday Steam: Vent It or Roast It | November 08, 2026",
+    "url": "https://www.reddit.com/r/Entrepreneur/comments/1xqt7yz/sunday_steam_vent_it_or_roast_it_november_08_2026/",
+    "summary": "   Had a week? Same. This is your consequence-free space to complain about clients, platforms, algorithms, your own decisions, or the general chaos of running a business. Keep it venting with no personal attacks. We&#39;ll be back to being professional tomorrow.     &#32; submitted by &#32;   /u/AutoModerator       [link]   &#32;   [comments]  ",
+    "source": "https://www.reddit.com/r/Entrepreneur/.rss",
     "score": 2,
     "matched_keywords": [
       "ai",
       "business"
     ],
-    "researched_at": "2026-11-08T07:25:31.933152+00:00"
+    "researched_at": "2026-11-09T08:00:17.067603+00:00"
   },
   {
     "title": "Possible To Get An Investor For A Start-up When I've Never Been In That Industry?",
@@ -33,7 +33,7 @@
       "ai",
       "business"
     ],
-    "researched_at": "2026-11-08T07:25:31.933226+00:00"
+    "researched_at": "2026-11-09T08:00:17.067641+00:00"
   },
   {
     "title": "I made over $100k last month. Here’s how",
@@ -45,7 +45,7 @@
       "ai",
       "business"
     ],
-    "researched_at": "2026-11-08T07:25:31.933346+00:00"
+    "researched_at": "2026-11-09T08:00:17.067767+00:00"
   },
   {
     "title": "I have the skills, the experience, and the knowledge, yet I feel like a prisoner in a massive corporation, and I genuinely don't know how to escape.",
@@ -57,7 +57,7 @@
       "ai",
       "business"
     ],
-    "researched_at": "2026-11-08T07:25:31.933310+00:00"
+    "researched_at": "2026-11-09T08:00:17.067725+00:00"
   },
   {
     "title": "Have you ever ended things with a contractor just...because?",
@@ -69,7 +69,7 @@
       "ai",
       "software"
     ],
-    "researched_at": "2026-11-08T07:25:31.933211+00:00"
+    "researched_at": "2026-11-09T08:00:17.067613+00:00"
   },
   {
     "title": "Does anyone run a community/network business?",
@@ -81,18 +81,7 @@
       "ai",
       "business"
     ],
-    "researched_at": "2026-11-08T07:25:31.933263+00:00"
-  },
-  {
-    "title": "Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller",
-    "url": "https://github.com/hedgerow-dev/coldframe",
-    "summary": " I built Coldframe, a honeypot that pretends to be a supermarket refrigeration controller. Inspired by the events on industrial fridge installations in the past weeks, I wanted to see what people would try against a convincing fake. To learn more about this I built a honeypot that resembled perfectly the Danfoss AK-SM 800A and Dixell XWEB interfaces. Both of them are recognized on Shodan as real ones (an not as honeypots). It’s one Python file using only the standard library, and it builds on eppser/danfoss-ak-sm-decoy and public research by Synacktiv, Claroty and Ironhackers. Things that were fun to get right: - Matching real units. I used Shodan records of real devices to match header order, page titles, certificate fields and TLS versions. The Danfoss persona sends nginx headers in the same order as a real AK-SM 800A. The Dixell persona sends no Server header and pads its page to exactly 8,202 bytes. - Recognising exploit attempts. It recognises CVE-2025-41450, the Danfoss “code of ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 1,
-    "matched_keywords": [
-      "ai"
-    ],
-    "researched_at": "2026-11-08T07:25:31.933173+00:00"
+    "researched_at": "2026-11-09T08:00:17.067669+00:00"
   },
   {
     "title": "Paid Beta Testers Really Surprised Me",
@@ -103,7 +92,7 @@
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-11-08T07:25:31.933334+00:00"
+    "researched_at": "2026-11-09T08:00:17.067753+00:00"
   },
   {
     "title": "Most startups don't fall at building, they generally fail at/after launching. Notes from a conversation with Google Product Launch specialist at their office in Singapore",
@@ -114,7 +103,7 @@
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-11-08T07:25:31.933252+00:00"
+    "researched_at": "2026-11-09T08:00:17.067656+00:00"
   },
   {
     "title": "Monday mentorship: ask anything | November 02, 2026",
@@ -125,29 +114,7 @@
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-11-08T07:25:31.933322+00:00"
-  },
-  {
-    "title": "MaxxBench – \"Nice DeepSWE score. But is it true?\"",
-    "url": "https://maxxbench.unlap.ai/research/why-maxxbench/",
-    "summary": " Article URL:  https://maxxbench.unlap.ai/research/why-maxxbench/  \n Comments URL:  https://news.ycombinator.com/item?id=50406222  \n Points: 275 \n # Comments: 74 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 1,
-    "matched_keywords": [
-      "ai"
-    ],
-    "researched_at": "2026-11-08T07:25:31.933178+00:00"
-  },
-  {
-    "title": "Making good money but lost my drive.",
-    "url": "https://www.reddit.com/r/Entrepreneur/comments/1xkpm9i/making_good_money_but_lost_my_drive/",
-    "summary": "   I&#39;ve always been quite disciplined, but this last month has been brutal.   I&#39;m 23 and I make about 12-15k/month making YouTube videos. Not AI slop or shorts, fully original long-form content. My videos do extra-ordinarily well and I genuinely believe I have potential to get very rich and successful via this avenue. It&#39;s not great money compared to many of the others here (yet) but it feels very good to make more than anyone in my family with so much flexibility and freedom.   But over this last month, I have had 0 motivation to work on these videos. I&#39;ve tried to. I&#39;ve made like 4-5 videos halfway through before scrapping them because I lose all motivation.   I am seriously disciplined and motivated on EVERYTHING else in my life, though this does feel like a lack of discipline.   I&#39;ve also been distracting myself with a completely separate project that definitely has a lot of potential to make me a lot of money (feel insanely motivated and passionate about it",
-    "source": "https://www.reddit.com/r/Entrepreneur/.rss",
-    "score": 1,
-    "matched_keywords": [
-      "ai"
-    ],
-    "researched_at": "2026-11-08T07:25:31.933353+00:00"
+    "researched_at": "2026-11-09T08:00:17.067740+00:00"
   },
   {
     "title": "I love AI",
@@ -158,40 +125,7 @@
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-11-08T07:25:31.933327+00:00"
-  },
-  {
-    "title": "Goodbye Claude, Hello Pi",
-    "url": "https://caleb.software/posts/claude-to-pi.html",
-    "summary": " Article URL:  https://caleb.software/posts/claude-to-pi.html  \n Comments URL:  https://news.ycombinator.com/item?id=50410107  \n Points: 157 \n # Comments: 91 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 1,
-    "matched_keywords": [
-      "software"
-    ],
-    "researched_at": "2026-11-08T07:25:31.933108+00:00"
-  },
-  {
-    "title": "Consumer brain wave headsets threaten privacy",
-    "url": "https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users?referrer=https%3A%2F%2Fwww.google.com%2F",
-    "summary": " Article URL:  https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users?referrer=https%3A%2F%2Fwww.google.com%2F  \n Comments URL:  https://news.ycombinator.com/item?id=50409856  \n Points: 25 \n # Comments: 6 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 1,
-    "matched_keywords": [
-      "ai"
-    ],
-    "researched_at": "2026-11-08T07:25:31.933113+00:00"
-  },
-  {
-    "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
-    "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
-    "summary": " Article URL:  https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again  \n Comments URL:  https://news.ycombinator.com/item?id=50407882  \n Points: 329 \n # Comments: 224 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 1,
-    "matched_keywords": [
-      "ai"
-    ],
-    "researched_at": "2026-11-08T07:25:31.933145+00:00"
+    "researched_at": "2026-11-09T08:00:17.067745+00:00"
   },
   {
     "title": "Business which can be relocated -or done remotely- usa",
@@ -202,7 +136,7 @@
     "matched_keywords": [
       "business"
     ],
-    "researched_at": "2026-11-08T07:25:31.933218+00:00"
+    "researched_at": "2026-11-09T08:00:17.067629+00:00"
   },
   {
     "title": "📋 Entrepreneur Moderator Applications Open - Apply Now!",
@@ -211,34 +145,7 @@
     "source": "https://www.reddit.com/r/Entrepreneur/.rss",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-08T07:25:31.933199+00:00"
-  },
-  {
-    "title": "ZapFast: A fast, native WhatsApp client in Rust and egui",
-    "url": "https://github.com/crmne/zapfast",
-    "summary": " Article URL:  https://github.com/crmne/zapfast  \n Comments URL:  https://news.ycombinator.com/item?id=50409855  \n Points: 53 \n # Comments: 34 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-11-08T07:25:31.933117+00:00"
-  },
-  {
-    "title": "What I run on my $10 USD OpenStick homelab",
-    "url": "https://blog.bosscher.ch/posts/openstick/",
-    "summary": " Article URL:  https://blog.bosscher.ch/posts/openstick/  \n Comments URL:  https://news.ycombinator.com/item?id=50406670  \n Points: 514 \n # Comments: 99 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-11-08T07:25:31.933149+00:00"
-  },
-  {
-    "title": "The $8 Linux Computer (2022)",
-    "url": "http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html",
-    "summary": " Article URL:  http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html  \n Comments URL:  https://news.ycombinator.com/item?id=50404599  \n Points: 220 \n # Comments: 87 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-11-08T07:25:31.933194+00:00"
+    "researched_at": "2026-11-09T08:00:17.067593+00:00"
   },
   {
     "title": "Thankful Thursday: Free Resources and Tools | November 05, 2026",
@@ -247,7 +154,7 @@
     "source": "https://www.reddit.com/r/Entrepreneur/.rss",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-08T07:25:31.933256+00:00"
+    "researched_at": "2026-11-09T08:00:17.067661+00:00"
   },
   {
     "title": "Talent Tuesday: Services and Collabs | November 03, 2026",
@@ -256,7 +163,7 @@
     "source": "https://www.reddit.com/r/Entrepreneur/.rss",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-08T07:25:31.933301+00:00"
+    "researched_at": "2026-11-09T08:00:17.067715+00:00"
   },
   {
     "title": "Success Saturday: What's Going Right | November 07, 2026",
@@ -265,52 +172,7 @@
     "source": "https://www.reddit.com/r/Entrepreneur/.rss",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-08T07:25:31.933203+00:00"
-  },
-  {
-    "title": "Retro Song Bird: Plug in any Game Boy cartridge to hear the soundtrack",
-    "url": "https://www.retrosongbird.com/",
-    "summary": " Article URL:  https://www.retrosongbird.com/  \n Comments URL:  https://news.ycombinator.com/item?id=50405172  \n Points: 65 \n # Comments: 16 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-11-08T07:25:31.933191+00:00"
-  },
-  {
-    "title": "Making any integer with four 2s (2025)",
-    "url": "https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/",
-    "summary": " Article URL:  https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/  \n Comments URL:  https://news.ycombinator.com/item?id=50408713  \n Points: 109 \n # Comments: 27 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-11-08T07:25:31.933142+00:00"
-  },
-  {
-    "title": "Kirlian Photography: Building Your Own Equipment",
-    "url": "https://imagesco.com/articles/kirlian/kirlian-photography.html",
-    "summary": " Article URL:  https://imagesco.com/articles/kirlian/kirlian-photography.html  \n Comments URL:  https://news.ycombinator.com/item?id=50410359  \n Points: 22 \n # Comments: 2 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-11-08T07:25:31.933097+00:00"
-  },
-  {
-    "title": "ISponsorBlockTV: SponsorBlock client for all YouTube TV clients",
-    "url": "https://github.com/dmunozv04/isponsorblocktv",
-    "summary": " Article URL:  https://github.com/dmunozv04/isponsorblocktv  \n Comments URL:  https://news.ycombinator.com/item?id=50410249  \n Points: 11 \n # Comments: 0 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-11-08T07:25:31.933104+00:00"
-  },
-  {
-    "title": "IRA Velinsky – Commodore's Industrial Designer",
-    "url": "https://www.commodore.ca/commodore-history/ira-velinsky-commodores-amazing-industrial-designer/",
-    "summary": " Article URL:  https://www.commodore.ca/commodore-history/ira-velinsky-commodores-amazing-industrial-designer/  \n Comments URL:  https://news.ycombinator.com/item?id=50408750  \n Points: 28 \n # Comments: 1 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-11-08T07:25:31.933138+00:00"
+    "researched_at": "2026-11-09T08:00:17.067618+00:00"
   },
   {
     "title": "How to stop obsessing over analytics/metrics",
@@ -319,7 +181,7 @@
     "source": "https://www.reddit.com/r/Entrepreneur/.rss",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-08T07:25:31.933284+00:00"
+    "researched_at": "2026-11-09T08:00:17.067695+00:00"
   },
   {
     "title": "How to be taken seriously as a start up meeting with a manufacturer",
@@ -328,7 +190,7 @@
     "source": "https://www.reddit.com/r/Entrepreneur/.rss",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-08T07:25:31.933297+00:00"
+    "researched_at": "2026-11-09T08:00:17.067710+00:00"
   },
   {
     "title": "How do you develop new managers without disrupting a high performing team?",
@@ -337,34 +199,7 @@
     "source": "https://www.reddit.com/r/Entrepreneur/.rss",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-08T07:25:31.933318+00:00"
-  },
-  {
-    "title": "GitHub New pull request overview page in public preview",
-    "url": "https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/",
-    "summary": " Article URL:  https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/  \n Comments URL:  https://news.ycombinator.com/item?id=50408931  \n Points: 116 \n # Comments: 81 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-11-08T07:25:31.933133+00:00"
-  },
-  {
-    "title": "GeoWorks, Microsoft Windows' Upstart '90s Competitor (2016)",
-    "url": "https://www.atlasobscura.com/articles/the-history-of-geoworks-microsoft-windows-upstart-90s-competitor",
-    "summary": " Article URL:  https://www.atlasobscura.com/articles/the-history-of-geoworks-microsoft-windows-upstart-90s-competitor  \n Comments URL:  https://news.ycombinator.com/item?id=50406502  \n Points: 56 \n # Comments: 20 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-11-08T07:25:31.933156+00:00"
-  },
-  {
-    "title": "Five memorable books about programming (2008)",
-    "url": "https://prog21.dadgum.com/19.html",
-    "summary": " Article URL:  https://prog21.dadgum.com/19.html  \n Comments URL:  https://news.ycombinator.com/item?id=50406319  \n Points: 107 \n # Comments: 66 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-11-08T07:25:31.933160+00:00"
+    "researched_at": "2026-11-09T08:00:17.067735+00:00"
   },
   {
     "title": "Feedback Friday: Rate My Ideas | November 06, 2026",
@@ -373,33 +208,6 @@
     "source": "https://www.reddit.com/r/Entrepreneur/.rss",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-08T07:25:31.933231+00:00"
-  },
-  {
-    "title": "Every processor die anyone has photographed and given away",
-    "url": "https://sheets.works/data-viz/cpu-dies",
-    "summary": " Article URL:  https://sheets.works/data-viz/cpu-dies  \n Comments URL:  https://news.ycombinator.com/item?id=50405782  \n Points: 108 \n # Comments: 18 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-11-08T07:25:31.933188+00:00"
-  },
-  {
-    "title": "Commodore PET – The Worlds First Personal Computer",
-    "url": "https://www.commodore.ca/commodore-products/commodore-pet-the-worlds-first-personal-computer/",
-    "summary": " Article URL:  https://www.commodore.ca/commodore-products/commodore-pet-the-worlds-first-personal-computer/  \n Comments URL:  https://news.ycombinator.com/item?id=50408961  \n Points: 44 \n # Comments: 15 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-11-08T07:25:31.933128+00:00"
-  },
-  {
-    "title": "Apple’s grey list: Words and phrases your iPhone won’t help you spell",
-    "url": "https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you",
-    "summary": " Article URL:  https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you  \n Comments URL:  https://news.ycombinator.com/item?id=50406111  \n Points: 436 \n # Comments: 282 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-11-08T07:25:31.933184+00:00"
+    "researched_at": "2026-11-09T08:00:17.067648+00:00"
   }
 ]
