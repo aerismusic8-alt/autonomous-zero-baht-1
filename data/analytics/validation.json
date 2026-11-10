@@ -1,5 +1,15 @@
 [
   {
+    "path": "data/content/drafts/my-experience-vibe-coding-9-apps.json",
+    "passed": true,
+    "errors": []
+  },
+  {
+    "path": "data/content/drafts/ai-made-building-cheap-running-it-isn-t-how-are-you-pricing-your-ai-features.json",
+    "passed": true,
+    "errors": []
+  },
+  {
     "path": "data/content/drafts/would-you-use-a-platform-that-connects-your-business-with-vetted-human-consultan.json",
     "passed": true,
     "errors": []
@@ -10,17 +20,7 @@
     "errors": []
   },
   {
-    "path": "data/content/drafts/possible-to-get-an-investor-for-a-start-up-when-i-ve-never-been-in-that-industry.json",
-    "passed": true,
-    "errors": []
-  },
-  {
-    "path": "data/content/drafts/i-made-over-100k-last-month-here-s-how.json",
-    "passed": true,
-    "errors": []
-  },
-  {
-    "path": "data/content/drafts/i-have-the-skills-the-experience-and-the-knowledge-yet-i-feel-like-a-prisoner-in.json",
+    "path": "data/content/drafts/show-hn-meowdisplay-is-iphone-mirroring-but-in-reverse.json",
     "passed": true,
     "errors": []
   }
