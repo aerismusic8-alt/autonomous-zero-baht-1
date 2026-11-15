@@ -10,17 +10,17 @@
     "errors": []
   },
   {
-    "path": "data/content/drafts/sunday-steam-vent-it-or-roast-it-november-08-2026.json",
-    "passed": true,
-    "errors": []
-  },
-  {
     "path": "data/content/drafts/professional-services-firm-on-the-edge-of-needing-employees.json",
     "passed": true,
     "errors": []
   },
   {
     "path": "data/content/drafts/keep-alternating-between-wanting-to-fight-for-my-life-and-throw-in-the-towel-ent.json",
+    "passed": true,
+    "errors": []
+  },
+  {
+    "path": "data/content/drafts/how-do-you-decide-a-marketing-channel-has-failed-before-you-ve-spent-forever-try.json",
     "passed": true,
     "errors": []
   }
