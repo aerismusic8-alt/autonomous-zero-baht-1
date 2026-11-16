@@ -10,7 +10,7 @@
       "software",
       "saas"
     ],
-    "researched_at": "2026-11-15T07:53:55.825074+00:00"
+    "researched_at": "2026-11-16T08:01:38.411965+00:00"
   },
   {
     "title": "What Is More Challenging: Zero to One or One to Hundred? Entrepreneurs, I would love to hear your thoughts on this.",
@@ -22,7 +22,19 @@
       "ai",
       "business"
     ],
-    "researched_at": "2026-11-15T07:53:55.825062+00:00"
+    "researched_at": "2026-11-16T08:01:38.411952+00:00"
+  },
+  {
+    "title": "Sunday Steam: Vent It or Roast It | November 15, 2026",
+    "url": "https://www.reddit.com/r/Entrepreneur/comments/1xwpxu9/sunday_steam_vent_it_or_roast_it_november_15_2026/",
+    "summary": "   Had a week? Same. This is your consequence-free space to complain about clients, platforms, algorithms, your own decisions, or the general chaos of running a business. Keep it venting with no personal attacks. We&#39;ll be back to being professional tomorrow.     &#32; submitted by &#32;   /u/AutoModerator       [link]   &#32;   [comments]  ",
+    "source": "https://www.reddit.com/r/Entrepreneur/.rss",
+    "score": 2,
+    "matched_keywords": [
+      "ai",
+      "business"
+    ],
+    "researched_at": "2026-11-16T08:01:38.411846+00:00"
   },
   {
     "title": "Professional Services firm on the edge of needing employees",
@@ -34,7 +46,7 @@
       "automation",
       "business"
     ],
-    "researched_at": "2026-11-15T07:53:55.825035+00:00"
+    "researched_at": "2026-11-16T08:01:38.411923+00:00"
   },
   {
     "title": "Keep alternating between wanting to fight for my life and throw in the towel entirely",
@@ -46,7 +58,7 @@
       "ai",
       "business"
     ],
-    "researched_at": "2026-11-15T07:53:55.825068+00:00"
+    "researched_at": "2026-11-16T08:01:38.411958+00:00"
   },
   {
     "title": "How do you decide a marketing channel has failed before you’ve spent forever trying to make it work?",
@@ -58,7 +70,7 @@
       "ai",
       "business"
     ],
-    "researched_at": "2026-11-15T07:53:55.825047+00:00"
+    "researched_at": "2026-11-16T08:01:38.411935+00:00"
   },
   {
     "title": "Defending your numbers",
@@ -70,7 +82,7 @@
       "ai",
       "business"
     ],
-    "researched_at": "2026-11-15T07:53:55.824978+00:00"
+    "researched_at": "2026-11-16T08:01:38.411857+00:00"
   },
   {
     "title": "Consulted a SaaS founder who was burning out. The problem wasn’t his workload.",
@@ -82,7 +94,18 @@
       "ai",
       "saas"
     ],
-    "researched_at": "2026-11-15T07:53:55.824997+00:00"
+    "researched_at": "2026-11-16T08:01:38.411882+00:00"
+  },
+  {
+    "title": "WebGL Flight Simulator with seed generated terrain",
+    "url": "https://baron.by.dai.studio/",
+    "summary": " Article URL:  https://baron.by.dai.studio/  \n Comments URL:  https://news.ycombinator.com/item?id=50510296  \n Points: 127 \n # Comments: 23 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 1,
+    "matched_keywords": [
+      "ai"
+    ],
+    "researched_at": "2026-11-16T08:01:38.411773+00:00"
   },
   {
     "title": "Trying to Scale Past 1 Million in Revenue - Physical Product Marketing/Branding",
@@ -93,7 +116,18 @@
     "matched_keywords": [
       "business"
     ],
-    "researched_at": "2026-11-15T07:53:55.824985+00:00"
+    "researched_at": "2026-11-16T08:01:38.411870+00:00"
+  },
+  {
+    "title": "Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack",
+    "url": "https://forum.torproject.org/t/security-release-0-4-9-17/22454",
+    "summary": " Article URL:  https://forum.torproject.org/t/security-release-0-4-9-17/22454  \n Comments URL:  https://news.ycombinator.com/item?id=50512441  \n Points: 128 \n # Comments: 30 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 1,
+    "matched_keywords": [
+      "ai"
+    ],
+    "researched_at": "2026-11-16T08:01:38.411751+00:00"
   },
   {
     "title": "The biggest breakthroughs in your business won't be \"big bang\" events, they will be small and incremental.",
@@ -104,7 +138,7 @@
     "matched_keywords": [
       "business"
     ],
-    "researched_at": "2026-11-15T07:53:55.825052+00:00"
+    "researched_at": "2026-11-16T08:01:38.411941+00:00"
   },
   {
     "title": "Suddenly I’m not scared anymore",
@@ -115,7 +149,7 @@
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-11-15T07:53:55.825019+00:00"
+    "researched_at": "2026-11-16T08:01:38.411905+00:00"
   },
   {
     "title": "Successful entrepenuers, what is your AI stack looking like as the year is coming to the end?",
@@ -126,84 +160,29 @@
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-11-15T07:53:55.825056+00:00"
+    "researched_at": "2026-11-16T08:01:38.411945+00:00"
   },
   {
-    "title": "Show HN: Gawain – Require type hints on all Python variables",
-    "url": "https://github.com/matheuzgomes/gawain",
-    "summary": " Yes, i really hate \"dict[str, ANY]\" \n \n Comments URL:  https://news.ycombinator.com/item?id=50504072  \n Points: 34 \n # Comments: 12 ",
+    "title": "Qwen4-Max",
+    "url": "https://qwen.ai/blog?id=qwen4-max",
+    "summary": " Article URL:  https://qwen.ai/blog?id=qwen4-max  \n Comments URL:  https://news.ycombinator.com/item?id=50513215  \n Points: 408 \n # Comments: 149 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-11-15T07:53:55.824887+00:00"
+    "researched_at": "2026-11-16T08:01:38.411736+00:00"
   },
   {
-    "title": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
-    "url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
-    "summary": " Article URL:  https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax  \n Comments URL:  https://news.ycombinator.com/item?id=50497589  \n Points: 223 \n # Comments: 21 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 1,
-    "matched_keywords": [
-      "ai"
-    ],
-    "researched_at": "2026-11-15T07:53:55.824931+00:00"
-  },
-  {
-    "title": "Show HN: A terminal-native idle factory game, written in Rust with ratatui",
-    "url": "https://gitlab.com/snipedbywifi/terminactory",
-    "summary": " Hey HN readers! I'm snipedbywifi ( https://gitlab.com/snipedbywifi ), and i've been working on terminactory. Please try it out if you'd like to play a cozy factory game while waiting for long agent tasks to finish! The game is a factory game (overused niche, i know xD), but runs in your terminal. Reason i built it? glad you asked: So basically, it started off with me wanting a terminal-native factory game. Me and the modern 5.5 claude models made a base for the game that I liked, and then i went ham adding features / fixing some minor flaws (like adding claude code hooks so you recieve \"telegrams\" [the agent's responses], so you can review progress directly in-game). (yes, I had heavy AI assistance, disclaimer!!!) Right now, the game has basic factory features you'd expect from a game like this (build stuff, delete stuff, measure how much you're earning, basic selection tools), along with a few more.. \"unexpected\" features. This includes a fake in-game browser that has a wiki, fake fo",
-    "source": "https://hnrss.org/frontpage",
-    "score": 1,
-    "matched_keywords": [
-      "ai"
-    ],
-    "researched_at": "2026-11-15T07:53:55.824940+00:00"
-  },
-  {
-    "title": "Show HN: A custom font based on the Jamaican flag alphabet",
-    "url": "https://bobbiec.github.io/jamaican-font.html",
-    "summary": " Article URL:  https://bobbiec.github.io/jamaican-font.html  \n Comments URL:  https://news.ycombinator.com/item?id=50502839  \n Points: 29 \n # Comments: 5 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 1,
-    "matched_keywords": [
-      "ai"
-    ],
-    "researched_at": "2026-11-15T07:53:55.824912+00:00"
-  },
-  {
-    "title": "Monday mentorship: ask anything | November 09, 2026",
-    "url": "https://www.reddit.com/r/Entrepreneur/comments/1xrlyds/monday_mentorship_ask_anything_november_09_2026/",
+    "title": "Monday mentorship: ask anything | November 16, 2026",
+    "url": "https://www.reddit.com/r/Entrepreneur/comments/1xxjr28/monday_mentorship_ask_anything_november_16_2026/",
     "summary": "   New to entrepreneurship or just starting out? This is your space. Ask the questions you&#39;re afraid to ask elsewhere.    Experienced folks, jump in and share what you wish someone had told you early on.     &#32; submitted by &#32;   /u/AutoModerator       [link]   &#32;   [comments]  ",
     "source": "https://www.reddit.com/r/Entrepreneur/.rss",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-11-15T07:53:55.825093+00:00"
-  },
-  {
-    "title": "Lovable apps expose passport details and more than 200K private messages",
-    "url": "https://www.crissyfield.de/research/lovable-en/",
-    "summary": " Article URL:  https://www.crissyfield.de/research/lovable-en/  \n Comments URL:  https://news.ycombinator.com/item?id=50499017  \n Points: 767 \n # Comments: 305 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 1,
-    "matched_keywords": [
-      "ai"
-    ],
-    "researched_at": "2026-11-15T07:53:55.824925+00:00"
-  },
-  {
-    "title": "How do I land a startup internship this spring?",
-    "url": "https://www.reddit.com/r/Entrepreneur/comments/1xscm4v/how_do_i_land_a_startup_internship_this_spring/",
-    "summary": "   I’m a college junior (math-econ) planning to take the spring semester off to work full-time at a startup, ideally in Chicago, January through May and possibly into the summer. My background is in data analysis (Python, SQL, R, Tableau, Excel) and government/economic development. I owned the data work for multiple projects and I want to move into a hands-on analytics role.   Most small startups I look at don’t post internships, so I’m trying to understand how the hiring actually works from the other side. For founders and early employees:     When you’ve taken on an intern, how did you find them?   What would make you take a cold email from a student seriously?   Should I send a concrete project pitch, or ask for a short conversation where I learn about the person&#39;s role first?     I’d also like to hear what mistakes students make when approaching startups.     &#32; submitted by &#32;   /u/Shot-Fly-6980       [link]   &#32;   [comments]  ",
-    "source": "https://www.reddit.com/r/Entrepreneur/.rss",
-    "score": 1,
-    "matched_keywords": [
-      "ai"
-    ],
-    "researched_at": "2026-11-15T07:53:55.825090+00:00"
+    "researched_at": "2026-11-16T08:01:38.411812+00:00"
   },
   {
     "title": "Entrepreneur's Time vs Money. Which AI tool actually made you money, not just saved you the time this year?",
@@ -214,29 +193,40 @@
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-11-15T07:53:55.825023+00:00"
+    "researched_at": "2026-11-16T08:01:38.411910+00:00"
   },
   {
-    "title": "Court denies motion to dismiss DRAM price fixing case",
-    "url": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal",
-    "summary": " Article URL:  https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal  \n Comments URL:  https://news.ycombinator.com/item?id=50502988  \n Points: 71 \n # Comments: 16 ",
+    "title": "Crows make decisions faster than we can",
+    "url": "https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html",
+    "summary": " Article URL:  https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html  \n Comments URL:  https://news.ycombinator.com/item?id=50509023  \n Points: 226 \n # Comments: 150 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-11-15T07:53:55.824908+00:00"
+    "researched_at": "2026-11-16T08:01:38.411799+00:00"
   },
   {
-    "title": "A family tree of software job titles",
-    "url": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/",
-    "summary": " Article URL:  https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/  \n Comments URL:  https://news.ycombinator.com/item?id=50499038  \n Points: 279 \n # Comments: 139 ",
+    "title": "A short explainer on how El Niño works [video]",
+    "url": "https://www.youtube.com/watch?v=7_JF3etiAv8",
+    "summary": " Article URL:  https://www.youtube.com/watch?v=7_JF3etiAv8  \n Comments URL:  https://news.ycombinator.com/item?id=50509308  \n Points: 223 \n # Comments: 96 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
-      "software"
+      "ai"
     ],
-    "researched_at": "2026-11-15T07:53:55.824922+00:00"
+    "researched_at": "2026-11-16T08:01:38.411795+00:00"
+  },
+  {
+    "title": "\"how do you know you'll make it?\", \"well, even if I don't, I'll learn something and apply it in my next run\" thoughts in my head",
+    "url": "https://www.reddit.com/r/Entrepreneur/comments/1xwx8c4/how_do_you_know_youll_make_it_well_even_if_i_dont/",
+    "summary": "   There isn&#39;t a day without these doubts coming up when trying to run a business of your own; at least I know I have many of those days   But, even still, I know that I gotta keep being disciplined in my work and in my mind   I know that I should prioritize the highest ROI work of the business   And I know that there&#39;s only one way for me to lose, and that&#39;s to stop   I may not be a successful or serial entrepreneur, heck I may even be right at the start, but truth be told, I feel like I have a mission and I&#39;m not gonna give up   I don&#39;t treat entrepreneurship as the end-goal; I consider it a journey. A journey of problem solving, making mistake and learning, and while we&#39;re at it, make some bucks too.   Do you also doubt yourself from time to time?     &#32; submitted by &#32;   /u/Odd_Awareness_6935       [link]   &#32;   [comments]  ",
+    "source": "https://www.reddit.com/r/Entrepreneur/.rss",
+    "score": 1,
+    "matched_keywords": [
+      "business"
+    ],
+    "researched_at": "2026-11-16T08:01:38.411838+00:00"
   },
   {
     "title": "📋 Entrepreneur Moderator Applications Open - Apply Now!",
@@ -245,25 +235,25 @@
     "source": "https://www.reddit.com/r/Entrepreneur/.rss",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-15T07:53:55.824964+00:00"
+    "researched_at": "2026-11-16T08:01:38.411808+00:00"
   },
   {
-    "title": "We're Asking an Appeals Court to Require a Warrant for ALPR Searches",
-    "url": "https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches",
-    "summary": " Article URL:  https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches  \n Comments URL:  https://news.ycombinator.com/item?id=50503255  \n Points: 198 \n # Comments: 53 ",
+    "title": "What's Next for Nvidia?",
+    "url": "https://steveblank.com/2026/11/15/whats-next-for-nvidia/",
+    "summary": " Article URL:  https://steveblank.com/2026/11/15/whats-next-for-nvidia/  \n Comments URL:  https://news.ycombinator.com/item?id=50512235  \n Points: 212 \n # Comments: 279 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-15T07:53:55.824901+00:00"
+    "researched_at": "2026-11-16T08:01:38.411759+00:00"
   },
   {
-    "title": "The Evolving Story of How Chemistry Became Biology",
-    "url": "https://www.quantamagazine.org/the-evolving-story-of-how-chemistry-became-biology-20261112/",
-    "summary": " Article URL:  https://www.quantamagazine.org/the-evolving-story-of-how-chemistry-became-biology-20261112/  \n Comments URL:  https://news.ycombinator.com/item?id=50482222  \n Points: 34 \n # Comments: 6 ",
+    "title": "Universal XSS in uBlock Origin from website-driven element picker",
+    "url": "https://iter.ca/post/ubo-uxss/",
+    "summary": " Article URL:  https://iter.ca/post/ubo-uxss/  \n Comments URL:  https://news.ycombinator.com/item?id=50513160  \n Points: 296 \n # Comments: 78 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-15T07:53:55.824959+00:00"
+    "researched_at": "2026-11-16T08:01:38.411739+00:00"
   },
   {
     "title": "Thankful Thursday: Free Resources and Tools | November 12, 2026",
@@ -272,16 +262,7 @@
     "source": "https://www.reddit.com/r/Entrepreneur/.rss",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-15T07:53:55.825027+00:00"
-  },
-  {
-    "title": "Talent Tuesday: Services and Collabs | November 10, 2026",
-    "url": "https://www.reddit.com/r/Entrepreneur/comments/1xsh8et/talent_tuesday_services_and_collabs_november_10/",
-    "summary": "   Looking to hire, get hired, or find a collaborator? Post what you&#39;re offering or what you need. Keep it brief: who you are, what you do, and how to reach you. No spamming.     &#32; submitted by &#32;   /u/AutoModerator       [link]   &#32;   [comments]  ",
-    "source": "https://www.reddit.com/r/Entrepreneur/.rss",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-11-15T07:53:55.825078+00:00"
+    "researched_at": "2026-11-16T08:01:38.411915+00:00"
   },
   {
     "title": "Success Saturday: What's Going Right | November 14, 2026",
@@ -290,43 +271,43 @@
     "source": "https://www.reddit.com/r/Entrepreneur/.rss",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-15T07:53:55.824968+00:00"
+    "researched_at": "2026-11-16T08:01:38.411861+00:00"
   },
   {
-    "title": "SpaceX catches the Starship to end Flight 15",
-    "url": "https://www.spacex.com/launches/starship-flight-15",
-    "summary": "  https://x.com/SpaceX/status/2121316300702056595   https://youtu.be/jHlpfNSpBmw?t=3233  \n \n Comments URL:  https://news.ycombinator.com/item?id=50500963  \n Points: 1092 \n # Comments: 722 ",
+    "title": "Stop Filming in Log",
+    "url": "https://digitalfilms.wordpress.com/2026/11/15/stop-filming-in-log/",
+    "summary": " Article URL:  https://digitalfilms.wordpress.com/2026/11/15/stop-filming-in-log/  \n Comments URL:  https://news.ycombinator.com/item?id=50514093  \n Points: 39 \n # Comments: 22 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-15T07:53:55.824918+00:00"
+    "researched_at": "2026-11-16T08:01:38.411732+00:00"
   },
   {
-    "title": "Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP",
-    "url": "https://github.com/Tthanh2k6/turbo-browser-mcp",
-    "summary": " Article URL:  https://github.com/Tthanh2k6/turbo-browser-mcp  \n Comments URL:  https://news.ycombinator.com/item?id=50503930  \n Points: 26 \n # Comments: 4 ",
+    "title": "Skydio's asymmetrical F10 Lightrunner solves a problem with fixed-wing drones",
+    "url": "https://spectrum.ieee.org/skydio-f10-lightrunner-asymmetrical-drone",
+    "summary": " Article URL:  https://spectrum.ieee.org/skydio-f10-lightrunner-asymmetrical-drone  \n Comments URL:  https://news.ycombinator.com/item?id=50512296  \n Points: 31 \n # Comments: 2 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-15T07:53:55.824893+00:00"
+    "researched_at": "2026-11-16T08:01:38.411756+00:00"
   },
   {
-    "title": "PyPI's redesigned project pages with clearer security signals are now live",
-    "url": "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/",
-    "summary": " Article URL:  https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/  \n Comments URL:  https://news.ycombinator.com/item?id=50497892  \n Points: 232 \n # Comments: 99 ",
+    "title": "Protomaps: Self-hosting map tiles has gotten cheap and easy",
+    "url": "https://bruceroettgers.eu/blog/protomaps/",
+    "summary": " Article URL:  https://bruceroettgers.eu/blog/protomaps/  \n Comments URL:  https://news.ycombinator.com/item?id=50509837  \n Points: 292 \n # Comments: 54 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-15T07:53:55.824928+00:00"
+    "researched_at": "2026-11-16T08:01:38.411780+00:00"
   },
   {
-    "title": "Project Zero will disclose vulnerabilities 90 days after reporting",
-    "url": "https://projectzero.google/2026/11/disclosure-policy.html",
-    "summary": " Article URL:  https://projectzero.google/2026/11/disclosure-policy.html  \n Comments URL:  https://news.ycombinator.com/item?id=50496051  \n Points: 229 \n # Comments: 97 ",
+    "title": "Preserving 30 years of Salon journalism",
+    "url": "https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/",
+    "summary": " Article URL:  https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/  \n Comments URL:  https://news.ycombinator.com/item?id=50511806  \n Points: 137 \n # Comments: 38 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-15T07:53:55.824950+00:00"
+    "researched_at": "2026-11-16T08:01:38.411766+00:00"
   },
   {
     "title": "Powering through burnout?",
@@ -335,43 +316,52 @@
     "source": "https://www.reddit.com/r/Entrepreneur/.rss",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-15T07:53:55.825007+00:00"
+    "researched_at": "2026-11-16T08:01:38.411893+00:00"
   },
   {
-    "title": "One Man's Quest to Create the Perfect Whiskey Glass",
-    "url": "https://www.nytimes.com/2026/11/13/dining/drinks/kurt-josef-zalto-whiskey-glass.html",
-    "summary": " Article URL:  https://www.nytimes.com/2026/11/13/dining/drinks/kurt-josef-zalto-whiskey-glass.html  \n Comments URL:  https://news.ycombinator.com/item?id=50486880  \n Points: 25 \n # Comments: 8 ",
+    "title": "Old Bitly links are being hijacked",
+    "url": "https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/",
+    "summary": " Article URL:  https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/  \n Comments URL:  https://news.ycombinator.com/item?id=50511395  \n Points: 259 \n # Comments: 138 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-15T07:53:55.824953+00:00"
+    "researched_at": "2026-11-16T08:01:38.411770+00:00"
   },
   {
-    "title": "My favourite modern NES games",
-    "url": "https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games/",
-    "summary": " Article URL:  https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games/  \n Comments URL:  https://news.ycombinator.com/item?id=50503465  \n Points: 38 \n # Comments: 3 ",
+    "title": "Mini.nvim Is Now on Tangled",
+    "url": "https://tangled.org/nvim-mini.org/mini.nvim",
+    "summary": " Article URL:  https://tangled.org/nvim-mini.org/mini.nvim  \n Comments URL:  https://news.ycombinator.com/item?id=50512231  \n Points: 59 \n # Comments: 14 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-15T07:53:55.824897+00:00"
+    "researched_at": "2026-11-16T08:01:38.411762+00:00"
   },
   {
-    "title": "KDE: The documentary [video]",
-    "url": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
-    "summary": " Article URL:  https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c  \n Comments URL:  https://news.ycombinator.com/item?id=50496976  \n Points: 442 \n # Comments: 96 ",
+    "title": "Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests",
+    "url": "https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html",
+    "summary": " Article URL:  https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html  \n Comments URL:  https://news.ycombinator.com/item?id=50509411  \n Points: 506 \n # Comments: 218 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-15T07:53:55.824943+00:00"
+    "researched_at": "2026-11-16T08:01:38.411791+00:00"
   },
   {
-    "title": "How did Woz write the Apple 1 BASIC before building the computer?",
-    "url": "https://retrocomputing.stackexchange.com/questions/17957",
-    "summary": " Article URL:  https://retrocomputing.stackexchange.com/questions/17957  \n Comments URL:  https://news.ycombinator.com/item?id=50501594  \n Points: 189 \n # Comments: 84 ",
+    "title": "How to make almost anything",
+    "url": "https://pub.cba.mit.edu/863.26/site/",
+    "summary": " Article URL:  https://pub.cba.mit.edu/863.26/site/  \n Comments URL:  https://news.ycombinator.com/item?id=50514470  \n Points: 136 \n # Comments: 25 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-15T07:53:55.824915+00:00"
+    "researched_at": "2026-11-16T08:01:38.411721+00:00"
+  },
+  {
+    "title": "Handwriting, as a Font",
+    "url": "https://ductus.sorenblank.com",
+    "summary": " Article URL:  https://ductus.sorenblank.com  \n Comments URL:  https://news.ycombinator.com/item?id=50509972  \n Points: 240 \n # Comments: 45 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-11-16T08:01:38.411777+00:00"
   },
   {
     "title": "Feedback Friday: Rate My Ideas | November 13, 2026",
@@ -380,33 +370,42 @@
     "source": "https://www.reddit.com/r/Entrepreneur/.rss",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-15T07:53:55.825001+00:00"
+    "researched_at": "2026-11-16T08:01:38.411887+00:00"
   },
   {
-    "title": "Disk encryption on NetBSD – achieving secrecy",
-    "url": "https://netbsd.org/~nia/disk-encrypt/",
-    "summary": " Article URL:  https://netbsd.org/~nia/disk-encrypt/  \n Comments URL:  https://news.ycombinator.com/item?id=50504277  \n Points: 3 \n # Comments: 0 ",
+    "title": "Eclipse Mosquitto – An open source MQTT broker",
+    "url": "https://github.com/eclipse-mosquitto/mosquitto",
+    "summary": " Article URL:  https://github.com/eclipse-mosquitto/mosquitto  \n Comments URL:  https://news.ycombinator.com/item?id=50509416  \n Points: 88 \n # Comments: 30 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-15T07:53:55.824881+00:00"
+    "researched_at": "2026-11-16T08:01:38.411787+00:00"
   },
   {
-    "title": "Advancing science and engineering with Antigravity's /teamwork",
-    "url": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/",
-    "summary": " Article URL:  https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/  \n Comments URL:  https://news.ycombinator.com/item?id=50496811  \n Points: 192 \n # Comments: 40 ",
+    "title": "Debian Becomes Unresponsive after 6.1.0-55 Kernel Update",
+    "url": "https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1154101",
+    "summary": " Article URL:  https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1154101  \n Comments URL:  https://news.ycombinator.com/item?id=50514180  \n Points: 65 \n # Comments: 8 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-15T07:53:55.824947+00:00"
+    "researched_at": "2026-11-16T08:01:38.411727+00:00"
   },
   {
-    "title": "500 Lines or Less A 3D Modeller",
-    "url": "https://aosabook.org/en/500L/a-3d-modeller.html",
-    "summary": " Article URL:  https://aosabook.org/en/500L/a-3d-modeller.html  \n Comments URL:  https://news.ycombinator.com/item?id=50483431  \n Points: 44 \n # Comments: 5 ",
+    "title": "Coles hit by a cybersecurity incident",
+    "url": "https://www.colesgroup.com.au/updates/",
+    "summary": " Article URL:  https://www.colesgroup.com.au/updates/  \n Comments URL:  https://news.ycombinator.com/item?id=50512824  \n Points: 94 \n # Comments: 70 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-15T07:53:55.824956+00:00"
+    "researched_at": "2026-11-16T08:01:38.411746+00:00"
+  },
+  {
+    "title": "Clice v1.0 Released: Welcome to Modern C++",
+    "url": "https://ykiko.me/en/articles/2105384023094834022/",
+    "summary": " Article URL:  https://ykiko.me/en/articles/2105384023094834022/  \n Comments URL:  https://news.ycombinator.com/item?id=50508715  \n Points: 138 \n # Comments: 78 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-11-16T08:01:38.411802+00:00"
   }
 ]
