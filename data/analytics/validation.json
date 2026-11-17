@@ -1,11 +1,6 @@
 [
   {
-    "path": "data/content/drafts/ai-made-building-cheap-running-it-isn-t-how-are-you-pricing-your-ai-features.json",
-    "passed": true,
-    "errors": []
-  },
-  {
-    "path": "data/content/drafts/what-is-more-challenging-zero-to-one-or-one-to-hundred-entrepreneurs-i-would-lov.json",
+    "path": "data/content/drafts/what-actually-happens-to-customer-feedback-after-businesses-collect-it.json",
     "passed": true,
     "errors": []
   },
@@ -20,7 +15,12 @@
     "errors": []
   },
   {
-    "path": "data/content/drafts/keep-alternating-between-wanting-to-fight-for-my-life-and-throw-in-the-towel-ent.json",
+    "path": "data/content/drafts/how-do-you-decide-a-marketing-channel-has-failed-before-you-ve-spent-forever-try.json",
+    "passed": true,
+    "errors": []
+  },
+  {
+    "path": "data/content/drafts/defending-your-numbers.json",
     "passed": true,
     "errors": []
   }
