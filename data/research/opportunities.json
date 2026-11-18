@@ -1,407 +1,197 @@
 [
   {
-    "title": "What actually happens to customer feedback after businesses collect it?",
-    "url": "https://www.reddit.com/r/Entrepreneur/comments/1xxkxph/what_actually_happens_to_customer_feedback_after/",
-    "summary": "   I understand why businesses collect customer feedback. It can help improve products, identify problems, build trust, support marketing, and influence sales.   But I’ve been wondering about what happens  after  the feedback comes in.   For example:     Do businesses actively organize and revisit customer feedback?   How often does positive feedback actually make its way into marketing materials, ads, websites, or sales conversations? If it goe!   Is negative feedback generally more likely to be acted on than positive feedback?   When feedback isn’t anonymous, do businesses maintain a relationship with those customers beyond the initial interaction?   Do they use those customer relationships to generate referrals, identify potential new clients, or discover other business opportunities?     I’m particularly interested in what happens to positive feedback, the compliments, customer stories, and experiences people share.   Does it become something businesses actively use, or is collecti",
-    "source": "https://www.reddit.com/r/Entrepreneur/.rss",
+    "title": "Launch HN: StarSling (YC P25) – Self-improving CI for agent-volume repos",
+    "url": "https://starsling.dev",
+    "summary": " We’re Yonas and Daniel and we’re building StarSling ( https://starsling.dev ), fast GitHub Actions runners with AI agents that ship PRs to continuously improve your tests and workflows. Every CI job gets its own ephemeral sandbox on the fastest Zen 5 machines and NVMe Disk with unlimited concurrency so a burst of agent PRs all run at once. We’re different from other runners because ours come with agents that cut down your CI bill over time. PRs are generated through our CI harness, which runs an agent loop that’s tuned to improve your CI speed and reduce cost. Mastra now merges over 1,800 PRs a month and we got their slowest workflow from 29m 56s on GitHub-hosted runners down to 5m 06s (5.87x) on StarSling. We realized the true value of having an agent loop running on top of fast runners when our agents found an 11-month-old performance bottleneck in better-auth. The fix made one of their test jobs 5.4x faster:  https://github.com/better-auth/better-auth/pull/10762 . I previously foun",
+    "source": "https://hnrss.org/frontpage",
     "score": 2,
     "matched_keywords": [
       "ai",
-      "business"
+      "workflow"
     ],
-    "researched_at": "2026-11-17T09:15:32.526310+00:00"
+    "researched_at": "2026-11-18T08:35:26.268232+00:00"
   },
   {
-    "title": "Sunday Steam: Vent It or Roast It | November 15, 2026",
-    "url": "https://www.reddit.com/r/Entrepreneur/comments/1xwpxu9/sunday_steam_vent_it_or_roast_it_november_15_2026/",
-    "summary": "   Had a week? Same. This is your consequence-free space to complain about clients, platforms, algorithms, your own decisions, or the general chaos of running a business. Keep it venting with no personal attacks. We&#39;ll be back to being professional tomorrow.     &#32; submitted by &#32;   /u/AutoModerator       [link]   &#32;   [comments]  ",
-    "source": "https://www.reddit.com/r/Entrepreneur/.rss",
-    "score": 2,
-    "matched_keywords": [
-      "ai",
-      "business"
-    ],
-    "researched_at": "2026-11-17T09:15:32.526328+00:00"
-  },
-  {
-    "title": "Professional Services firm on the edge of needing employees",
-    "url": "https://www.reddit.com/r/Entrepreneur/comments/1xtxo6x/professional_services_firm_on_the_edge_of_needing/",
-    "summary": "   I&#39;ve had a professional services business for a few years now (licensed professional). I spent the first two years just learning how to do projects on my own and deal with clients, and the third year heavily into marketing and networking, as well tightening up my services and pricing. Lots of ups and downs, lots of mistakes, but starting to find a rhythm.   I&#39;m at the point this year where I think I&#39;ve finally distilled what I do into a repeatable process as much as i can. Not automation, but basically a process that&#39;s mostly (80%?) the same for every project so there&#39;s not guessing and reinventing the wheel every time. My projects are basically 50% client facing, developing a project conceptually through successive meetings, and then 50% implementation. I&#39;ve been able to outsource probably half of the implementation, but not all of it. I&#39;m finding it very difficult to even consider outsourcing the client facing part since it&#39;s so personal and also re",
-    "source": "https://www.reddit.com/r/Entrepreneur/.rss",
-    "score": 2,
-    "matched_keywords": [
-      "automation",
-      "business"
-    ],
-    "researched_at": "2026-11-17T09:15:32.526418+00:00"
-  },
-  {
-    "title": "How do you decide a marketing channel has failed before you’ve spent forever trying to make it work?",
-    "url": "https://www.reddit.com/r/Entrepreneur/comments/1xtk6cg/how_do_you_decide_a_marketing_channel_has_failed/",
-    "summary": "   There are two expensive ways this can go.   You can quit early because the first attempt didn’t produce customers. You can also keep going for months because every disappointing result gets explained away as needing more time.   I don’t find “be consistent” particularly useful unless there’s some agreement about what you’re trying to learn.   Suppose a business starts doing outbound. If nobody responds, that’s a different situation from getting conversations with people who turn out to be a poor fit. And both are different from speaking with suitable buyers who understand the offer but don’t want it.   Calling all three “outbound isn’t working” loses information you could use to decide what to change.   I’d want to define the audience, the offer, and the evidence we expect to see before starting. Then keep enough of the approach stable to understand the response.   Changing the target customer, message, and service after every quiet week makes it difficult to tell whether anything i",
-    "source": "https://www.reddit.com/r/Entrepreneur/.rss",
-    "score": 2,
-    "matched_keywords": [
-      "ai",
-      "business"
-    ],
-    "researched_at": "2026-11-17T09:15:32.526432+00:00"
-  },
-  {
-    "title": "Defending your numbers",
-    "url": "https://www.reddit.com/r/Entrepreneur/comments/1xvqhkw/defending_your_numbers/",
-    "summary": "   Small growing business. 10 years in. Sometimes I am shocked how far I was able to get and hope I can keep it rolling. I get intimidated sometimes - I am in finance and I don’t have an advanced degree. Feel like people see this as a weakness.    I caught a fairly sizable mistake recently - and it makes me wonder if this person was trying to deceive me.    Regardless, be on your shit. Keep your books clean and current, easily accessible and 100% be able to defend your numbers. There will probably be a time in your career when you will need to stand on your numbers and explain them I am 100% thankful I was tight and ready for this one.      &#32; submitted by &#32;   /u/CreepinOnTheWeedend       [link]   &#32;   [comments]  ",
-    "source": "https://www.reddit.com/r/Entrepreneur/.rss",
-    "score": 2,
-    "matched_keywords": [
-      "ai",
-      "business"
-    ],
-    "researched_at": "2026-11-17T09:15:32.526339+00:00"
-  },
-  {
-    "title": "Windows 11 is collecting data on which coding agents and developer tools you use",
-    "url": "https://xusheng.dev/posts/windows-coding-agent-telemetry/",
-    "summary": " Article URL:  https://xusheng.dev/posts/windows-coding-agent-telemetry/  \n Comments URL:  https://news.ycombinator.com/item?id=50524736  \n Points: 583 \n # Comments: 419 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 1,
-    "matched_keywords": [
-      "developer"
-    ],
-    "researched_at": "2026-11-17T09:15:32.526205+00:00"
-  },
-  {
-    "title": "Trying to Scale Past 1 Million in Revenue - Physical Product Marketing/Branding",
-    "url": "https://www.reddit.com/r/Entrepreneur/comments/1xveuin/trying_to_scale_past_1_million_in_revenue/",
-    "summary": "   I know this is reddit and I&#39;ll likely be inundated with founders/marketers pitching their products/services but I&#39;d still like to get a better pulse on the tools and/or services I can currently use to help grow my business.   About: myself and 3 full time employees + a 40 hour per week VA. I hire freelancers for projects as needed to help with workload and to get projects moving.   Over the next ~18 months I want to grow the business to over 2 million in revenue (double current) and to 5-8 full time employees plus myself.   Currently we use slack for product management, but I&#39;m open to changing.   What are the best VALUE (not necessarily cheapest, but not enterprise level either) services, subscriptions, tools I should be using in my business.   Something I don&#39;t have much experience with is HR/payroll/benefits for an expanding team of US based remote workers.   Anything that can increase product management efficiency, especially scaling projects while only adding a ",
-    "source": "https://www.reddit.com/r/Entrepreneur/.rss",
-    "score": 1,
-    "matched_keywords": [
-      "business"
-    ],
-    "researched_at": "2026-11-17T09:15:32.526353+00:00"
-  },
-  {
-    "title": "The biggest breakthroughs in your business won't be \"big bang\" events, they will be small and incremental.",
-    "url": "https://www.reddit.com/r/Entrepreneur/comments/1xsse8u/the_biggest_breakthroughs_in_your_business_wont/",
-    "summary": "   Loads of people think that a business breakthrough is some &quot;big bang&quot; event.    In my experience, it&#39;s not like that at all.    It&#39;s an accumulation of minor breakthroughs, which eventually will all align and merge to create a the situation where a big breakthrough happens.    So, hang on in there. Experiment like crazy. Reflect. Build better. And someday all the stars will align and that big breakthrough will happen.      &#32; submitted by &#32;   /u/baghdadcafe       [link]   &#32;   [comments]  ",
-    "source": "https://www.reddit.com/r/Entrepreneur/.rss",
-    "score": 1,
-    "matched_keywords": [
-      "business"
-    ],
-    "researched_at": "2026-11-17T09:15:32.526438+00:00"
-  },
-  {
-    "title": "Suddenly I’m not scared anymore",
-    "url": "https://www.reddit.com/r/Entrepreneur/comments/1xunijh/suddenly_im_not_scared_anymore/",
-    "summary": "   I’ve had my LLC created for a few years now.    Started to work with a company, paid them a lot of money, and a year &amp; half later realized it was not for me, due to several reasons. One being they became pretty unresponsive and got the hint they were not taking me seriously (even though I paid them). It was also a mix of me not being ready, mentally and other ways.    After they ghosted me, (I filed trademark right before I realized they’re not answering me), I really felt lost as to what to do. I reached out to TONS of other places to help me launch. Little to no avail. What I had was pretty great (with said company), but I realized I was also being over charged, and paying a total of $33,000 to get it launched just didn’t sit right with me. Which is partly why I was scared, but I already thousands of dollars in, so I figured let me just continue on with them. Well the joke was on me because they never answered me again when I was ready to move forward.   So fast forward to tod",
-    "source": "https://www.reddit.com/r/Entrepreneur/.rss",
-    "score": 1,
-    "matched_keywords": [
-      "ai"
-    ],
-    "researched_at": "2026-11-17T09:15:32.526399+00:00"
-  },
-  {
-    "title": "Successful entrepenuers, what is your AI stack looking like as the year is coming to the end?",
-    "url": "https://www.reddit.com/r/Entrepreneur/comments/1xsgb0c/successful_entrepenuers_what_is_your_ai_stack/",
-    "summary": "   This year has been pretty intense with new models and tools being launched every other second. So as the year is coming to an end, I am curious what others are still using after testing a bunch.   So curious, successful entrepenuers, what is your AI stack looking like as the year is coming to the end?     &#32; submitted by &#32;   /u/dewharmony03       [link]   &#32;   [comments]  ",
-    "source": "https://www.reddit.com/r/Entrepreneur/.rss",
-    "score": 1,
-    "matched_keywords": [
-      "ai"
-    ],
-    "researched_at": "2026-11-17T09:15:32.526443+00:00"
-  },
-  {
-    "title": "Spamhaus new email sender requirements in November",
-    "url": "https://www.spamhaus.org/sender-guidelines/",
-    "summary": " Article URL:  https://www.spamhaus.org/sender-guidelines/  \n Comments URL:  https://news.ycombinator.com/item?id=50523784  \n Points: 108 \n # Comments: 96 ",
+    "title": "Tencent Hy4 Flash",
+    "url": "https://hy.tencent.ai/research/hy4-flash",
+    "summary": " Article URL:  https://hy.tencent.ai/research/hy4-flash  \n Comments URL:  https://news.ycombinator.com/item?id=50538184  \n Points: 115 \n # Comments: 16 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-11-17T09:15:32.526214+00:00"
+    "researched_at": "2026-11-18T08:35:26.268195+00:00"
   },
   {
-    "title": "OpenCode Browse",
-    "url": "https://opencode.ai/product/browse",
-    "summary": " Article URL:  https://opencode.ai/product/browse  \n Comments URL:  https://news.ycombinator.com/item?id=50523459  \n Points: 242 \n # Comments: 127 ",
+    "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
+    "url": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/",
+    "summary": " Article URL:  https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/  \n Comments URL:  https://news.ycombinator.com/item?id=50538303  \n Points: 165 \n # Comments: 223 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-11-17T09:15:32.526222+00:00"
+    "researched_at": "2026-11-18T08:35:26.268187+00:00"
   },
   {
-    "title": "Monday mentorship: ask anything | November 16, 2026",
-    "url": "https://www.reddit.com/r/Entrepreneur/comments/1xxjr28/monday_mentorship_ask_anything_november_16_2026/",
-    "summary": "   New to entrepreneurship or just starting out? This is your space. Ask the questions you&#39;re afraid to ask elsewhere.    Experienced folks, jump in and share what you wish someone had told you early on.     &#32; submitted by &#32;   /u/AutoModerator       [link]   &#32;   [comments]  ",
-    "source": "https://www.reddit.com/r/Entrepreneur/.rss",
-    "score": 1,
-    "matched_keywords": [
-      "ai"
-    ],
-    "researched_at": "2026-11-17T09:15:32.526315+00:00"
-  },
-  {
-    "title": "Mem Is Shutting Down",
-    "url": "https://get.mem.ai/blog/mem-is-shutting-down",
-    "summary": " Article URL:  https://get.mem.ai/blog/mem-is-shutting-down  \n Comments URL:  https://news.ycombinator.com/item?id=50526537  \n Points: 55 \n # Comments: 78 ",
+    "title": "Google's AI answers reducing search traffic by 40%",
+    "url": "https://revscope.co/blog/search-seo-geo-2026/",
+    "summary": " Article URL:  https://revscope.co/blog/search-seo-geo-2026/  \n Comments URL:  https://news.ycombinator.com/item?id=50540178  \n Points: 331 \n # Comments: 256 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-11-17T09:15:32.526183+00:00"
+    "researched_at": "2026-11-18T08:35:26.268170+00:00"
   },
   {
-    "title": "Launch HN: Axonnic (YC F26) – Sleeves that track fingers and estimate force",
-    "url": "https://news.ycombinator.com/item?id=50522776",
-    "summary": " Hi HN! We’re Arsh and Max, founders of Axonnic ( https://axonnic.com ). We’ve developed a forearm sleeve that reads muscle activity to decode finger movements and estimate fingertip force, while leaving the hands bare. It’s used to record human movement and generate training data for dextrous robots. Here’s a demo video:  https://youtube.com/shorts/xBrocTc9cfA  We’ve found that electromyography (EMG) is a much better way to train robots than by video alone because video only captures movement, not muscle activity or the effort behind the movement. A useful signal can be present even when the hand barely moves; just maintaining a grip involves muscle activation. The subtle muscle movements that can barely be picked up in video are the most important details for activities like sewing and delicate assembly. The sleeve has 64 channels of surface electromyography, or EMG. Electrodes on the skin detect electrical activity from muscles in the forearm. We distribute sensors across the forear",
+    "title": "Claude was trained on protein sequences at scale",
+    "url": "http://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences/",
+    "summary": " Article URL:  http://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences/  \n Comments URL:  https://news.ycombinator.com/item?id=50541619  \n Points: 39 \n # Comments: 13 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-11-17T09:15:32.526250+00:00"
+    "researched_at": "2026-11-18T08:35:26.268151+00:00"
   },
   {
-    "title": "Grazing sheep in fields with solar arrays",
-    "url": "https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains",
-    "summary": " Article URL:  https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains  \n Comments URL:  https://news.ycombinator.com/item?id=50520182  \n Points: 269 \n # Comments: 257 ",
+    "title": "Cerebras Disaggregated Inference",
+    "url": "https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference",
+    "summary": " Article URL:  https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference  \n Comments URL:  https://news.ycombinator.com/item?id=50540472  \n Points: 74 \n # Comments: 17 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-11-17T09:15:32.526262+00:00"
+    "researched_at": "2026-11-18T08:35:26.268161+00:00"
   },
   {
-    "title": "Future of technology",
-    "url": "https://www.reddit.com/r/Entrepreneur/comments/1xxpg3y/future_of_technology/",
-    "summary": "   Hi All,   I have created a few apps which I would personally find useful; however, given how easy it is to create technology nowadays with AI, is starting a tech company becoming obsolete and not really worth the effort?   Thanks!     &#32; submitted by &#32;   /u/Grand-Life8523       [link]   &#32;   [comments]  ",
-    "source": "https://www.reddit.com/r/Entrepreneur/.rss",
-    "score": 1,
-    "matched_keywords": [
-      "ai"
-    ],
-    "researched_at": "2026-11-17T09:15:32.526291+00:00"
-  },
-  {
-    "title": "Entrepreneur's Time vs Money. Which AI tool actually made you money, not just saved you the time this year?",
-    "url": "https://www.reddit.com/r/Entrepreneur/comments/1xu3o5b/entrepreneurs_time_vs_money_which_ai_tool/",
-    "summary": "   Saving time is nice and is probably future money. But it doesn&#39;t always shows up in bank account golden numbers   Mostly AI tools we tried this year made us work faster, but only a few of them actually changed revenue.   So for the year end review: Which AI tools had a real impact on your income? And which ones turned out to be nice to have?     &#32; submitted by &#32;   /u/bilal-cs       [link]   &#32;   [comments]  ",
-    "source": "https://www.reddit.com/r/Entrepreneur/.rss",
-    "score": 1,
-    "matched_keywords": [
-      "ai"
-    ],
-    "researched_at": "2026-11-17T09:15:32.526405+00:00"
-  },
-  {
-    "title": "40-domain study: 80% of Shopify stores expose /API/ucp/MCP, 0% /agents.md",
-    "url": "https://verisource.dev/benchmarks/ai-search-readiness-2026",
-    "summary": " Article URL:  https://verisource.dev/benchmarks/ai-search-readiness-2026  \n Comments URL:  https://news.ycombinator.com/item?id=50528364  \n Points: 6 \n # Comments: 0 ",
+    "title": "AI is killing All About Berlin",
+    "url": "https://nicolasbouliane.com/blog/death-by-ai",
+    "summary": " Article URL:  https://nicolasbouliane.com/blog/death-by-ai  \n Comments URL:  https://news.ycombinator.com/item?id=50542705  \n Points: 184 \n # Comments: 124 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-11-17T09:15:32.526170+00:00"
+    "researched_at": "2026-11-18T08:35:26.268127+00:00"
   },
   {
-    "title": "\"how do you know you'll make it?\", \"well, even if I don't, I'll learn something and apply it in my next run\" thoughts in my head",
-    "url": "https://www.reddit.com/r/Entrepreneur/comments/1xwx8c4/how_do_you_know_youll_make_it_well_even_if_i_dont/",
-    "summary": "   There isn&#39;t a day without these doubts coming up when trying to run a business of your own; at least I know I have many of those days   But, even still, I know that I gotta keep being disciplined in my work and in my mind   I know that I should prioritize the highest ROI work of the business   And I know that there&#39;s only one way for me to lose, and that&#39;s to stop   I may not be a successful or serial entrepreneur, heck I may even be right at the start, but truth be told, I feel like I have a mission and I&#39;m not gonna give up   I don&#39;t treat entrepreneurship as the end-goal; I consider it a journey. A journey of problem solving, making mistake and learning, and while we&#39;re at it, make some bucks too.   Do you also doubt yourself from time to time?     &#32; submitted by &#32;   /u/Odd_Awareness_6935       [link]   &#32;   [comments]  ",
-    "source": "https://www.reddit.com/r/Entrepreneur/.rss",
-    "score": 1,
-    "matched_keywords": [
-      "business"
-    ],
-    "researched_at": "2026-11-17T09:15:32.526323+00:00"
-  },
-  {
-    "title": "📋 Entrepreneur Moderator Applications Open - Apply Now!",
-    "url": "https://www.reddit.com/r/Entrepreneur/comments/1whbmdu/entrepreneur_moderator_applications_open_apply_now/",
-    "summary": "&#32; submitted by &#32;   /u/Moggehh       [link]   &#32;   [comments]  ",
-    "source": "https://www.reddit.com/r/Entrepreneur/.rss",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-11-17T09:15:32.526282+00:00"
-  },
-  {
-    "title": "Why 3dfx 1 cards had such a washed out color output?",
-    "url": "https://twitter.com/id_aa_carmack/status/2122478083319992513",
-    "summary": " Article URL:  https://twitter.com/id_aa_carmack/status/2122478083319992513  \n Comments URL:  https://news.ycombinator.com/item?id=50525575  \n Points: 115 \n # Comments: 30 ",
+    "title": "jQuery 4.1.0",
+    "url": "https://github.com/jquery/jquery/releases/tag/4.1.0",
+    "summary": " Article URL:  https://github.com/jquery/jquery/releases/tag/4.1.0  \n Comments URL:  https://news.ycombinator.com/item?id=50537156  \n Points: 315 \n # Comments: 163 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-17T09:15:32.526192+00:00"
+    "researched_at": "2026-11-18T08:35:26.268203+00:00"
   },
   {
-    "title": "What is w2rt6byl5nf1opmc-a.com?",
-    "url": "https://jack.cab/blog/siterate",
-    "summary": " Article URL:  https://jack.cab/blog/siterate  \n Comments URL:  https://news.ycombinator.com/item?id=50517602  \n Points: 343 \n # Comments: 150 ",
+    "title": "Why is Gemini 4 Carbon taking so long?",
+    "url": "https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/",
+    "summary": " Article URL:  https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/  \n Comments URL:  https://news.ycombinator.com/item?id=50541790  \n Points: 67 \n # Comments: 37 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-17T09:15:32.526276+00:00"
+    "researched_at": "2026-11-18T08:35:26.268143+00:00"
   },
   {
-    "title": "Time is not money it's access to existence and life.",
-    "url": "https://www.reddit.com/r/Entrepreneur/comments/1xya0yl/time_is_not_money_its_access_to_existence_and_life/",
-    "summary": "   Time is life&#39;s currency you always spend, but you can never earn back! Yes you can buy other peoples time but you won&#39;t ever be able to get back the time you have lost.      &#32; submitted by &#32;   /u/alinsabo       [link]   &#32;   [comments]  ",
-    "source": "https://www.reddit.com/r/Entrepreneur/.rss",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-11-17T09:15:32.526295+00:00"
-  },
-  {
-    "title": "Thankful Thursday: Free Resources and Tools | November 12, 2026",
-    "url": "https://www.reddit.com/r/Entrepreneur/comments/1xu71iu/thankful_thursday_free_resources_and_tools/",
-    "summary": "   Pay it forward. Drop your free resources, templates, tools, or anything else that&#39;s helped you and might help someone else. No strings attached; these resources have to be free.     &#32; submitted by &#32;   /u/AutoModerator       [link]   &#32;   [comments]  ",
-    "source": "https://www.reddit.com/r/Entrepreneur/.rss",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-11-17T09:15:32.526409+00:00"
-  },
-  {
-    "title": "Technical issue at JPMorgan Chase triggers online banking delays for US banks",
-    "url": "https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda",
-    "summary": " Article URL:  https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda  \n Comments URL:  https://news.ycombinator.com/item?id=50521045  \n Points: 771 \n # Comments: 644 ",
+    "title": "Why Fibonacci?",
+    "url": "https://www.evilgeniuslabs.org/why-fibonacci",
+    "summary": " Article URL:  https://www.evilgeniuslabs.org/why-fibonacci  \n Comments URL:  https://news.ycombinator.com/item?id=50542264  \n Points: 25 \n # Comments: 2 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-17T09:15:32.526258+00:00"
+    "researched_at": "2026-11-18T08:35:26.268132+00:00"
   },
   {
-    "title": "Talent Tuesday: Services and Collabs | November 17, 2026",
-    "url": "https://www.reddit.com/r/Entrepreneur/comments/1xyeprh/talent_tuesday_services_and_collabs_november_17/",
-    "summary": "   Looking to hire, get hired, or find a collaborator? Post what you&#39;re offering or what you need. Keep it brief: who you are, what you do, and how to reach you. No spamming.     &#32; submitted by &#32;   /u/AutoModerator       [link]   &#32;   [comments]  ",
-    "source": "https://www.reddit.com/r/Entrepreneur/.rss",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-11-17T09:15:32.526286+00:00"
-  },
-  {
-    "title": "Success Saturday: What's Going Right | November 14, 2026",
-    "url": "https://www.reddit.com/r/Entrepreneur/comments/1xvwwbp/success_saturday_whats_going_right_november_14/",
-    "summary": "   Big or small, a win is a win. First sale, first client, or first time paying yourself, share it here. This community loves to celebrate with you. No win is too minor to mention.     &#32; submitted by &#32;   /u/AutoModerator       [link]   &#32;   [comments]  ",
-    "source": "https://www.reddit.com/r/Entrepreneur/.rss",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-11-17T09:15:32.526344+00:00"
-  },
-  {
-    "title": "Running coding agents without handing them my credentials",
-    "url": "https://blog.antonio.cx/running-agents-with-lend",
-    "summary": " Article URL:  https://blog.antonio.cx/running-agents-with-lend  \n Comments URL:  https://news.ycombinator.com/item?id=50526152  \n Points: 112 \n # Comments: 70 ",
+    "title": "Web Browser Engineering (2021)",
+    "url": "https://browser.engineering/",
+    "summary": " Article URL:  https://browser.engineering/  \n Comments URL:  https://news.ycombinator.com/item?id=50537290  \n Points: 164 \n # Comments: 21 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-17T09:15:32.526187+00:00"
+    "researched_at": "2026-11-18T08:35:26.268199+00:00"
   },
   {
-    "title": "Powering through burnout?",
-    "url": "https://www.reddit.com/r/Entrepreneur/comments/1xuuq62/powering_through_burnout/",
-    "summary": "   What’s your strategy to get through those periods of burn out?   I don’t have the luxury of taking any sort of extended break, and am dealing with a critical illness on top which has been an added challenge. Any input would be greatly appreciated!     &#32; submitted by &#32;   /u/Coloradobluesguy       [link]   &#32;   [comments]  ",
-    "source": "https://www.reddit.com/r/Entrepreneur/.rss",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-11-17T09:15:32.526365+00:00"
-  },
-  {
-    "title": "Optimizely compromised, served malware on Zoom, GitLab",
-    "url": "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/",
-    "summary": " Article URL:  https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/  \n Comments URL:  https://news.ycombinator.com/item?id=50524767  \n Points: 322 \n # Comments: 138 ",
+    "title": "Quad9's withdrawal from France: A canary in the coal mine",
+    "url": "https://blog.cloudflare.com/quad9-withdrawal-from-france/",
+    "summary": " Article URL:  https://blog.cloudflare.com/quad9-withdrawal-from-france/  \n Comments URL:  https://news.ycombinator.com/item?id=50538994  \n Points: 528 \n # Comments: 162 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-17T09:15:32.526200+00:00"
+    "researched_at": "2026-11-18T08:35:26.268182+00:00"
   },
   {
-    "title": "Jiff 1.0: A datetime library for Rust",
-    "url": "https://burntsushi.net/jiff/",
-    "summary": " Article URL:  https://burntsushi.net/jiff/  \n Comments URL:  https://news.ycombinator.com/item?id=50519744  \n Points: 374 \n # Comments: 81 ",
+    "title": "Microsoft's ONNX Runtime has disappeared from GitHub",
+    "url": "https://github.com/microsoft/onnxruntime",
+    "summary": " Article URL:  https://github.com/microsoft/onnxruntime  \n Comments URL:  https://news.ycombinator.com/item?id=50539610  \n Points: 293 \n # Comments: 66 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-17T09:15:32.526266+00:00"
+    "researched_at": "2026-11-18T08:35:26.268178+00:00"
   },
   {
-    "title": "If an App Asks for Full Disk Access or System and App Protection Override",
-    "url": "https://support.apple.com/en-us/149699",
-    "summary": " Article URL:  https://support.apple.com/en-us/149699  \n Comments URL:  https://news.ycombinator.com/item?id=50526560  \n Points: 118 \n # Comments: 61 ",
+    "title": "Java4Shell: RCE in OpenJDK when processing Base64",
+    "url": "https://calif.io/java4shell/",
+    "summary": " Article URL:  https://calif.io/java4shell/  \n Comments URL:  https://news.ycombinator.com/item?id=50538240  \n Points: 861 \n # Comments: 221 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-17T09:15:32.526178+00:00"
+    "researched_at": "2026-11-18T08:35:26.268190+00:00"
   },
   {
-    "title": "How to Break into Security, Ptacek Edition (2012)",
-    "url": "https://krebsonsecurity.com/2012/06/how-to-break-into-security-ptacek-edition/",
-    "summary": " Article URL:  https://krebsonsecurity.com/2012/06/how-to-break-into-security-ptacek-edition/  \n Comments URL:  https://news.ycombinator.com/item?id=50524225  \n Points: 104 \n # Comments: 27 ",
+    "title": "Interviewed at a YC startup, found out they used my LinkedIn without permission",
+    "url": "https://reddit.com/r/recruitinghell/comments/1xyr6ml/interviewed_at_a_yc_startup_spent_30_hours/",
+    "summary": " Article URL:  https://reddit.com/r/recruitinghell/comments/1xyr6ml/interviewed_at_a_yc_startup_spent_30_hours/  \n Comments URL:  https://news.ycombinator.com/item?id=50542135  \n Points: 311 \n # Comments: 63 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-17T09:15:32.526210+00:00"
+    "researched_at": "2026-11-18T08:35:26.268138+00:00"
   },
   {
-    "title": "Frame – 31.5\" color ePaper display",
-    "url": "https://trmnl.com/blog/introducing-frame",
-    "summary": " Article URL:  https://trmnl.com/blog/introducing-frame  \n Comments URL:  https://news.ycombinator.com/item?id=50519354  \n Points: 403 \n # Comments: 282 ",
+    "title": "ID.me terms required for IRS sign-in",
+    "url": "https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in",
+    "summary": " Article URL:  https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in  \n Comments URL:  https://news.ycombinator.com/item?id=50540437  \n Points: 332 \n # Comments: 145 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-17T09:15:32.526272+00:00"
+    "researched_at": "2026-11-18T08:35:26.268165+00:00"
   },
   {
-    "title": "Feedback Friday: Rate My Ideas | November 13, 2026",
-    "url": "https://www.reddit.com/r/Entrepreneur/comments/1xv22lb/feedback_friday_rate_my_ideas_november_13_2026/",
-    "summary": "   Share your website, pitch, logo, idea, pricing, copy, or anything else you want honest eyes on. Tell us what you&#39;re looking for: brutal honesty, general impressions, or specific questions.    Return the favour and leave feedback for someone else while you&#39;re here.     &#32; submitted by &#32;   /u/AutoModerator       [link]   &#32;   [comments]  ",
-    "source": "https://www.reddit.com/r/Entrepreneur/.rss",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-11-17T09:15:32.526358+00:00"
-  },
-  {
-    "title": "Comcast's \"fiber-powered Wi-Fi\" is cable, AT&T says in false advertising case",
-    "url": "https://arstechnica.com/tech-policy/2026/11/comcast-falsely-advertises-cable-internet-as-fiber-powered-att-lawsuit-says/",
-    "summary": " Article URL:  https://arstechnica.com/tech-policy/2026/11/comcast-falsely-advertises-cable-internet-as-fiber-powered-att-lawsuit-says/  \n Comments URL:  https://news.ycombinator.com/item?id=50523025  \n Points: 143 \n # Comments: 113 ",
+    "title": "GoGoGrandparent (YC S16) Is a Front End JavaScript / TypeScript Engineer",
+    "url": "https://www.ycombinator.com/companies/gogograndparent/jobs/05woouL-front-end-javascript-typescript-engineer",
+    "summary": " Article URL:  https://www.ycombinator.com/companies/gogograndparent/jobs/05woouL-front-end-javascript-typescript-engineer  \n Comments URL:  https://news.ycombinator.com/item?id=50541538  \n Points: 0 \n # Comments: 0 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-17T09:15:32.526227+00:00"
+    "researched_at": "2026-11-18T08:35:26.268157+00:00"
   },
   {
-    "title": "Chemistry is Actually Geometry",
-    "url": "https://chillphysicsenjoyer.substack.com/p/chemistry-is-actually-geometry",
-    "summary": " Article URL:  https://chillphysicsenjoyer.substack.com/p/chemistry-is-actually-geometry  \n Comments URL:  https://news.ycombinator.com/item?id=50522643  \n Points: 219 \n # Comments: 109 ",
+    "title": "Australia's full national topographic library at your fingertips",
+    "url": "https://www.ga.gov.au/news/australias-full-national-topographic-library-at-your-fingertips",
+    "summary": " Article URL:  https://www.ga.gov.au/news/australias-full-national-topographic-library-at-your-fingertips  \n Comments URL:  https://news.ycombinator.com/item?id=50542863  \n Points: 8 \n # Comments: 3 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-17T09:15:32.526254+00:00"
+    "researched_at": "2026-11-18T08:35:26.268117+00:00"
   },
   {
-    "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
-    "url": "https://www.cs.cmu.edu/learn/",
-    "summary": " Article URL:  https://www.cs.cmu.edu/learn/  \n Comments URL:  https://news.ycombinator.com/item?id=50522980  \n Points: 1456 \n # Comments: 197 ",
+    "title": "Archive Team is archiving the Apple Support Community (closes November 20, 2026)",
+    "url": "https://wiki.archiveteam.org/index.php/Apple_Discussions",
+    "summary": " Article URL:  https://wiki.archiveteam.org/index.php/Apple_Discussions  \n Comments URL:  https://news.ycombinator.com/item?id=50539747  \n Points: 177 \n # Comments: 58 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-17T09:15:32.526231+00:00"
+    "researched_at": "2026-11-18T08:35:26.268174+00:00"
   },
   {
-    "title": "BugMeNot has closed",
-    "url": "https://www.bugmenot.com/",
-    "summary": " Article URL:  https://www.bugmenot.com/  \n Comments URL:  https://news.ycombinator.com/item?id=50523601  \n Points: 522 \n # Comments: 231 ",
+    "title": "350 years ago, Ole Rømer discovered that light has a finite speed",
+    "url": "https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969",
+    "summary": " Article URL:  https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969  \n Comments URL:  https://news.ycombinator.com/item?id=50536813  \n Points: 322 \n # Comments: 94 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-17T09:15:32.526218+00:00"
+    "researched_at": "2026-11-18T08:35:26.268215+00:00"
   }
 ]
