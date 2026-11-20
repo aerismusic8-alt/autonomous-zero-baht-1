@@ -1,201 +1,191 @@
 [
   {
-    "title": "AI agents ask better questions than KPMG accountants in audit trial",
-    "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
-    "summary": " Article URL:  https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/  \n Comments URL:  https://news.ycombinator.com/item?id=50547777  \n Points: 447 \n # Comments: 199 ",
+    "title": "Anthropic’s Nasdaq debut",
+    "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
+    "summary": " Article URL:  https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/  \n Comments URL:  https://news.ycombinator.com/item?id=50562754  \n Points: 1063 \n # Comments: 2087 ",
     "source": "https://hnrss.org/frontpage",
     "score": 2,
     "matched_keywords": [
       "ai",
       "business"
     ],
-    "researched_at": "2026-11-19T08:50:41.734043+00:00"
+    "researched_at": "2026-11-20T08:36:30.659001+00:00"
   },
   {
-    "title": "Show HN: Take Voyager 1 apart, down to a single memory chip",
-    "url": "https://rshekhar.com/voyager/",
-    "summary": " Voyager 1 reached one light-day from Earth today. On the site you can: - see where both Voyagers are right now - open a nuclear battery to its 24 plutonium spheres - go into the data computer, down to a single memory chip - see how the Golden Record's cover explains how to play it - watch how Voyager 1 was fixed by radio - see which dish on Earth is listening to them, live I also made a 4-minute film from it:  https://www.youtube.com/watch?v=kpzsRo-c1_A  \n \n Comments URL:  https://news.ycombinator.com/item?id=50548161  \n Points: 191 \n # Comments: 49 ",
+    "title": "The 98% Slot Machine: How Paid Advertising Became an Extraction Tax",
+    "url": "https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine",
+    "summary": " Article URL:  https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine  \n Comments URL:  https://news.ycombinator.com/item?id=50564159  \n Points: 264 \n # Comments: 144 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-11-19T08:50:41.734025+00:00"
+    "researched_at": "2026-11-20T08:36:30.658985+00:00"
   },
   {
-    "title": "Seven new models at scalable price-performance",
-    "url": "https://microsoft.ai/news/microsoft-ignite-2026/",
-    "summary": " Article URL:  https://microsoft.ai/news/microsoft-ignite-2026/  \n Comments URL:  https://news.ycombinator.com/item?id=50548021  \n Points: 531 \n # Comments: 345 ",
+    "title": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
+    "url": "https://www.youtube.com/watch?v=lwfewYL7X0o",
+    "summary": " Article URL:  https://www.youtube.com/watch?v=lwfewYL7X0o  \n Comments URL:  https://news.ycombinator.com/item?id=50564366  \n Points: 102 \n # Comments: 203 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-11-19T08:50:41.734030+00:00"
+    "researched_at": "2026-11-20T08:36:30.658980+00:00"
   },
   {
-    "title": "Ruby2ßhell: Pre-authentication RCE on stock Rails",
-    "url": "https://verialabs.com/ruby2shell/",
-    "summary": " Article URL:  https://verialabs.com/ruby2shell/  \n Comments URL:  https://news.ycombinator.com/item?id=50556287  \n Points: 32 \n # Comments: 6 ",
+    "title": "Launch HN: Onlook (YC W25) – An open-source developer tool for designers",
+    "url": "https://github.com/onlook-dev/onlook/",
+    "summary": " Hey HN, I'm Daniel, founder of Onlook ( https://github.com/onlook-dev/onlook  and onlook.com). Onlook is a desktop app that puts a canvas on top of your real codebase, letting you design directly in code with the agent you already use. Over 25,000 designers and developers have supported the project, 100+ have contributed, and it's been the #1 trending repo in the world twice. We just rebuilt the entire product as an agentic design tool, and open-sourced it to the community. Here’s a demo video: ( https://youtu.be/BogcYWf4siM ) If you're an engineer, traditional engineering tools are largely built for convergence, whereas designers tend to explore and diverge on ideas. Onlook gives designers a familiar canvas while managing all of the dev processes that get between them and making mind-blowing designs in code. Designers can work on a multiple simultaneous worktrees that run on the real app locally, and every change lands as a PR you can review or throw away, so there aren’t mockups to ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
-      "ai"
+      "developer"
     ],
-    "researched_at": "2026-11-19T08:50:41.733945+00:00"
+    "researched_at": "2026-11-20T08:36:30.659016+00:00"
   },
   {
-    "title": "Palo Alto Networks to Acquire Applied Compute for $4.5B",
-    "url": "https://investors.paloaltonetworks.com/news-releases/news-release-details/palo-alto-networks-acquire-applied-compute-bringing-secure-open",
-    "summary": " Article URL:  https://investors.paloaltonetworks.com/news-releases/news-release-details/palo-alto-networks-acquire-applied-compute-bringing-secure-open  \n Comments URL:  https://news.ycombinator.com/item?id=50554009  \n Points: 56 \n # Comments: 14 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 1,
-    "matched_keywords": [
-      "ai"
-    ],
-    "researched_at": "2026-11-19T08:50:41.733984+00:00"
-  },
-  {
-    "title": "Genie 4 is now available",
-    "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/",
-    "summary": " Article URL:  https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/  \n Comments URL:  https://news.ycombinator.com/item?id=50550415  \n Points: 243 \n # Comments: 162 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 1,
-    "matched_keywords": [
-      "ai"
-    ],
-    "researched_at": "2026-11-19T08:50:41.734011+00:00"
-  },
-  {
-    "title": "Gemini 4 Neon",
-    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
-    "summary": " Article URL:  https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/  \n Comments URL:  https://news.ycombinator.com/item?id=50552424  \n Points: 773 \n # Comments: 638 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 1,
-    "matched_keywords": [
-      "ai"
-    ],
-    "researched_at": "2026-11-19T08:50:41.734002+00:00"
-  },
-  {
-    "title": "DaisyRose-27B",
-    "url": "https://www.radixark.com/blog/daisyrose-27b",
-    "summary": " Article URL:  https://www.radixark.com/blog/daisyrose-27b  \n Comments URL:  https://news.ycombinator.com/item?id=50551046  \n Points: 196 \n # Comments: 64 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 1,
-    "matched_keywords": [
-      "ai"
-    ],
-    "researched_at": "2026-11-19T08:50:41.734006+00:00"
-  },
-  {
-    "title": "Advancing chip design with OpenAI models",
-    "url": "https://openai.com/index/advancing-chip-design-with-our-models/",
-    "summary": " Article URL:  https://openai.com/index/advancing-chip-design-with-our-models/  \n Comments URL:  https://news.ycombinator.com/item?id=50549493  \n Points: 202 \n # Comments: 134 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 1,
-    "matched_keywords": [
-      "ai"
-    ],
-    "researched_at": "2026-11-19T08:50:41.734017+00:00"
-  },
-  {
-    "title": "We need smart people who give a shit",
-    "url": "https://violetpixel.com/blog/2026-11-17-we-need-smart-people-who-give-a-shit/",
-    "summary": " Article URL:  https://violetpixel.com/blog/2026-11-17-we-need-smart-people-who-give-a-shit/  \n Comments URL:  https://news.ycombinator.com/item?id=50554045  \n Points: 507 \n # Comments: 262 ",
+    "title": "What Comes After AGI?",
+    "url": "https://institute.deepmind.com/essays/what-comes-after-agi/",
+    "summary": " Article URL:  https://institute.deepmind.com/essays/what-comes-after-agi/  \n Comments URL:  https://news.ycombinator.com/item?id=50569519  \n Points: 32 \n # Comments: 63 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-19T08:50:41.733964+00:00"
+    "researched_at": "2026-11-20T08:36:30.658946+00:00"
   },
   {
-    "title": "Unreal Tournament 2004 in the Browser",
-    "url": "https://ut2004.dev/",
-    "summary": " Article URL:  https://ut2004.dev/  \n Comments URL:  https://news.ycombinator.com/item?id=50554935  \n Points: 150 \n # Comments: 70 ",
+    "title": "Vint Cerf on why TCP/IP was never patented",
+    "url": "https://seremot.com/p/vint-cerf-on-why-tcpip-was-never",
+    "summary": " Article URL:  https://seremot.com/p/vint-cerf-on-why-tcpip-was-never  \n Comments URL:  https://news.ycombinator.com/item?id=50568861  \n Points: 94 \n # Comments: 38 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-19T08:50:41.733952+00:00"
+    "researched_at": "2026-11-20T08:36:30.658960+00:00"
   },
   {
-    "title": "Unauthenticated remote code execution in Nginx",
-    "url": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
-    "summary": "  https://www.cve.org/CVERecord?id=CVE-2026-123633   https://www.cve.org/CVERecord?id=CVE-2026-123007  \n \n Comments URL:  https://news.ycombinator.com/item?id=50547374  \n Points: 1341 \n # Comments: 586 ",
+    "title": "Synology Security Advisory",
+    "url": "https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21",
+    "summary": " Article URL:  https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21  \n Comments URL:  https://news.ycombinator.com/item?id=50567209  \n Points: 138 \n # Comments: 105 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-19T08:50:41.734061+00:00"
+    "researched_at": "2026-11-20T08:36:30.658971+00:00"
   },
   {
-    "title": "Show HN: ExitPath – Open-source ways out of Slack, Notion and Microsoft 365",
-    "url": "https://exitpath-ruddy.vercel.app/",
-    "summary": " Article URL:  https://exitpath-ruddy.vercel.app/  \n Comments URL:  https://news.ycombinator.com/item?id=50547980  \n Points: 209 \n # Comments: 63 ",
+    "title": "Show HN: Cornhole News – A Hacker News inspired site for news across the Midwest",
+    "url": "https://cornholenews.news",
+    "summary": " Article URL:  https://cornholenews.news  \n Comments URL:  https://news.ycombinator.com/item?id=50561515  \n Points: 220 \n # Comments: 101 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-19T08:50:41.734038+00:00"
+    "researched_at": "2026-11-20T08:36:30.659022+00:00"
   },
   {
-    "title": "Multiple vulnerabilities in Regexp and String case conversion",
-    "url": "https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/",
-    "summary": " Article URL:  https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/  \n Comments URL:  https://news.ycombinator.com/item?id=50554038  \n Points: 229 \n # Comments: 75 ",
+    "title": "RegExr: Temporarily Offline",
+    "url": "https://regexr.com/",
+    "summary": " Article URL:  https://regexr.com/  \n Comments URL:  https://news.ycombinator.com/item?id=50567374  \n Points: 77 \n # Comments: 38 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-19T08:50:41.733976+00:00"
+    "researched_at": "2026-11-20T08:36:30.658968+00:00"
   },
   {
-    "title": "LLM assisted reverse engineering",
-    "url": "https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering",
-    "summary": " Article URL:  https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering  \n Comments URL:  https://news.ycombinator.com/item?id=50553225  \n Points: 184 \n # Comments: 46 ",
+    "title": "Rebuilding my local voice assistant pipeline",
+    "url": "https://blog.platypush.tech/article/Rewriting-my-voice-assistant-pipeline",
+    "summary": " Article URL:  https://blog.platypush.tech/article/Rewriting-my-voice-assistant-pipeline  \n Comments URL:  https://news.ycombinator.com/item?id=50566261  \n Points: 105 \n # Comments: 16 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-19T08:50:41.733996+00:00"
+    "researched_at": "2026-11-20T08:36:30.658976+00:00"
   },
   {
-    "title": "Inside Deutsche Bank",
-    "url": "https://www.inside-db.com/",
-    "summary": " Article URL:  https://www.inside-db.com/  \n Comments URL:  https://news.ycombinator.com/item?id=50547620  \n Points: 672 \n # Comments: 227 ",
+    "title": "Postgres 19 Repack: Faster, Built-In Table Bloat Cleanup",
+    "url": "https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/",
+    "summary": " Article URL:  https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/  \n Comments URL:  https://news.ycombinator.com/item?id=50569516  \n Points: 75 \n # Comments: 8 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-19T08:50:41.734048+00:00"
+    "researched_at": "2026-11-20T08:36:30.658951+00:00"
   },
   {
-    "title": "Gemini 4 Neon looks like an Opus 5.5 competitor",
-    "url": "https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/",
-    "summary": " Article URL:  https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/  \n Comments URL:  https://news.ycombinator.com/item?id=50554374  \n Points: 219 \n # Comments: 69 ",
+    "title": "PostgreSQL 19",
+    "url": "https://www.postgresql.org/docs/release/19.0/",
+    "summary": " Article URL:  https://www.postgresql.org/docs/release/19.0/  \n Comments URL:  https://news.ycombinator.com/item?id=50569890  \n Points: 125 \n # Comments: 3 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-19T08:50:41.733958+00:00"
+    "researched_at": "2026-11-20T08:36:30.658936+00:00"
   },
   {
-    "title": "F-22 Next-Generation micro–Data Transfer Cartridge (mDTC)",
-    "url": "https://sam.gov/workspace/contract/opp/8948e8601e964c6aba9c801eee16b1be/view",
-    "summary": " Article URL:  https://sam.gov/workspace/contract/opp/8948e8601e964c6aba9c801eee16b1be/view  \n Comments URL:  https://news.ycombinator.com/item?id=50547583  \n Points: 173 \n # Comments: 111 ",
+    "title": "Pancreatic cancer halted by virus injection in three patients",
+    "url": "https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/",
+    "summary": "  https://archive.ph/2Et0x   https://clinicaltrials.gov/study/NCT06693986  \n \n Comments URL:  https://news.ycombinator.com/item?id=50563066  \n Points: 751 \n # Comments: 124 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-19T08:50:41.734055+00:00"
+    "researched_at": "2026-11-20T08:36:30.658994+00:00"
   },
   {
-    "title": "Anthropic prices initial public offering",
-    "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
-    "summary": " Article URL:  https://www.anthropic.com/news/anthropic-prices-initial-public-offering  \n Comments URL:  https://news.ycombinator.com/item?id=50553843  \n Points: 187 \n # Comments: 223 ",
+    "title": "OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)",
+    "url": "https://github.com/openssl/openssl/pull/33652",
+    "summary": " Article URL:  https://github.com/openssl/openssl/pull/33652  \n Comments URL:  https://news.ycombinator.com/item?id=50569226  \n Points: 198 \n # Comments: 146 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-19T08:50:41.733990+00:00"
+    "researched_at": "2026-11-20T08:36:30.658956+00:00"
   },
   {
-    "title": "15M web servers on one VM – smoltcp, DPDK, AF_XDP",
-    "url": "https://kapteko.com/15-million-webservers/",
-    "summary": " Article URL:  https://kapteko.com/15-million-webservers/  \n Comments URL:  https://news.ycombinator.com/item?id=50556533  \n Points: 75 \n # Comments: 11 ",
+    "title": "Jujutsu Primer",
+    "url": "https://ethanlowman.com/posts/jj-primer/",
+    "summary": " Article URL:  https://ethanlowman.com/posts/jj-primer/  \n Comments URL:  https://news.ycombinator.com/item?id=50570628  \n Points: 76 \n # Comments: 40 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-19T08:50:41.733927+00:00"
+    "researched_at": "2026-11-20T08:36:30.658922+00:00"
+  },
+  {
+    "title": "GIMP now has UI tests",
+    "url": "https://www.gimp.org/news/2026/11/16/gimp-ui-tests/",
+    "summary": " Article URL:  https://www.gimp.org/news/2026/11/16/gimp-ui-tests/  \n Comments URL:  https://news.ycombinator.com/item?id=50569985  \n Points: 117 \n # Comments: 95 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-11-20T08:36:30.658932+00:00"
+  },
+  {
+    "title": "Former YC President: \"Stop!”",
+    "url": "https://geoffralston.substack.com/p/stop",
+    "summary": " Article URL:  https://geoffralston.substack.com/p/stop  \n Comments URL:  https://news.ycombinator.com/item?id=50570984  \n Points: 24 \n # Comments: 11 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-11-20T08:36:30.658911+00:00"
+  },
+  {
+    "title": "FFmpeg 9.1 'Gauss'",
+    "url": "https://ffmpeg.org/download.html#release_9.1",
+    "summary": " Article URL:  https://ffmpeg.org/download.html#release_9.1  \n Comments URL:  https://news.ycombinator.com/item?id=50569998  \n Points: 93 \n # Comments: 20 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-11-20T08:36:30.658927+00:00"
+  },
+  {
+    "title": "Claude solves two open problems in the physics of black holes",
+    "url": "https://www.anthropic.com/research/claude-black-hole-physics",
+    "summary": " Article URL:  https://www.anthropic.com/research/claude-black-hole-physics  \n Comments URL:  https://news.ycombinator.com/item?id=50563148  \n Points: 479 \n # Comments: 219 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-11-20T08:36:30.658990+00:00"
+  },
+  {
+    "title": "ChatGPT for SNES",
+    "url": "https://www.bxfoundry.com/chatgpt_snes/",
+    "summary": " Article URL:  https://www.bxfoundry.com/chatgpt_snes/  \n Comments URL:  https://news.ycombinator.com/item?id=50568548  \n Points: 71 \n # Comments: 21 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-11-20T08:36:30.658964+00:00"
   }
 ]
